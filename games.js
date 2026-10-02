@@ -8,6 +8,14 @@
 //   added  - date (YYYY-MM-DD), newest show first
 const GAMES = [
   {
+    slug: "monster-day-care",
+    title: "Monster Day Care",
+    emoji: "👶",
+    blurb: "A cozy daycare for baby monsters. What could go wrong.",
+    color: "#5cf2ff",
+    added: "2026-10-02",
+  },
+  {
     slug: "button-masher",
     title: "Button Masher",
     emoji: "👆",
