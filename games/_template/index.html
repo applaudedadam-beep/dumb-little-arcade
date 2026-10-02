@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My New Game</title>
+  <!-- Copy this whole folder to games/your-game-name/, then add it to games.js -->
+  <style>
+    body { margin: 0; background: #111; color: #fff; font-family: system-ui, sans-serif; overflow: hidden; }
+    .back-home {
+      position: fixed; top: 12px; left: 12px; z-index: 1000;
+      background: #ffd23f; color: #2a1a00; padding: 8px 12px; border-radius: 8px;
+      text-decoration: none; font-weight: 700; font-size: 14px;
+    }
+    canvas { display: block; }
+  </style>
+</head>
+<body>
+  <a class="back-home" href="../../">← Arcade</a>
+  <canvas id="game"></canvas>
+
+  <script>
+    const canvas = document.getElementById("game");
+    const ctx = canvas.getContext("2d");
+    function resize() { canvas.width = innerWidth; canvas.height = innerHeight; }
+    addEventListener("resize", resize);
+    resize();
+
+    let t = 0;
+    function loop() {
+      t += 1 / 60;
+      ctx.fillStyle = "#111";
+      ctx.fillRect(0, 0, canvas.width, canvas.height);
+      ctx.fillStyle = "#ffd23f";
+      ctx.font = "bold 32px system-ui";
+      ctx.textAlign = "center";
+      ctx.fillText("your dumb game goes here", canvas.width / 2, canvas.height / 2 + Math.sin(t * 3) * 20);
+      requestAnimationFrame(loop);
+    }
+    loop();
+  </script>
+</body>
+</html>

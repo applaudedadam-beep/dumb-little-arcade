@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <title>Button Masher</title>
+  <style>
+    * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+    body {
+      margin: 0; min-height: 100vh; display: grid; place-items: center;
+      background: #120d24; color: #f3eeff; font-family: system-ui, sans-serif;
+      user-select: none; overflow: hidden; text-align: center;
+    }
+    .back-home {
+      position: fixed; top: 12px; left: 12px; z-index: 10;
+      background: #ffd23f; color: #2a1a00; padding: 8px 12px; border-radius: 8px;
+      text-decoration: none; font-weight: 700; font-size: 14px;
+    }
+    #status { font-size: 20px; color: #a99cd0; min-height: 28px; margin: 0 16px; }
+    #score { font-size: 96px; font-weight: 900; margin: 8px 0; font-variant-numeric: tabular-nums; }
+    #timer { font-size: 22px; font-weight: 700; color: #5cf2ff; min-height: 30px; }
+    #btn {
+      width: 220px; height: 220px; border-radius: 50%; border: none; margin: 24px 0;
+      background: radial-gradient(circle at 35% 30%, #ff9ab6, #ff5c8a 55%, #c2185b);
+      box-shadow: 0 12px 0 #8a0f3e, 0 18px 30px rgba(0,0,0,.5);
+      color: #fff; font-size: 30px; font-weight: 900; cursor: pointer;
+      transition: transform .04s, box-shadow .04s; touch-action: manipulation;
+    }
+    #btn:active, #btn.pressed { transform: translateY(10px); box-shadow: 0 2px 0 #8a0f3e, 0 6px 12px rgba(0,0,0,.5); }
+    #btn:disabled { filter: grayscale(.8); cursor: not-allowed; }
+    #best { color: #ffd23f; font-weight: 700; }
+    .pop {
+      position: fixed; pointer-events: none; font-weight: 900; font-size: 22px;
+      animation: floatUp .7s forwards;
+    }
+    @keyframes floatUp { to { transform: translateY(-80px) scale(1.4); opacity: 0; } }
+  </style>
+</head>
+<body>
+  <a class="back-home" href="../../">← Arcade</a>
+  <div>
+    <div id="status">Click the button to start. You have 10 seconds.</div>
+    <div id="score">0</div>
+    <div id="timer"></div>
+    <button id="btn">MASH</button>
+    <div>Best: <span id="best">0</span></div>
+  </div>
+
+  <script>
+    const DURATION = 10;
+    const btn = document.getElementById("btn");
+    const scoreEl = document.getElementById("score");
+    const timerEl = document.getElementById("timer");
+    const statusEl = document.getElementById("status");
+    const bestEl = document.getElementById("best");
+
+    let best = 0;
+    try { best = +localStorage.getItem("button-masher-best") || 0; } catch {}
+    bestEl.textContent = best;
+
+    let score = 0, running = false, endAt = 0;
+    const words = ["nice", "wow", "go!", "ouch", "🔥", "bonk", "yes", "AAA", "💪", "click"];
+    const insults = [
+      [0,  "Did you fall asleep?"],
+      [20, "My grandma clicks faster. She's a ghost."],
+      [40, "Respectable. Barely."],
+      [60, "Okay, that's actually decent."],
+      [80, "Your mouse is filing a complaint."],
+      [100, "Absolute menace."],
+      [130, "Are you cheating? Be honest."],
+    ];
+
+    function pop(x, y) {
+      const el = document.createElement("div");
+      el.className = "pop";
+      el.textContent = words[Math.floor(Math.random() * words.length)];
+      el.style.left = x + (Math.random() * 60 - 30) + "px";
+      el.style.top = y - 20 + "px";
+      el.style.color = `hsl(${Math.random() * 360}, 90%, 70%)`;
+      document.body.appendChild(el);
+      setTimeout(() => el.remove(), 700);
+    }
+
+    function tick() {
+      const left = Math.max(0, (endAt - performance.now()) / 1000);
+      timerEl.textContent = left.toFixed(2) + "s";
+      if (left > 0) return requestAnimationFrame(tick);
+      running = false;
+      btn.disabled = true;
+      const line = insults.filter(([n]) => score >= n).pop()[1];
+      let msg = `${score} clicks (${(score / DURATION).toFixed(1)}/sec). ${line}`;
+      if (score > best) {
+        best = score;
+        bestEl.textContent = best;
+        try { localStorage.setItem("button-masher-best", best); } catch {}
+        msg = "🏆 NEW BEST! " + msg;
+      }
+      statusEl.textContent = msg;
+      timerEl.textContent = "Time!";
+      setTimeout(() => { btn.disabled = false; btn.textContent = "AGAIN"; }, 1000);
+    }
+
+    function mash(e) {
+      e.preventDefault();
+      if (btn.disabled) return;
+      if (!running) {
+        running = true;
+        score = 0;
+        endAt = performance.now() + DURATION * 1000;
+        statusEl.textContent = "GO GO GO";
+        btn.textContent = "MASH";
+        requestAnimationFrame(tick);
+      }
+      score++;
+      scoreEl.textContent = score;
+      const p = e.touches ? e.touches[0] : e;
+      pop(p.clientX, p.clientY);
+    }
+
+    // pointerdown fires faster than click and works for mouse + touch
+    btn.addEventListener("pointerdown", mash);
+    // spacebar works too, but holding it down doesn't count
+    addEventListener("keydown", e => {
+      if (e.code === "Space" && !e.repeat) {
+        btn.classList.add("pressed");
+        const r = btn.getBoundingClientRect();
+        mash({ preventDefault() { e.preventDefault(); }, clientX: r.left + r.width / 2, clientY: r.top });
+      }
+    });
+    addEventListener("keyup", e => { if (e.code === "Space") btn.classList.remove("pressed"); });
+  </script>
+</body>
+</html>

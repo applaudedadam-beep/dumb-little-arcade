@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dumb Little Arcade</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🕹️</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Rubik:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>DUMB LITTLE<br><span>ARCADE</span></h1>
+    <p class="tagline">silly stupid games for me and my friends. no ads. no logins. no quality control.</p>
+    <div class="controls">
+      <input id="search" type="search" placeholder="find a game…" autocomplete="off">
+      <button id="random" type="button">🎲 Surprise me</button>
+    </div>
+  </header>
+
+  <main>
+    <p id="count" class="count"></p>
+    <div id="grid" class="grid"></div>
+    <p id="empty" class="empty" hidden>No games match that. Go make one.</p>
+  </main>
+
+  <footer>insert coin to continue · made with questionable judgment</footer>
+
+  <script src="games.js"></script>
+  <script>
+    const grid = document.getElementById("grid");
+    const search = document.getElementById("search");
+    const empty = document.getElementById("empty");
+    const sorted = [...GAMES].sort((a, b) => (b.added || "").localeCompare(a.added || ""));
+
+    document.getElementById("count").textContent =
+      `${GAMES.length} game${GAMES.length === 1 ? "" : "s"} and counting`;
+
+    function isNew(dateStr) {
+      if (!dateStr) return false;
+      return (Date.now() - new Date(dateStr).getTime()) / 864e5 < 14;
+    }
+
+    function render(filter = "") {
+      const q = filter.trim().toLowerCase();
+      const list = sorted.filter(g => (g.title + " " + g.blurb).toLowerCase().includes(q));
+      grid.innerHTML = "";
+      list.forEach((g, i) => {
+        const a = document.createElement("a");
+        a.className = "card";
+        a.href = `games/${g.slug}/`;
+        a.style.setProperty("--accent", g.color || "#7c5cff");
+        a.style.animationDelay = `${i * 60}ms`;
+        a.innerHTML = `
+          ${isNew(g.added) ? '<span class="badge">NEW</span>' : ""}
+          <div class="emoji">${g.emoji || "🎮"}</div>
+          <h2></h2>
+          <p></p>
+          <span class="play">PLAY ▶</span>`;
+        a.querySelector("h2").textContent = g.title;
+        a.querySelector("p").textContent = g.blurb || "";
+        grid.appendChild(a);
+      });
+      empty.hidden = list.length > 0;
+    }
+
+    search.addEventListener("input", e => render(e.target.value));
+    document.getElementById("random").addEventListener("click", () => {
+      const g = GAMES[Math.floor(Math.random() * GAMES.length)];
+      if (g) location.href = `games/${g.slug}/`;
+    });
+    render();
+  </script>
+</body>
+</html>
