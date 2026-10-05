@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 32 32" role="img" aria-labelledby="title">
+  <title id="title">Health — cast bronze heart</title>
+  <defs>
+    <linearGradient id="health-rim" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#b89357"/><stop offset=".4" stop-color="#8e6935"/><stop offset="1" stop-color="#50351d"/>
+    </linearGradient>
+    <linearGradient id="health-face" x1="0" y1="0" x2=".7" y2="1">
+      <stop stop-color="#dec18a"/><stop offset=".4" stop-color="#bc954f"/><stop offset="1" stop-color="#86602f"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#health-rim)" stroke="#1a120c" stroke-width="1.55" stroke-linejoin="round" d="M16 28 5.7 18C-1 11 3 3 9.5 3 12.4 3 14.4 4.6 16 6.8 17.6 4.6 19.6 3 22.5 3 29 3 33 11 26.3 18Z"/>
+  <path fill="url(#health-face)" stroke="#78562e" stroke-width=".45" d="M16 24.6 7.6 16.4C2.5 11 5.5 5.5 9.7 5.5 12.8 5.5 14.3 8.1 16 10.8 17.7 8.1 19.2 5.5 22.3 5.5 26.5 5.5 29.5 11 24.4 16.4Z"/>
+  <path fill="none" stroke="#efd7a2" stroke-width=".8" stroke-linecap="round" d="M4.9 11.1C4.4 7.9 6.8 5.1 9.8 5.1 12.3 5.1 14.1 7.4 15.9 9.7M17.3 7.8C19.1 5.3 21.5 4.6 23.7 5.4"/>
+  <path fill="none" stroke="#5b3f23" stroke-width=".8" stroke-linecap="round" d="M6.4 17.6 16 26.7 25.7 17.5"/>
+  <path fill="none" stroke="#dfc28a" stroke-opacity=".55" stroke-width=".6" d="M7.8 13.6C7 12.3 6.9 10.6 7.6 9.4"/>
+  <path fill="none" stroke="#654522" stroke-opacity=".32" stroke-width=".35" d="M10.4 15.4 12.1 14.8M20.3 17.2 21.8 16.4M15.7 21.1 17 20.5M20.5 10.7 22 10.4"/>
+</svg>

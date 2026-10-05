@@ -1,0 +1,767 @@
+{
+  "formatVersion": 1,
+  "assetRevision": "unit-v5",
+  "packageVersion": "5.0.0",
+  "layoutRevision": "5.0.0",
+  "layoutSha256": "208afa3bf818b41661215b5b76edd6402cbbf7e65152f108e8943c269bf770fd",
+  "canvas": {
+    "width": 880,
+    "height": 1240,
+    "aspectRatio": "22:31"
+  },
+  "zones": {
+    "command": [
+      72,
+      112,
+      148,
+      192
+    ],
+    "devotion": [
+      744,
+      92,
+      812,
+      168
+    ],
+    "name": [
+      144,
+      656,
+      740,
+      710
+    ],
+    "type": [
+      130,
+      738,
+      350,
+      764
+    ],
+    "geometry": [
+      370,
+      738,
+      750,
+      764
+    ],
+    "text": [
+      120,
+      800,
+      760,
+      986
+    ],
+    "attack": [
+      76,
+      1062,
+      172,
+      1158
+    ],
+    "health": [
+      700,
+      1064,
+      808,
+      1160
+    ]
+  },
+  "artwork": [
+    130,
+    121,
+    755,
+    614
+  ],
+  "typography": {
+    "name": [
+      30,
+      28,
+      26,
+      24,
+      22
+    ],
+    "geometry_ladder": [
+      20,
+      18,
+      16,
+      14
+    ],
+    "command": 64,
+    "devotion": 64,
+    "attack": 72,
+    "health": 72,
+    "text_ladder": [
+      [
+        26,
+        32
+      ],
+      [
+        24,
+        30
+      ],
+      [
+        22,
+        28
+      ]
+    ],
+    "continuation_indent": 20,
+    "fonts": {
+      "title": "Noto Serif SemiBold",
+      "body": "Lato Regular",
+      "body_italic": "Lato Italic",
+      "label": "Lato Bold"
+    },
+    "font_note": "Pin the actual .ttf binaries in the repo. The hashes in the v3.2 fit-report do not match current Google Fonts releases.",
+    "type_ladder": [
+      16,
+      15,
+      14,
+      13
+    ]
+  },
+  "routing": {
+    "grammar": "Every rule in the catalogue is either a standalone ALL-CAPS token or 'LEAD — sentence'. Verified across all 235 units; there are no exceptions. Routing is therefore structural, not a whitelist.",
+    "rarity_words": [
+      "LEGENDARY",
+      "MYTHIC"
+    ],
+    "type_words": [
+      "DEITY"
+    ],
+    "standalone_known": [
+      "FIXED",
+      "RESERVE",
+      "VIGIL",
+      "RANGE 1",
+      "RANGE 2",
+      "RANGE 3",
+      "PRESENCE 3",
+      "BOUND",
+      "LEVY",
+      "PREPARED",
+      "MEMORIALIZE",
+      "INHERIT"
+    ],
+    "standalone_rule": "The rail carries geometry only — where a Unit stands and how far it reaches: FIXED, RESERVE, VIGIL, RANGE <n>, PRESENCE <n>. Every other standalone token is an ability, not a position, so it belongs in the text box: MEMORIALIZE, PREPARED, BOUND, INHERIT, LEVY. Rarity words drive the rail's rarity label and DEITY drives the type. A standalone token outside standalone_known still routes to the body, and the renderer flags it so a new keyword is noticed by design rather than absorbed silently.",
+    "lead_rule": "The text before the em dash is a keyword lead when it is all-caps and at most three words; it renders in the bold weight. The whole rule always stays in the body.",
+    "lead_known": [
+      "PLAY",
+      "OFFICE",
+      "ARRIVAL",
+      "FULFILL",
+      "DOOM",
+      "FEAT",
+      "READY",
+      "CHANNEL",
+      "DUTY",
+      "TRANSFORM",
+      "CLASH",
+      "PETITION",
+      "OMEN",
+      "FEATS",
+      "COMMIT",
+      "COMPLETE",
+      "RETURN",
+      "DAWN",
+      "COUNSEL",
+      "DUSK",
+      "FINAL DEED",
+      "UPHOLD",
+      "TRIUMPH",
+      "ANSWER",
+      "ARTICLE",
+      "CLAIM",
+      "PREPARED",
+      "WEIGH",
+      "LEAVES PLAY",
+      "SPEND",
+      "HEIR",
+      "RECORD",
+      "LEAVE VIGIL",
+      "OUTSIDERS",
+      "LEGACY",
+      "MEMORIALIZE",
+      "BREAK",
+      "FAVORED",
+      "DISSOLVE"
+    ],
+    "note": "A rarity word is only removed from the body after it is asserted equal to the unit's rarity field.",
+    "geometry_keywords": [
+      "FIXED",
+      "RESERVE",
+      "VIGIL"
+    ],
+    "geometry_prefix": [
+      "RANGE ",
+      "PRESENCE "
+    ]
+  },
+  "inkSpec": {
+    "dark": {
+      "name": [
+        37,
+        29,
+        23
+      ],
+      "body": [
+        37,
+        29,
+        23
+      ],
+      "lead": [
+        74,
+        50,
+        22
+      ],
+      "threshold_lead": [
+        92,
+        60,
+        18
+      ],
+      "divider": [
+        150,
+        132,
+        106
+      ],
+      "flavor": [
+        78,
+        66,
+        54
+      ],
+      "rail": [
+        232,
+        224,
+        206
+      ],
+      "command": [
+        42,
+        33,
+        24
+      ],
+      "devotion": [
+        56,
+        36,
+        8
+      ],
+      "attack": [
+        20,
+        30,
+        40
+      ],
+      "health": [
+        72,
+        18,
+        14
+      ]
+    },
+    "light": {
+      "name": [
+        243,
+        236,
+        222
+      ],
+      "body": [
+        238,
+        231,
+        216
+      ],
+      "lead": [
+        234,
+        202,
+        138
+      ],
+      "threshold_lead": [
+        224,
+        188,
+        124
+      ],
+      "divider": [
+        122,
+        112,
+        96
+      ],
+      "flavor": [
+        186,
+        176,
+        160
+      ],
+      "rail": [
+        232,
+        224,
+        206
+      ],
+      "command": [
+        240,
+        234,
+        222
+      ],
+      "devotion": [
+        238,
+        208,
+        132
+      ],
+      "attack": [
+        198,
+        214,
+        230
+      ],
+      "health": [
+        240,
+        162,
+        150
+      ]
+    }
+  },
+  "ink": {
+    "Neutral": {
+      "name": [
+        37,
+        29,
+        23
+      ],
+      "body": [
+        37,
+        29,
+        23
+      ],
+      "lead": [
+        74,
+        50,
+        22
+      ],
+      "threshold_lead": [
+        92,
+        60,
+        18
+      ],
+      "divider": [
+        122,
+        112,
+        96
+      ],
+      "flavor": [
+        78,
+        66,
+        54
+      ],
+      "command": [
+        42,
+        33,
+        24
+      ],
+      "devotion": [
+        56,
+        36,
+        8
+      ],
+      "attack": [
+        20,
+        30,
+        40
+      ],
+      "health": [
+        72,
+        18,
+        14
+      ]
+    },
+    "Hellenic": {
+      "name": [
+        37,
+        29,
+        23
+      ],
+      "body": [
+        37,
+        29,
+        23
+      ],
+      "lead": [
+        74,
+        50,
+        22
+      ],
+      "threshold_lead": [
+        92,
+        60,
+        18
+      ],
+      "divider": [
+        122,
+        112,
+        96
+      ],
+      "flavor": [
+        78,
+        66,
+        54
+      ],
+      "command": [
+        42,
+        33,
+        24
+      ],
+      "devotion": [
+        56,
+        36,
+        8
+      ],
+      "attack": [
+        20,
+        30,
+        40
+      ],
+      "health": [
+        72,
+        18,
+        14
+      ]
+    },
+    "Roman": {
+      "name": [
+        37,
+        29,
+        23
+      ],
+      "body": [
+        37,
+        29,
+        23
+      ],
+      "lead": [
+        74,
+        50,
+        22
+      ],
+      "threshold_lead": [
+        92,
+        60,
+        18
+      ],
+      "divider": [
+        122,
+        112,
+        96
+      ],
+      "flavor": [
+        78,
+        66,
+        54
+      ],
+      "command": [
+        42,
+        33,
+        24
+      ],
+      "devotion": [
+        56,
+        36,
+        8
+      ],
+      "attack": [
+        20,
+        30,
+        40
+      ],
+      "health": [
+        72,
+        18,
+        14
+      ]
+    },
+    "Norse": {
+      "name": [
+        243,
+        236,
+        222
+      ],
+      "body": [
+        37,
+        29,
+        23
+      ],
+      "lead": [
+        74,
+        50,
+        22
+      ],
+      "threshold_lead": [
+        92,
+        60,
+        18
+      ],
+      "divider": [
+        122,
+        112,
+        96
+      ],
+      "flavor": [
+        78,
+        66,
+        54
+      ],
+      "command": [
+        240,
+        234,
+        222
+      ],
+      "devotion": [
+        238,
+        208,
+        132
+      ],
+      "attack": [
+        198,
+        214,
+        230
+      ],
+      "health": [
+        240,
+        162,
+        150
+      ]
+    },
+    "Kemetic": {
+      "name": [
+        243,
+        236,
+        222
+      ],
+      "body": [
+        238,
+        231,
+        216
+      ],
+      "lead": [
+        234,
+        202,
+        138
+      ],
+      "threshold_lead": [
+        224,
+        188,
+        124
+      ],
+      "divider": [
+        150,
+        132,
+        106
+      ],
+      "flavor": [
+        186,
+        176,
+        160
+      ],
+      "command": [
+        240,
+        234,
+        222
+      ],
+      "devotion": [
+        238,
+        208,
+        132
+      ],
+      "attack": [
+        198,
+        214,
+        230
+      ],
+      "health": [
+        240,
+        162,
+        150
+      ]
+    },
+    "Mesopotamian": {
+      "name": [
+        37,
+        29,
+        23
+      ],
+      "body": [
+        37,
+        29,
+        23
+      ],
+      "lead": [
+        74,
+        50,
+        22
+      ],
+      "threshold_lead": [
+        92,
+        60,
+        18
+      ],
+      "divider": [
+        122,
+        112,
+        96
+      ],
+      "flavor": [
+        78,
+        66,
+        54
+      ],
+      "command": [
+        42,
+        33,
+        24
+      ],
+      "devotion": [
+        56,
+        36,
+        8
+      ],
+      "attack": [
+        20,
+        30,
+        40
+      ],
+      "health": [
+        72,
+        18,
+        14
+      ]
+    },
+    "Hindu": {
+      "name": [
+        37,
+        29,
+        23
+      ],
+      "body": [
+        37,
+        29,
+        23
+      ],
+      "lead": [
+        74,
+        50,
+        22
+      ],
+      "threshold_lead": [
+        92,
+        60,
+        18
+      ],
+      "divider": [
+        122,
+        112,
+        96
+      ],
+      "flavor": [
+        78,
+        66,
+        54
+      ],
+      "command": [
+        42,
+        33,
+        24
+      ],
+      "devotion": [
+        56,
+        36,
+        8
+      ],
+      "attack": [
+        20,
+        30,
+        40
+      ],
+      "health": [
+        72,
+        18,
+        14
+      ]
+    }
+  },
+  "cssVars": {
+    "--name-x": "16.364%",
+    "--name-y": "52.903%",
+    "--name-w": "67.727%",
+    "--name-h": "4.355%",
+    "--art-x": "14.773%",
+    "--art-y": "9.758%",
+    "--art-w": "71.023%",
+    "--art-h": "39.758%",
+    "--rail-x": "14.773%",
+    "--rail-y": "59.516%",
+    "--rail-w": "70.455%",
+    "--rail-h": "2.097%",
+    "--rules-x": "13.636%",
+    "--rules-y": "64.516%",
+    "--rules-w": "72.727%",
+    "--rules-h": "15.000%",
+    "--cmd-x": "12.500%",
+    "--cmd-y": "12.258%",
+    "--div-x": "88.409%",
+    "--div-y": "10.484%",
+    "--atk-x": "14.091%",
+    "--atk-y": "89.516%",
+    "--hp-x": "85.682%",
+    "--hp-y": "89.677%",
+    "--holder": "12.273%"
+  },
+  "frames": {
+    "Neutral": {
+      "file": "frames/neutral.webp",
+      "sourceSha256": "6f590f7a1194558e8da1cebb0ba6eddae4a95c17abfd264a6bbfae879797424a",
+      "sha256": "a3e99dca6ac3e942d3c49232bf94047a0c43738998a6a4faf0901d271ca75aa2",
+      "bytes": 141642,
+      "recolor": "gray-stone",
+      "stone": {
+        "lift": 18,
+        "gain": 0.74
+      }
+    },
+    "Hellenic": {
+      "file": "frames/hellenic.webp",
+      "sourceSha256": "acd3585865d74c4ea2d9964196568d6461cdf90ca84b9b11918fe4b51bd3e8ff",
+      "sha256": "7fb34d576ce2858c7801530653c4717c758a631c801dfb86743cb8c133c9c2bc",
+      "bytes": 194056
+    },
+    "Roman": {
+      "file": "frames/roman.webp",
+      "sourceSha256": "f3c8123e62a02ae3800e69ac24fd125e5624f4480be4f6f4fb08edc78e67ea28",
+      "sha256": "456eb8b5fa3eefddef0b5f4b668ccf817c6af2e7354f77f54423a4d89ea26c6e",
+      "bytes": 228040
+    },
+    "Norse": {
+      "file": "frames/norse.webp",
+      "sourceSha256": "b09c6ad14846d90f766ed96a9323f13f028ece879713f594e21ccdb7d848d4d6",
+      "sha256": "b04e99eb6b9045b3d2ca69f64cbbc9961408d10958974151954269b11ac8767b",
+      "bytes": 282566
+    },
+    "Kemetic": {
+      "file": "frames/kemetic.webp",
+      "sourceSha256": "eb118c96807701216269ee26c98b1fe554a6f6ee5c4f4dba2e189c8d7f5727a8",
+      "sha256": "edb23c09db9ce5bd9f246ee13de5fab9fd38c6bff7d4bfc08372018b65c13280",
+      "bytes": 267752
+    },
+    "Mesopotamian": {
+      "file": "frames/mesopotamian.webp",
+      "sourceSha256": "dea12dd034c04b182dc3acd902617840b19d49295d5bb9d49cfa842bd82ecf45",
+      "sha256": "1da28211d4809b0afe8fe78acd44f00a0f56c21ccf24995a9b3aedb6b3758627",
+      "bytes": 296548
+    },
+    "Hindu": {
+      "file": "frames/hindu.webp",
+      "sourceSha256": "4f4b1d41c8704a62f2db19df21f800f1ad096c871d7822655f8666dbccb0f044",
+      "sha256": "d08a9be6f3d4a9a131ae4d24a1ae3e6205eb3fc9283e3dea855ca9cd89c73525",
+      "bytes": 227132
+    }
+  },
+  "fonts": {
+    "Lato-Regular.ttf": {
+      "file": "fonts/Lato-Regular.ttf",
+      "sha256": "d636e4683231f931eda222d588e944d082bfd3bdba02f928bee461c0f185b251",
+      "bytes": 656568
+    },
+    "Lato-Bold.ttf": {
+      "file": "fonts/Lato-Bold.ttf",
+      "sha256": "8a0aace75d33794eece4b28187bfc1df0bbd2888b5d8a56e01788c8d65d16be1",
+      "bytes": 656544
+    },
+    "NotoSerif-Variable.ttf": {
+      "file": "fonts/NotoSerif-Variable.ttf",
+      "sha256": "4d8e6761424656867019081a1a01336f3cb086982682698714054fc33f782713",
+      "bytes": 1887192
+    }
+  }
+}

@@ -1,0 +1,537 @@
+IDOLS OF DUST - THIRD-PARTY NOTICES
+
+This build of Idols of Dust carries the software and typefaces listed
+below. Each is used under the licence reproduced with it. These notices
+cover that material only; the game's own code, rules, copy and art are
+not offered under them.
+
+The sound, music and effect libraries the game licenses are named in the
+game under Options, Record, Credits.
+
+================================================================
+Phaser
+================================================================
+Package: phaser 3.90.0
+Licence: MIT
+Source: https://github.com/phaserjs/phaser
+In this build: the moving scenery behind the title and the Altar, inside
+the game script.
+
+The MIT License (MIT)
+
+Copyright (c) 2024 Richard Davey, Phaser Studio Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Phaser's source files carry these further copyright lines, each under
+the same MIT licence:
+- 2013-2025 Phaser Studio Inc.
+- 2025 Phaser Studio Inc.
+- 2013-2023 Photon Storm Ltd.
+- 2024 Photon Storm Ltd.
+- 2021 Photon Storm Ltd.
+- 2018 Photon Storm Ltd.
+- 2018 CodeAndWeb GmbH
+- 2021 RoboWhale
+
+Phaser carries the libraries in the next five sections inside its own
+script.
+
+Phaser's source also credits code it adapted or copied from other work.
+Each is listed here with what it became in Phaser, the licence its
+author gives it, and its copyright line. Where the author states no
+licence or no copyright line, the entry says so, and Phaser's credit is
+the only record.
+
+- gl-matrix, by Brandon Jones and Colin MacKenzie IV (toji)
+  https://github.com/toji/gl-matrix
+  In Phaser: Matrix3, Matrix4, Quaternion, Vector2, Vector3, Vector4.
+  MIT licence, whose text is given above.
+  Copyright (c) 2015-2025, Brandon Jones, Colin MacKenzie IV.
+
+- vecmath, by Matt DesLauriers
+  https://github.com/mattdesl/vecmath
+  In Phaser: the same six classes, beside gl-matrix.
+  Its package declares the BSD 2-Clause licence and its readme says
+  MIT. The BSD conditions and disclaimer are given in the Simplify.js
+  section below. It publishes no copyright line.
+
+- klasse, by Matt DesLauriers
+  https://github.com/mattdesl/klasse
+  In Phaser: the Class helper that Phaser's classes are built with.
+  BSD 2-Clause, as its package declares; the conditions and disclaimer
+  are given in the Simplify.js section below. It publishes no
+  copyright line.
+
+- line-circle-collision, by Matt DesLauriers
+  https://github.com/mattdesl/line-circle-collision
+  In Phaser: Geom.Intersects.LineToCircle.
+  MIT licence, whose text is given above.
+  Copyright (c) 2014 Matt DesLauriers
+
+- three.js
+  https://github.com/mrdoob/three.js
+  In Phaser: the Curves classes, based on the three.js curve classes
+  by zz85 (http://www.lab4games.net/zz85/blog), and the Bezier
+  functions of Math.Interpolation.
+  MIT licence, whose text is given above.
+  Copyright (c) 2010-2026 three.js authors
+
+- stable 0.1.8, by Angry Bytes
+  https://github.com/Two-Screen/stable
+  In Phaser: Utils.Array.StableSort.
+  MIT licence, whose text is given above.
+  Copyright (C) 2018 Angry Bytes and contributors.
+
+- quickselect, by Vladimir Agafonkin
+  https://github.com/mourner/quickselect
+  In Phaser: Utils.Array.QuickSelect.
+  ISC licence, whose text is given in the earcut section below.
+  Copyright (c) 2024, Vladimir Agafonkin
+
+- poly-decomp.js 0.3.0, by Stefan Hedman
+  https://github.com/schteppe/poly-decomp.js
+  In Phaser: the polygon decomposition behind Matter.js bodies.
+  MIT licence, whose text is given above.
+  Copyright (c) 2013 Stefan Hedman
+
+- base64-arraybuffer, by Niklas von Hertzen
+  https://github.com/niklasvh/base64-arraybuffer
+  In Phaser: Utils.Base64.
+  MIT licence, whose text is given above.
+  Copyright (c) 2012 Niklas von Hertzen
+
+- ios-inner-height, by Tyler Peterson (tylerjpeterson)
+  https://github.com/tylerjpeterson/ios-inner-height
+  In Phaser: DOM.GetInnerHeight.
+  MIT, as its package declares. It publishes no copyright line.
+
+- pnpoly, by W. Randolph Franklin, in the JavaScript form of Jonas
+  Raoni Soares Silva
+  http://www.ecse.rpi.edu/Homepages/wrf/Research/Short_Notes/pnpoly.html
+  (now at https://wrfranklin.org/Research/Short_Notes/pnpoly.html)
+  In Phaser: Geom.Polygon.Contains.
+  Its licence is reproduced in full below. No licence is known for the
+  JavaScript form.
+
+- JSTS, the JavaScript Topology Suite, by Bjorn Harrtell
+  https://github.com/bjornharrtell/jsts
+  In Phaser: Geom.Triangle.CircumCenter, adapted from
+  http://bjornharrtell.github.io/jsts/doc/api/jsts_geom_Triangle.js.html
+  JSTS is published under the Eclipse Distribution License 1.0 or the
+  Eclipse Public License 1.0. These notices take the EDL, reproduced
+  in full below.
+
+- A circumcircle routine by mutoo
+  https://gist.github.com/mutoo/5617691
+  In Phaser: Geom.Triangle.CircumCircle.
+  The gist states no licence.
+
+- Colour conversion code by Michael Jackson (mjijackson)
+  https://github.com/mjijackson
+  In Phaser: Display.Color.HueToComponent and RGBToHSV.
+  No licence is stated.
+
+- Array code by Mike Reinstein
+  In Phaser: Utils.Array.SpliceOne.
+  Phaser names no source, and no licence is known.
+
+- A matrix rotation routine by MrPolywhirl
+  http://jsfiddle.net/MrPolywhirl/NH42z/
+  In Phaser: Utils.Array.Matrix.RotateMatrix.
+  No licence is stated.
+
+- A UUID generator by Alexey Silin (LeverOne)
+  https://gist.github.com/1308368
+  In Phaser: the uuid method of Math.RandomDataGenerator.
+  The gist's own DO WTF YOU WANT TO PUBLIC LICENSE, which asks for no
+  notice.
+  Copyright (C) 2011 Alexey Silin
+
+- A rotation-about-an-axis method from an article at
+  http://www.gamedev.net/reference/articles/article1199.asp
+  In Phaser: Matrix4.makeRotationAxis. The article gives the method,
+  not code.
+
+- rvfc-polyfill, by ThaUnknown
+  https://github.com/ThaUnknown/rvfc-polyfill
+  In Phaser: the requestVideoFrameCallback polyfill, copied whole.
+  Its author publishes it under the GNU General Public License,
+  version 3 (https://www.gnu.org/licenses/gpl-3.0.html), and gives no
+  copyright line. The game plays no video.
+
+-----------------------------------------------------------
+The pnpoly licence
+-----------------------------------------------------------
+
+Copyright (c) 1970-2003, Wm. Randolph Franklin
+
+Permission is hereby granted, free of charge, to any person
+obtaining a copy of this software and associated documentation
+files (the "Software"), to deal in the Software without
+restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or
+sell copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following
+conditions:
+
+1. Redistributions of source code must retain the above
+copyright notice, this list of conditions and the following
+disclaimers.
+
+2. Redistributions in binary form must reproduce the above
+copyright notice in the documentation and/or other materials
+provided with the distribution.
+
+3. The name of W. Randolph Franklin may not be used to
+endorse or promote products derived from this Software without
+specific prior written permission.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+-----------------------------------------------------------
+Eclipse Distribution License - v 1.0, as JSTS gives it
+-----------------------------------------------------------
+
+Copyright (c) 2007, Eclipse Foundation, Inc. and its licensors.
+
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+  Redistributions of source code must retain the above copyright notice, this
+  list of conditions and the following disclaimer.
+
+  Redistributions in binary form must reproduce the above copyright notice,
+  this list of conditions and the following disclaimer in the documentation
+  and/or other materials provided with the distribution.
+
+  Neither the name of the Eclipse Foundation, Inc. nor the names of its
+  contributors may be used to endorse or promote products derived from this
+  software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+================================================================
+EventEmitter3
+================================================================
+Package: eventemitter3 (inside Phaser)
+Licence: MIT
+Source: https://github.com/primus/eventemitter3
+
+The MIT License (MIT)
+
+Copyright (c) 2014 Arnout Kazemier
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================
+Matter.js
+================================================================
+Package: matter-js 0.20.0 (inside Phaser)
+Licence: MIT
+Source: https://github.com/liabru/matter-js
+
+The MIT License (MIT)
+
+Copyright (c) Liam Brummitt and contributors.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Matter.js carries code under these notices, as its source gives them:
+- Copyright (c) Minko Gechev (MIT license), from javascript-algorithms
+  (https://github.com/mgechev/javascript-algorithms)
+- Copyright (c) Gavin Kistner, under http://phrogz.net/js/_ReuseLicense.txt
+- Copyright (c) Paul Bourke (use permitted), from
+  http://paulbourke.net/geometry/polygonmesh/
+
+Its SVG path reader also cites svg.topoly.js
+(https://github.com/wout/svg.topoly.js), which its author publishes
+under the MIT licence: Copyright (c) 2018 Wout Fierens.
+
+================================================================
+earcut
+================================================================
+Package: earcut 2.2.4 (inside Phaser)
+Licence: ISC
+Source: https://github.com/mapbox/earcut
+
+ISC License
+
+Copyright (c) 2016, Mapbox
+
+Permission to use, copy, modify, and/or distribute this software for any purpose
+with or without fee is hereby granted, provided that the above copyright notice
+and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND
+FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS
+OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
+TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF
+THIS SOFTWARE.
+
+================================================================
+Simplify.js
+================================================================
+Package: simplify-js (adapted inside Phaser)
+Licence: BSD 2-Clause
+Source: https://github.com/mourner/simplify-js
+
+Copyright (c) 2017, Vladimir Agafonkin
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are
+permitted provided that the following conditions are met:
+
+   1. Redistributions of source code must retain the above copyright notice, this list of
+      conditions and the following disclaimer.
+
+   2. Redistributions in binary form must reproduce the above copyright notice, this list
+      of conditions and the following disclaimer in the documentation and/or other materials
+      provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY
+EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
+TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+================================================================
+RBush
+================================================================
+Package: rbush (forked inside Phaser)
+Licence: MIT
+Source: https://github.com/mourner/rbush
+
+MIT License
+
+Copyright (c) 2016 Vladimir Agafonkin
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+================================================================
+Build helpers
+================================================================
+The game script also carries two small runtime helpers written into it
+by the build: the module preload shim from Vite, and the CommonJS wrapper
+from @rollup/plugin-commonjs. Both are under the MIT licence, whose
+permission and warranty text is given in the Phaser section above.
+- Vite: Copyright (c) 2019-present, VoidZero Inc. and Vite contributors
+  (https://github.com/vitejs/vite)
+- @rollup/plugin-commonjs: Copyright (c) 2019 RollupJS Plugin Contributors
+  (https://github.com/rollup/plugins/graphs/contributors)
+
+================================================================
+Lato
+================================================================
+Font: Lato 2.015, Regular and Bold
+Licence: SIL Open Font License 1.1 (full text below)
+Files: assets/ui/unit-frame-v5/fonts/Lato-Regular.ttf, Lato-Bold.ttf
+In this build: the card faces.
+
+Copyright (c) 2011-2015 by tyPoland Lukasz Dziedzic (http://www.typoland.com/)
+with Reserved Font Name "Lato". Licensed under the SIL Open Font License,
+Version 1.1 (http://scripts.sil.org/OFL).
+
+Lato is a trademark of tyPoland Lukasz Dziedzic.
+
+================================================================
+Noto Serif
+================================================================
+Font: Noto Serif 2.015, variable
+Licence: SIL Open Font License 1.1 (full text below)
+Files: assets/ui/unit-frame-v5/fonts/NotoSerif-Variable.ttf
+In this build: the card faces.
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)
+
+Noto is a trademark of Google LLC.
+
+================================================================
+SIL Open Font License 1.1
+================================================================
+The licence of Lato and Noto Serif. A copy with both copyright lines
+travels beside the font files as assets/ui/unit-frame-v5/fonts/OFL.txt.
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+https://openfontlicense.org
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded,
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+
+================================================================
+The desktop build
+================================================================
+The Windows executable runs on Electron, which is built on Chromium.
+Their licences travel inside the executable, beside the program files,
+as LICENSE.electron.txt and LICENSES.chromium.html. A copy of this file
+sits there too.

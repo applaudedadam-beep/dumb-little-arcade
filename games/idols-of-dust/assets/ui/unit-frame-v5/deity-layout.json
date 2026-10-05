@@ -1,0 +1,184 @@
+{
+  "revision": "textless-combat-wells-2026-09-21",
+  "canvas": [
+    880,
+    1240
+  ],
+  "frameOrder": [
+    "Neutral",
+    "Hellenic",
+    "Roman",
+    "Norse",
+    "Kemetic",
+    "Mesopotamian",
+    "Hindu"
+  ],
+  "art": [
+    113,
+    113,
+    770,
+    1028
+  ],
+  "cssVars": {
+    "--art-x": "12.841%",
+    "--art-y": "9.113%",
+    "--art-w": "74.659%",
+    "--art-h": "73.790%"
+  },
+  "frames": {
+    "Neutral": {
+      "file": "frames/deity-neutral.webp",
+      "source": "sources/deity-neutral.png",
+      "normalized": "normalized/deity-neutral.png",
+      "input": [
+        864,
+        1152
+      ],
+      "canvas": [
+        880,
+        1240
+      ],
+      "punched": 597558,
+      "aperture": [
+        113,
+        113,
+        770,
+        1027
+      ],
+      "sha256": "37228da5f850497f3cc77a024ca0ba7f44c968c2fb9c77a75e471a8ff4dbb784",
+      "sourceSha256": "bb9110a45144b31755502c4675c428b906654d7c6087886cef1abd6b1bba19bb"
+    },
+    "Hellenic": {
+      "file": "frames/deity-hellenic.webp",
+      "source": "sources/deity-hellenic.png",
+      "normalized": "normalized/deity-hellenic.png",
+      "input": [
+        864,
+        1152
+      ],
+      "canvas": [
+        880,
+        1240
+      ],
+      "punched": 595540,
+      "aperture": [
+        92,
+        84,
+        772,
+        1029
+      ],
+      "sha256": "2b0e775680a9f18e7b476ebaceff57e83068555be225baa9b50ecf7859a94085",
+      "sourceSha256": "a6559cff08d54d567a6e8317eaa826761823676e9be11e5f6cd192208a187f8a"
+    },
+    "Roman": {
+      "file": "frames/deity-roman.webp",
+      "source": "sources/deity-roman.png",
+      "normalized": "normalized/deity-roman.png",
+      "input": [
+        864,
+        1152
+      ],
+      "canvas": [
+        880,
+        1240
+      ],
+      "punched": 604453,
+      "aperture": [
+        109,
+        112,
+        775,
+        1031
+      ],
+      "sha256": "fd68d257897ccfad95f428ea62b6eb33b91302f2f734d09cfd212e7206f77158",
+      "sourceSha256": "75af6215b678abb228ba5537f3a6e23d55859407cd136c8d656442d4e0b4dbbf"
+    },
+    "Norse": {
+      "file": "frames/deity-norse.webp",
+      "source": "sources/deity-norse.jpg",
+      "normalized": "normalized/deity-norse.png",
+      "input": [
+        726,
+        1024
+      ],
+      "canvas": [
+        880,
+        1240
+      ],
+      "punched": 686548,
+      "aperture": [
+        123,
+        116,
+        759,
+        1005
+      ],
+      "sha256": "bbf043b29191a2fe33bfea792f293e86b5046bb0bcee880cf3b2a8f02089444d",
+      "sourceSha256": "d57a28fcfc9cface5c4725d2269f92a0c0cdcb21ae5b977afe1a971b4b85da67"
+    },
+    "Kemetic": {
+      "file": "frames/deity-kemetic.webp",
+      "source": "sources/deity-kemetic.png",
+      "normalized": "normalized/deity-kemetic.png",
+      "input": [
+        864,
+        1152
+      ],
+      "canvas": [
+        880,
+        1240
+      ],
+      "punched": 577512,
+      "aperture": [
+        117,
+        107,
+        769,
+        1028
+      ],
+      "sha256": "0f3842908b54ac0c0689a944322ab7ff501a31821f1b9a2a72a9c5794e794f05",
+      "sourceSha256": "c8bea8c58b4e38540bd0b85207df00a4ac66874d2da00452ebf4a5641d4929e0"
+    },
+    "Mesopotamian": {
+      "file": "frames/deity-mesopotamian.webp",
+      "source": "sources/deity-mesopotamian.png",
+      "normalized": "normalized/deity-mesopotamian.png",
+      "input": [
+        864,
+        1152
+      ],
+      "canvas": [
+        880,
+        1240
+      ],
+      "punched": 594624,
+      "aperture": [
+        113,
+        115,
+        772,
+        1029
+      ],
+      "sha256": "290c6016b395a08b2121ab293225be2e14100df44b52309460189568a43b8777",
+      "sourceSha256": "3972d21fe46c24b25d48215750498392b005a7bc5ac66f9b4c62cbda6ff43202"
+    },
+    "Hindu": {
+      "file": "frames/deity-hindu.webp",
+      "source": "sources/deity-hindu.png",
+      "normalized": "normalized/deity-hindu.png",
+      "input": [
+        864,
+        1152
+      ],
+      "canvas": [
+        880,
+        1240
+      ],
+      "punched": 603603,
+      "aperture": [
+        115,
+        114,
+        769,
+        1027
+      ],
+      "sha256": "44a3b95ad3ef634b1cf0d91c2595d8007e126c596e83a093d424ebc3cbcc0a30",
+      "sourceSha256": "38a9472080cee8a3acf229e6d96968c93f68b23242744cdeaf179bd7b2895d6d"
+    }
+  }
+}

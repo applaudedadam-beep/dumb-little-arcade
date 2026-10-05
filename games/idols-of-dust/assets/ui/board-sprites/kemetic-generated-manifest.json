@@ -1,0 +1,1039 @@
+{
+  "schema": "iod.board-generated/3",
+  "tradition": "Kemetic",
+  "authoredCanvas": [
+    128,
+    128
+  ],
+  "compactCanvas": [
+    64,
+    64
+  ],
+  "animated": false,
+  "palette": [
+    [
+      18,
+      14,
+      12
+    ],
+    [
+      28,
+      24,
+      18
+    ],
+    [
+      42,
+      36,
+      26
+    ],
+    [
+      58,
+      48,
+      32
+    ],
+    [
+      78,
+      62,
+      38
+    ],
+    [
+      100,
+      78,
+      44
+    ],
+    [
+      130,
+      100,
+      50
+    ],
+    [
+      160,
+      125,
+      58
+    ],
+    [
+      185,
+      150,
+      75
+    ],
+    [
+      210,
+      180,
+      110
+    ],
+    [
+      170,
+      160,
+      140
+    ],
+    [
+      200,
+      190,
+      165
+    ],
+    [
+      225,
+      215,
+      190
+    ],
+    [
+      244,
+      236,
+      214
+    ],
+    [
+      30,
+      40,
+      60
+    ],
+    [
+      45,
+      65,
+      100
+    ],
+    [
+      60,
+      90,
+      140
+    ],
+    [
+      85,
+      115,
+      160
+    ],
+    [
+      120,
+      145,
+      180
+    ],
+    [
+      50,
+      30,
+      30
+    ],
+    [
+      80,
+      40,
+      40
+    ],
+    [
+      110,
+      55,
+      50
+    ],
+    [
+      90,
+      70,
+      40
+    ],
+    [
+      130,
+      100,
+      50
+    ],
+    [
+      170,
+      140,
+      70
+    ]
+  ],
+  "entries": [
+    {
+      "id": "jackalscout",
+      "kind": "unit",
+      "stem": "unit-jackalscout",
+      "file": "unit-jackalscout.png",
+      "compactFile": "unit-jackalscout-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "jackalscout-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "39be415b2ebfaa578f2a27f4748a743a521dd99f56b7023d12e033f828de4440",
+      "compactSha256": "09c3b919f397f7509e1150b3b1ebfd262f0a93de9423cb10fb76dabb3041731c"
+    },
+    {
+      "id": "canopicattendant",
+      "kind": "unit",
+      "stem": "unit-canopicattendant",
+      "file": "unit-canopicattendant.png",
+      "compactFile": "unit-canopicattendant-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "canopicattendant-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "542c25c15c76f5a07ec4588b06bfc08aaa6c5cdd0830ebb2673ef14e3f90cabe",
+      "compactSha256": "cfe36753b6f9d2b55272de5deb914e6339f7f399611408102a7e9c5ff98370f8"
+    },
+    {
+      "id": "lector",
+      "kind": "unit",
+      "stem": "unit-lector",
+      "file": "unit-lector.png",
+      "compactFile": "unit-lector-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "lector-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "bd63bd2c97d8fda0f18d36b821b308f9dc883fda7faefec2c7b8a08e14d0bf1c",
+      "compactSha256": "eb59743127eef822749573760874964fbbea5b3a0b90f9f9d1c7cd221ef0e7ce"
+    },
+    {
+      "id": "processionguide",
+      "kind": "unit",
+      "stem": "unit-processionguide",
+      "file": "unit-processionguide.png",
+      "compactFile": "unit-processionguide-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "processionguide-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "39d77ded647a23e240aa481c4c1613b2bb74c39a51b88d76cf9de38a4b17413b",
+      "compactSha256": "23c5b0f56cf87b9cd0b3fb70437bec9d0571abfc655b61fb5079a3aa0230de72"
+    },
+    {
+      "id": "tombguard",
+      "kind": "unit",
+      "stem": "unit-tombguard",
+      "file": "unit-tombguard.png",
+      "compactFile": "unit-tombguard-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "tombguard.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "01447b502fbe5c049f36a54d7592335f3cc77589cb0c3c3da11015d37dc30f41",
+      "compactSha256": "37752e8ccdf2f6bddfe2199efd82aac0039a13859e6822d0aff4e4f422d3b7d3"
+    },
+    {
+      "id": "keeperbalance",
+      "kind": "unit",
+      "stem": "unit-keeperbalance",
+      "file": "unit-keeperbalance.png",
+      "compactFile": "unit-keeperbalance-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "keeperbalance.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "7484b0cff649934ec61b8c0ccd21b3de6a738050aa524d84c6a5184a33690d18",
+      "compactSha256": "f40df641be2cd1a90924a170c4b10f1644693b66701b69e4fedba0496bead9ae"
+    },
+    {
+      "id": "returnedscribe",
+      "kind": "unit",
+      "stem": "unit-returnedscribe",
+      "file": "unit-returnedscribe.png",
+      "compactFile": "unit-returnedscribe-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "returnedscribe-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "0759cf85cb8cf70c231da0f6d23274634cafbda4237ebcc37d1934de3a469e49",
+      "compactSha256": "25bb99160177bebc57b8f411380318baf65d69350073a5a85d662c95b8a86874"
+    },
+    {
+      "id": "nightbarquesailor",
+      "kind": "unit",
+      "stem": "unit-nightbarquesailor",
+      "file": "unit-nightbarquesailor.png",
+      "compactFile": "unit-nightbarquesailor-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "nightbarquesailor-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "c6e421cdedb705b4ba723c48f7134b13ff9f1f44894f661145fe52ec48d49bb0",
+      "compactSha256": "9da7a991d374645394c82c6b6e004412f3ac6aca931ac0302192bddaf626d11d"
+    },
+    {
+      "id": "cedarembalmer",
+      "kind": "unit",
+      "stem": "unit-cedarembalmer",
+      "file": "unit-cedarembalmer.png",
+      "compactFile": "unit-cedarembalmer-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "cedarembalmer-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "1ae2213463398e8de97e920cfa07d4cb1a0bd28f13cf86899b3a479ff6dbbcb3",
+      "compactSha256": "ae193f9bf44c6428114dda963e714f8a3ea513f90655c82261bf0ca14617cae8"
+    },
+    {
+      "id": "falsedoorkeeper",
+      "kind": "unit",
+      "stem": "unit-falsedoorkeeper",
+      "file": "unit-falsedoorkeeper.png",
+      "compactFile": "unit-falsedoorkeeper-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "falsedoorkeeper-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "1fd5753be148e345cd7bcad2d6e1ad5aca55954ab4e9e3ba3f0a146f448315d3",
+      "compactSha256": "d6a6b5bd128b573a068132a966ef578aa3c06add332c656ffd45e62d7af7fdae"
+    },
+    {
+      "id": "bennusign",
+      "kind": "unit",
+      "stem": "unit-bennusign",
+      "file": "unit-bennusign.png",
+      "compactFile": "unit-bennusign-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "bennusign-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "48e94ffa7d60a543fe2276b4825870576c3806c087163ef2aad599c4b10f765c",
+      "compactSha256": "f0e6cf4a84b0b5b3fd6a8c18b79b7fb5f04b2ec91e9c3b5fa0153be7edf63b6f"
+    },
+    {
+      "id": "sphinxtwohorizons",
+      "kind": "unit",
+      "stem": "unit-sphinxtwohorizons",
+      "file": "unit-sphinxtwohorizons.png",
+      "compactFile": "unit-sphinxtwohorizons-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "sphinxtwohorizons-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "0d864e4d9c8b0f5d7ea8966b5174804797ae2d9c724f58b3c7e961dd03c84726",
+      "compactSha256": "926927a8512e5e308364d5eb3ef12de641f85d247af08cc587c04095f4e73b47"
+    },
+    {
+      "id": "apophis",
+      "kind": "unit",
+      "stem": "unit-apophis",
+      "file": "unit-apophis.png",
+      "compactFile": "unit-apophis-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-03.png",
+      "quadrant": 3,
+      "sourceFlipped": true,
+      "authoredFacing": "east",
+      "sha256": "0e20648be507817af1ff73f731a6096b48caa9931cfeaa39c25062e531e798ac",
+      "compactSha256": "f8633885877293a1efd5e1621e09c0ddd6d3e2938457e3ed99355962f7e85d35"
+    },
+    {
+      "id": "khaemwaset",
+      "kind": "unit",
+      "stem": "unit-khaemwaset",
+      "file": "unit-khaemwaset.png",
+      "compactFile": "unit-khaemwaset-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "khaemwaset-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "56b1cf7432d1c9234b7de510e280f98303a631f569ce3e114d2df67dd368f3c7",
+      "compactSha256": "2c8bdfcb20c8e8f7a8cefdee348add096c374e6c27a5f784425e177173bf98b6"
+    },
+    {
+      "id": "ahwere",
+      "kind": "unit",
+      "stem": "unit-ahwere",
+      "file": "unit-ahwere.png",
+      "compactFile": "unit-ahwere-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-04.png",
+      "quadrant": 1,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "c3bb29c840c84f0334fae5f5ba8fa73fbde5c559be53e7d002261bdfee51e333",
+      "compactSha256": "a9531991963cc8ab688998661ff7954e5db1abd892a47e08a9b0598f64fb3d6c"
+    },
+    {
+      "id": "imhotep",
+      "kind": "unit",
+      "stem": "unit-imhotep",
+      "file": "unit-imhotep.png",
+      "compactFile": "unit-imhotep-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "imhotep-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "1862bfa22a76fd472b125458821ed892cdde2da55c02c57a266e12d8ae8ef4c1",
+      "compactSha256": "1565e63cff12713e5f339e9030248f3eb8c8302027e13ca59d2aee9db38ba7f1"
+    },
+    {
+      "id": "ammit",
+      "kind": "unit",
+      "stem": "unit-ammit",
+      "file": "unit-ammit.png",
+      "compactFile": "unit-ammit-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "ammit-subject.png",
+      "quadrant": null,
+      "sourceFlipped": true,
+      "authoredFacing": "east",
+      "sha256": "61150bc52de3b0ab6fa78c5160c5ddadf7a218c102e0b570c82720ddd5f9b634",
+      "compactSha256": "cd099cd28d78f6ab14dda38ad14325babe5df5fdcc47e363678d5f38637aed56"
+    },
+    {
+      "id": "taweret",
+      "kind": "unit",
+      "stem": "unit-taweret",
+      "file": "unit-taweret.png",
+      "compactFile": "unit-taweret-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "taweret-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "917a11d73cb5f48852050db9601c9ff550ec51602900809b29e488412793a4bf",
+      "compactSha256": "4119716fad25be40527f89f5746a86c0aaf145e70bc748b44f6a8056880dc4cb"
+    },
+    {
+      "id": "horizoncub",
+      "kind": "unit",
+      "stem": "unit-horizoncub",
+      "file": "unit-horizoncub.png",
+      "compactFile": "unit-horizoncub-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "horizoncub-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "116b9748a37308c278ebffc57edefe2648d172efb648619e1c3b42ecb6758d1e",
+      "compactSha256": "bd6fe31c20e299cf86364e12fa731a8bed0c71f2b40bee6c219b406decbea794"
+    },
+    {
+      "id": "serpopard",
+      "kind": "unit",
+      "stem": "unit-serpopard",
+      "file": "unit-serpopard.png",
+      "compactFile": "unit-serpopard-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "serpopard-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "a6bc6c98bd40a0f33a356a30ec8da30866d06568b05f02155206a8d50634740d",
+      "compactSha256": "ba98382055d5db4a9b6c9030b5a3589f4fe5c73b5f5714ac3d1cc52a17e76946"
+    },
+    {
+      "id": "aker",
+      "kind": "unit",
+      "stem": "unit-aker",
+      "file": "unit-aker.png",
+      "compactFile": "unit-aker-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "aker-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "02e5c5d7f6d51ab21e731485b0f5ac045b15d1bd9ff6b97bfeb4a50c1dd73b85",
+      "compactSha256": "3748c7b424141a4da47f2f941907c615f8f274795fc8274edf527e88cad44600"
+    },
+    {
+      "id": "sekhmet",
+      "kind": "unit",
+      "stem": "unit-sekhmet",
+      "file": "unit-sekhmet.png",
+      "compactFile": "unit-sekhmet-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "sekhmet-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "71a51557b8fd29ce9bc3b2c9d943bab76b31d5ec18f03694cd659313ab67c221",
+      "compactSha256": "33965906cf3621c73760fd6b41d93bbe647bb32738999bb3f1c9652ef5b9f7c2"
+    },
+    {
+      "id": "khepri",
+      "kind": "unit",
+      "stem": "unit-khepri",
+      "file": "unit-khepri.png",
+      "compactFile": "unit-khepri-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "khepri-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "c554964da3b6973903a5b576b979eebb9714b80f1f84300aa9edda8be6c6d1dd",
+      "compactSha256": "8881151c5f3f0732c9a2ec76c1e996367efd1c8cad06da152fab8a223161c40c"
+    },
+    {
+      "id": "westernoarsman",
+      "kind": "unit",
+      "stem": "unit-westernoarsman",
+      "file": "unit-westernoarsman.png",
+      "compactFile": "unit-westernoarsman-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "westernoarsman-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "b285d1d482da571a1520647373b16fd06383d69d9208efa638722c060deba462",
+      "compactSha256": "a3c3a89cfd2c885f1327fd46dd4f243d8d930ad5ad35802590e2441e97c37759"
+    },
+    {
+      "id": "easternmooring",
+      "kind": "unit",
+      "stem": "unit-easternmooring",
+      "file": "unit-easternmooring.png",
+      "compactFile": "unit-easternmooring-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "easternmooring-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "1f6a0876c1b4bf57cf14066f655b137962bab1ae8405be46a577766f5ae69eff",
+      "compactSha256": "c44d2219c0ab1d9c8ea6bd17d3cba0c5830e195244843d75f34605b15847ffce"
+    },
+    {
+      "id": "returningfalcon",
+      "kind": "unit",
+      "stem": "unit-returningfalcon",
+      "file": "unit-returningfalcon.png",
+      "compactFile": "unit-returningfalcon-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-07.png",
+      "quadrant": 0,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "9cb2d02a4ecc2feb5b9a0379adc172e12bdca5ab66f0dbc2fbf6132b4fceddf8",
+      "compactSha256": "672d5a0203361b024975c937abad66133ef1ea34549be2d4b7e72c14b58efbd2"
+    },
+    {
+      "id": "nightwatchscribe",
+      "kind": "unit",
+      "stem": "unit-nightwatchscribe",
+      "file": "unit-nightwatchscribe.png",
+      "compactFile": "unit-nightwatchscribe-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "nightwatchscribe-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "2087405854644132386d152a6197a2f1cf3031fc35111a42599d9779c0306969",
+      "compactSha256": "0638a291edac4e6f43372cb0870f2927cc1e385c8fa2488f888442fe1805788f"
+    },
+    {
+      "id": "linenwrapper",
+      "kind": "unit",
+      "stem": "unit-linenwrapper",
+      "file": "unit-linenwrapper.png",
+      "compactFile": "unit-linenwrapper-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "linenwrapper-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "ee79672b2f3a66690e7a776fdd9dd3aa2aa8ada2749bf09aee47056b7cfceb9d",
+      "compactSha256": "ba84a5a99316275961d5fa264aa34b6174e3b78dddf5ab291aa01a41dc0e74b2"
+    },
+    {
+      "id": "westernshabti",
+      "kind": "unit",
+      "stem": "unit-westernshabti",
+      "file": "unit-westernshabti.png",
+      "compactFile": "unit-westernshabti-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "westernshabti-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "6df8bd7f7344afbfd5412e9e4f7ae65ea595ace2936af5614c85adbd0118e305",
+      "compactSha256": "813b1376b503e7533c555486bddbbf57335331bf19ffc6a5738079ac8c2458b0"
+    },
+    {
+      "id": "necropolissentinel",
+      "kind": "unit",
+      "stem": "unit-necropolissentinel",
+      "file": "unit-necropolissentinel.png",
+      "compactFile": "unit-necropolissentinel-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "necropolissentinel-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "2432995731c7adeebda0badeafe75dadc054a836022315846908fbc63ab631a6",
+      "compactSha256": "20afcceeb97d5d8f23b70e233f4201f88b36b0d110b5173f10165ac09e4e8683"
+    },
+    {
+      "id": "hathor",
+      "kind": "unit",
+      "stem": "unit-hathor",
+      "file": "unit-hathor.png",
+      "compactFile": "unit-hathor-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "hathor-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "d162971bd082f273120ab5f351afc07c2dd23a2d73687dcaac0bcdec11be5bd6",
+      "compactSha256": "bbf6e071f90a3e51599e462c63a445918b90aad77146b559c5688d411a56b2cb"
+    },
+    {
+      "id": "maat",
+      "kind": "unit",
+      "stem": "unit-maat",
+      "file": "unit-maat.png",
+      "compactFile": "unit-maat-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "maat-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "3f0a5c1032219beaf364602aeec5aa46a9e4de4836d0175a45ea991e0d1cf11e",
+      "compactSha256": "3d50f7318ce70a9fa7271e83f141fdf41d6b766b81f38ceaf5c3409804da2a16"
+    },
+    {
+      "id": "seshat",
+      "kind": "unit",
+      "stem": "unit-seshat",
+      "file": "unit-seshat.png",
+      "compactFile": "unit-seshat-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "seshat-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "ebe44535fb1358c99050f3e9aefa92a695e71d48b09cb470ba357975f1e036ed",
+      "compactSha256": "5aa584c685fd994a5f7de985bafae57952c91aba0f65548b81e06a7c238468df"
+    },
+    {
+      "id": "sokar",
+      "kind": "unit",
+      "stem": "unit-sokar",
+      "file": "unit-sokar.png",
+      "compactFile": "unit-sokar-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "sokar-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "dd5d7d4b79eadb6d56edd041f416b0cd717cd3f0d352537d1a91da21523cadda",
+      "compactSha256": "2c7b8ec5913fcfab9af2593aefca7ea5ca7e3747680a9dfb82adccc61679e0e6"
+    },
+    {
+      "id": "thoth",
+      "kind": "unit",
+      "stem": "unit-thoth",
+      "file": "unit-thoth.png",
+      "compactFile": "unit-thoth-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "thoth-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "49f43b8e53da207b9d8aedc19c8ee9a92bde3f7b1a3f6e2a32d098e639f2566f",
+      "compactSha256": "caa8dc7e842a56953f57dc5d572fc567aef8bd2020b316321235e9aee88ece76"
+    },
+    {
+      "id": "wepwawet",
+      "kind": "unit",
+      "stem": "unit-wepwawet",
+      "file": "unit-wepwawet.png",
+      "compactFile": "unit-wepwawet-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "wepwawet-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "53dca03780fb0e2206070806e1c6cdb9edd2c842f74fbbaebd9e063567a829d8",
+      "compactSha256": "e3f6a270484b85a3321ef49f1f59e4387bf99f1ff1c048a3eba1a079408dd78a"
+    },
+    {
+      "id": "deity-anubis",
+      "kind": "unit",
+      "stem": "unit-deity-anubis",
+      "file": "unit-deity-anubis.png",
+      "compactFile": "unit-deity-anubis-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "deity-anubis-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "a489dc9289f95af9247b8af945aafecdb06586b2f1ec2d0f3b532a3e05cf0d57",
+      "compactSha256": "d345474bc2d3217407b1b6f481b52d3e7c01e2af4abad0ff2d75b3fa197580f5"
+    },
+    {
+      "id": "deity-isis",
+      "kind": "unit",
+      "stem": "unit-deity-isis",
+      "file": "unit-deity-isis.png",
+      "compactFile": "unit-deity-isis-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-08.png",
+      "quadrant": 2,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "6bcf27cc82f028e710d5216469e2ac8efe3cbbcbda540109836afb4c53ad1d92",
+      "compactSha256": "926211bd83a775bb934f36205fda3ecac07c5bd6727f2509fcde02e7b6db0aa3"
+    },
+    {
+      "id": "deity-ra",
+      "kind": "unit",
+      "stem": "unit-deity-ra",
+      "file": "unit-deity-ra.png",
+      "compactFile": "unit-deity-ra-compact.png",
+      "tradition": "Kemetic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-08.png",
+      "quadrant": 3,
+      "sourceFlipped": true,
+      "authoredFacing": "east",
+      "sha256": "f211fa54e2e43a3713f5945d2244604239f553276044d93287ddececa29a2b33",
+      "compactSha256": "39771657b40e7a35f5a0a4c907d058cb51aca944d9e9f2f2586439099d18af33"
+    }
+  ]
+}

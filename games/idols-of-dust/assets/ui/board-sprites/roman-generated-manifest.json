@@ -1,0 +1,1131 @@
+{
+  "schema": "iod.board-generated/3",
+  "tradition": "Roman",
+  "authoredCanvas": [
+    128,
+    128
+  ],
+  "compactCanvas": [
+    64,
+    64
+  ],
+  "animated": false,
+  "palette": [
+    [
+      18,
+      14,
+      12
+    ],
+    [
+      30,
+      20,
+      18
+    ],
+    [
+      45,
+      28,
+      24
+    ],
+    [
+      62,
+      36,
+      30
+    ],
+    [
+      82,
+      45,
+      38
+    ],
+    [
+      105,
+      55,
+      45
+    ],
+    [
+      130,
+      65,
+      55
+    ],
+    [
+      155,
+      80,
+      68
+    ],
+    [
+      180,
+      100,
+      85
+    ],
+    [
+      200,
+      130,
+      110
+    ],
+    [
+      180,
+      170,
+      150
+    ],
+    [
+      210,
+      200,
+      180
+    ],
+    [
+      230,
+      222,
+      205
+    ],
+    [
+      244,
+      238,
+      224
+    ],
+    [
+      90,
+      70,
+      40
+    ],
+    [
+      120,
+      95,
+      50
+    ],
+    [
+      160,
+      125,
+      60
+    ],
+    [
+      190,
+      155,
+      80
+    ],
+    [
+      210,
+      180,
+      110
+    ],
+    [
+      50,
+      35,
+      40
+    ],
+    [
+      75,
+      45,
+      50
+    ],
+    [
+      100,
+      60,
+      65
+    ],
+    [
+      100,
+      80,
+      55
+    ],
+    [
+      140,
+      110,
+      70
+    ],
+    [
+      175,
+      145,
+      95
+    ]
+  ],
+  "entries": [
+    {
+      "id": "legionary",
+      "kind": "unit",
+      "stem": "unit-legionary",
+      "file": "unit-legionary.png",
+      "compactFile": "unit-legionary-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "legionary-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "9522017e2e21f572c5a742195bf00a63bac340d356da6a75d3c3174b08507fa4",
+      "compactSha256": "60092e3b0ac3c687afac80a660c5582f871336787a06d891d3e6b929727987a9"
+    },
+    {
+      "id": "vestal",
+      "kind": "unit",
+      "stem": "unit-vestal",
+      "file": "unit-vestal.png",
+      "compactFile": "unit-vestal-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-01.png",
+      "quadrant": 0,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "5bb53e1f0760eb52e5066a4fe325b58abbdb33965ff5bb28efaa54598bd94901",
+      "compactSha256": "bbed5d46391c32b24aace7bb246df07208164bedf654e9416db9bf2ea386ad82"
+    },
+    {
+      "id": "centurion",
+      "kind": "unit",
+      "stem": "unit-centurion",
+      "file": "unit-centurion.png",
+      "compactFile": "unit-centurion-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "centurion-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "9ad3025e9b2a93af8cd176be85c83e453384538e5bd54a07cd4a161c60b7878c",
+      "compactSha256": "f38faddc25b802adaa4338847bb20356b33f6218eed51446e97262270d87a19a"
+    },
+    {
+      "id": "thresholdlictor",
+      "kind": "unit",
+      "stem": "unit-thresholdlictor",
+      "file": "unit-thresholdlictor.png",
+      "compactFile": "unit-thresholdlictor-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "thresholdlictor-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "ba0c247cc1d709eea438a81035011d579bc5af0251fc96b176fbd1eb6be2d99e",
+      "compactSha256": "25ab797b9a4f555ed2cfb0cdc81f669fe11fab5021e44fe3c12a4a03f392f47e"
+    },
+    {
+      "id": "civicstandardbearer",
+      "kind": "unit",
+      "stem": "unit-civicstandardbearer",
+      "file": "unit-civicstandardbearer.png",
+      "compactFile": "unit-civicstandardbearer-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "civicstandardbearer-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "bcf93a14aeb55e0399c4600989976bfd3b8a0dc0ed47fba1b81079900b55f5a5",
+      "compactSha256": "083b92c1650c2773d21c36abdaf4b126bc7d605272c5d29d29ea5f0e60850d48"
+    },
+    {
+      "id": "spokenoathkeeper",
+      "kind": "unit",
+      "stem": "unit-spokenoathkeeper",
+      "file": "unit-spokenoathkeeper.png",
+      "compactFile": "unit-spokenoathkeeper-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "spokenoathkeeper-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "33e3704e530942e314ec90b2e890b13673a76eb390a86ab46f2b91ad00206d08",
+      "compactSha256": "3ec36b74c430e82d0d35ef6a2830263c61050d75e6ecb78d04dd2a8de131f897"
+    },
+    {
+      "id": "unfailingflame",
+      "kind": "unit",
+      "stem": "unit-unfailingflame",
+      "file": "unit-unfailingflame.png",
+      "compactFile": "unit-unfailingflame-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "unfailingflame-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "a8eb3495feacb910f7ac208b98f156439eba722bc02fc0d6833b0a7c4daf78b3",
+      "compactSha256": "38ba6a92d706ac7d873b10dcb65c751d36dd4d4f6102c10d143947968069c8f6"
+    },
+    {
+      "id": "eternalflame",
+      "kind": "unit",
+      "stem": "unit-eternalflame",
+      "file": "unit-eternalflame.png",
+      "compactFile": "unit-eternalflame-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "eternalflame-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "17c1904f6201e37217a6d1790987e96ca4902e354b805ea8d97716fbe9c8f2fb",
+      "compactSha256": "6f572eef23aae4e50965a39bbb51eafb26b3a71d9d3eaf792bf381f6e6d540e9"
+    },
+    {
+      "id": "musteredlinevanguard",
+      "kind": "unit",
+      "stem": "unit-musteredlinevanguard",
+      "file": "unit-musteredlinevanguard.png",
+      "compactFile": "unit-musteredlinevanguard-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-02.png",
+      "quadrant": 3,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "1bc2f77922952feccec20ca1984300540cb057d2379693b2d9f1b63fb3c6c903",
+      "compactSha256": "f07b5d283286d4e2da7db6ca6b587ab9e12f32f7ab538deb4bde8715e554d783"
+    },
+    {
+      "id": "linkedadvancecornicen",
+      "kind": "unit",
+      "stem": "unit-linkedadvancecornicen",
+      "file": "unit-linkedadvancecornicen.png",
+      "compactFile": "unit-linkedadvancecornicen-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-03.png",
+      "quadrant": 0,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "879dc8976523684898e5fc6dbcf1980f9d9c791da92399078d027ad88e0d32a0",
+      "compactSha256": "80ab0ba1bd370ddddadbd064f1935f25c46be87645b6ebd2955b4a3d9a4cb707"
+    },
+    {
+      "id": "lostcohortaquilifer",
+      "kind": "unit",
+      "stem": "unit-lostcohortaquilifer",
+      "file": "unit-lostcohortaquilifer.png",
+      "compactFile": "unit-lostcohortaquilifer-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "lostcohortaquilifer-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "acb5901b3551c28ec84e89ffcf4538d4d6541021b9284a85e958804534845237",
+      "compactSha256": "e551ab4379daefcd688af0436d9654a10e454a971c9a95309ce40e646cb2cd54"
+    },
+    {
+      "id": "threeroadsurveyor",
+      "kind": "unit",
+      "stem": "unit-threeroadsurveyor",
+      "file": "unit-threeroadsurveyor.png",
+      "compactFile": "unit-threeroadsurveyor-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-03.png",
+      "quadrant": 2,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "27dda6ce028458a02ab955cff9f15b90a8e73efb646f09530e66370ae37d5bfe",
+      "compactSha256": "c223b9c70f4f9b0b7ca3c0f52a461822b1a424ab0fcc72a670e4053dfbc0c734"
+    },
+    {
+      "id": "lastwatchdecurion",
+      "kind": "unit",
+      "stem": "unit-lastwatchdecurion",
+      "file": "unit-lastwatchdecurion.png",
+      "compactFile": "unit-lastwatchdecurion-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-03.png",
+      "quadrant": 3,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "83a497292c102c9373b883dedb8900c812f14d4dcf6cc43eb4ffd44b5462abd8",
+      "compactSha256": "907aa57e8d792ae9a39599f366330c1585c3926d91408119e8204cda7ec07de0"
+    },
+    {
+      "id": "aeneas",
+      "kind": "unit",
+      "stem": "unit-aeneas",
+      "file": "unit-aeneas.png",
+      "compactFile": "unit-aeneas-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "aeneas-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "ffbcc2db160e3cc18dcd6cf25d3e4cf58a5256edd3a4eb8a9de6a6a281f09129",
+      "compactSha256": "6d6d3bbe77fa0bdb5407501cf0ad25e7dc505fecc1fd613d5319a464c5b654df"
+    },
+    {
+      "id": "shewolf",
+      "kind": "unit",
+      "stem": "unit-shewolf",
+      "file": "unit-shewolf.png",
+      "compactFile": "unit-shewolf-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-04.png",
+      "quadrant": 1,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "b4fc27b164027e6fa81fdb20fca306c8734a5a244cded5a156aa0a21be4f5b7d",
+      "compactSha256": "48f6857ef78638abb821296321cab82f296d729e371cff397ba4e2fb0245ae49"
+    },
+    {
+      "id": "capitolinegoose",
+      "kind": "unit",
+      "stem": "unit-capitolinegoose",
+      "file": "unit-capitolinegoose.png",
+      "compactFile": "unit-capitolinegoose-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-04.png",
+      "quadrant": 2,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "809429c6c11c3b389985abad558dd3226b17a2a1d1d7448908468865509985b1",
+      "compactSha256": "b1ad0002044e9d64fcf429230946cf964ff62a0012d2b767cf4430521c425925"
+    },
+    {
+      "id": "aemilia",
+      "kind": "unit",
+      "stem": "unit-aemilia",
+      "file": "unit-aemilia.png",
+      "compactFile": "unit-aemilia-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "aemilia-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "0fb6f9b5c34ebf85a98277fc221327dd18ed098ce00d3e3ab082d5d9e5a3fd68",
+      "compactSha256": "3d8d7c06395320edc73b8ba3dd26ad7d75ef25508c970d63cd39dc76c2db0e1a"
+    },
+    {
+      "id": "scipio",
+      "kind": "unit",
+      "stem": "unit-scipio",
+      "file": "unit-scipio.png",
+      "compactFile": "unit-scipio-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "scipio-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "0d784ae9727c5ce8a2839322d4d394bf9261de6b91aede617ef726fef9f21c73",
+      "compactSha256": "bf1819c9fd57d61a89c42530c444e0a508acd303e9f03b953a8828286cd6d197"
+    },
+    {
+      "id": "cincinnatus",
+      "kind": "unit",
+      "stem": "unit-cincinnatus",
+      "file": "unit-cincinnatus.png",
+      "compactFile": "unit-cincinnatus-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "cincinnatus-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "d3c0e50af970a48bd53f719a79d6aacae05f210eebac4c035336cd1d17ad33f9",
+      "compactSha256": "42e953b590ed9564013b841be92fc7cd50048e48a5c335d9d98e1b8abd314f68"
+    },
+    {
+      "id": "fabius",
+      "kind": "unit",
+      "stem": "unit-fabius",
+      "file": "unit-fabius.png",
+      "compactFile": "unit-fabius-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "fabius-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "0fe9450bb636fe75e7f9d23f8afbe5e529dc24d909d8b889e849807dfd106b5a",
+      "compactSha256": "f369aa158c81d08bf59868bf15729a183d5f51e23bd85a161018ff7ddfe41b95"
+    },
+    {
+      "id": "jupiterseagle",
+      "kind": "unit",
+      "stem": "unit-jupiterseagle",
+      "file": "unit-jupiterseagle.png",
+      "compactFile": "unit-jupiterseagle-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-05.png",
+      "quadrant": 3,
+      "sourceFlipped": true,
+      "authoredFacing": "east",
+      "sha256": "9c18cf312c9eade5d1c61cf378c89cdfa9d04d21275d3795fa019bc3ebebe716",
+      "compactSha256": "652ef134fd1ccdef110c324415041175ac86b1bb04444675b0edafb38a07f264"
+    },
+    {
+      "id": "cohortlevy",
+      "kind": "unit",
+      "stem": "unit-cohortlevy",
+      "file": "unit-cohortlevy.png",
+      "compactFile": "unit-cohortlevy-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "cohortlevy-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "ed2057ac354d5cd3c5d5246e9ff9e218a76289b492fca0ab1b7f3cc0b2bfb2ae",
+      "compactSha256": "342876271326c386e72fecbce70eb651d732f46e5285f50b0dc94c58f54d21f4"
+    },
+    {
+      "id": "picus",
+      "kind": "unit",
+      "stem": "unit-picus",
+      "file": "unit-picus.png",
+      "compactFile": "unit-picus-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-06.png",
+      "quadrant": 1,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "80167157bec2b39f6fdd6d395624c189063fd3b73619150f6e4181724392f669",
+      "compactSha256": "c3dd230a69b468f86244b1675f1477439f0b9a9584f4a1d8a5e1c5c51530d62a"
+    },
+    {
+      "id": "whitesow",
+      "kind": "unit",
+      "stem": "unit-whitesow",
+      "file": "unit-whitesow.png",
+      "compactFile": "unit-whitesow-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-06.png",
+      "quadrant": 2,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "415c7bef7fb5b6a8fc441926b63f3032662eaab1e7b56fceeed8faa47775716e",
+      "compactSha256": "65d977088e31ffd2818b7d4f04dc5b5eb4426e2aba6247aaf61171e3ecb0e392"
+    },
+    {
+      "id": "terminus",
+      "kind": "unit",
+      "stem": "unit-terminus",
+      "file": "unit-terminus.png",
+      "compactFile": "unit-terminus-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "terminus-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "5f68946831fce2aea544c10dd89c4c8bf60bc80752e754be2a3373d7d6022694",
+      "compactSha256": "2efbba5c79949f6ac0febde368716de2311510067bd2cf9fe48aebc7de264193"
+    },
+    {
+      "id": "firstarticlebearer",
+      "kind": "unit",
+      "stem": "unit-firstarticlebearer",
+      "file": "unit-firstarticlebearer.png",
+      "compactFile": "unit-firstarticlebearer-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "firstarticlebearer-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "965a9b3d74927b89b47f23303f18a597bfb097d305275e29b3437fd10021d686",
+      "compactSha256": "61b43575ef3abdbe3ef3be12356705c119a4149af2046fb902422543b3783f9d"
+    },
+    {
+      "id": "openskyaugur",
+      "kind": "unit",
+      "stem": "unit-openskyaugur",
+      "file": "unit-openskyaugur.png",
+      "compactFile": "unit-openskyaugur-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "openskyaugur-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "45ad54ad97aafb79ea09149e7bc990996a15ba8e015a51f9199cc5c691cd0fa3",
+      "compactSha256": "482f4d1558220a8c5950fe0bea6183e44b14d7318cc876c9884d527a7a8aa214"
+    },
+    {
+      "id": "greateroathlictor",
+      "kind": "unit",
+      "stem": "unit-greateroathlictor",
+      "file": "unit-greateroathlictor.png",
+      "compactFile": "unit-greateroathlictor-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "greateroathlictor-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "5aa03931fb23567718fc9bef447c6dbd3b769aebecbec441e4d3a4e1be6f28e7",
+      "compactSha256": "03c80d289e34cc06d4765564b6bfe4cc6067a6ea99d696a3c271e217b2536eb9"
+    },
+    {
+      "id": "oathboundmagistrate",
+      "kind": "unit",
+      "stem": "unit-oathboundmagistrate",
+      "file": "unit-oathboundmagistrate.png",
+      "compactFile": "unit-oathboundmagistrate-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "oathboundmagistrate-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "ba2fb46d22d13fe8625e05b5fe05a23a498290f84d7d80651ca3b8b70f62ae59",
+      "compactSha256": "b999ca61a63cecc2e0ec6c40444962e4f1246726acea9785ae8bea33656a862f"
+    },
+    {
+      "id": "frontierauxiliary",
+      "kind": "unit",
+      "stem": "unit-frontierauxiliary",
+      "file": "unit-frontierauxiliary.png",
+      "compactFile": "unit-frontierauxiliary-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "frontierauxiliary-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "66cc4b611ff9d2710200d9c304c12551d97e311d67f2e07d0ba0a8f783c414e2",
+      "compactSha256": "8f2f116ce3f4e9e390b8e755a445d5c96d61776e7799678ff8a97cedf709421e"
+    },
+    {
+      "id": "irongateporter",
+      "kind": "unit",
+      "stem": "unit-irongateporter",
+      "file": "unit-irongateporter.png",
+      "compactFile": "unit-irongateporter-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "irongateporter-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "1c88f8569fe8460745a6e45b1db14d0e11f910b7152835895cc90589f0ecd65e",
+      "compactSha256": "b1009437594a51e5311aa765a99b81579645886cc0b689a84486c3252f3377a4"
+    },
+    {
+      "id": "secondcohortsignifer",
+      "kind": "unit",
+      "stem": "unit-secondcohortsignifer",
+      "file": "unit-secondcohortsignifer.png",
+      "compactFile": "unit-secondcohortsignifer-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "secondcohortsignifer-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "7cffd61dbed32b5f281290638f16ccd5e410660a37daa37288f0ec9985329ba2",
+      "compactSha256": "91d8fba83e2ec38abae808c056d6be05c1e8e8887ef9c3c12045a609ae4176ee"
+    },
+    {
+      "id": "householdhearthwarden",
+      "kind": "unit",
+      "stem": "unit-householdhearthwarden",
+      "file": "unit-householdhearthwarden.png",
+      "compactFile": "unit-householdhearthwarden-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "householdhearthwarden-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "1da819b30d902b96fddc1a64ac69b1fb2a5c9f0e26b4c9ea1bf1f69d0f57a55a",
+      "compactSha256": "fe135ef3f140cdb633b560847ab5a0768ddb8a89e6ae5608a00224186551ec86"
+    },
+    {
+      "id": "triplelineevocatus",
+      "kind": "unit",
+      "stem": "unit-triplelineevocatus",
+      "file": "unit-triplelineevocatus.png",
+      "compactFile": "unit-triplelineevocatus-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "triplelineevocatus-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "7037c2fb5edca460aba756d1fd490b011a26c10d3146fa10887a278838743ad6",
+      "compactSha256": "2ca68e0267428d8d216d394abffcad86b98952d975704b0b58d735f741932362"
+    },
+    {
+      "id": "janus",
+      "kind": "unit",
+      "stem": "unit-janus",
+      "file": "unit-janus.png",
+      "compactFile": "unit-janus-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "janus-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "2e4223537500500f4f78955ffe9842b29cec57ef716456402baec780933824ab",
+      "compactSha256": "270f29817742c71970787e36891150166093622106af17d8f9966ae529fe304a"
+    },
+    {
+      "id": "camillus",
+      "kind": "unit",
+      "stem": "unit-camillus",
+      "file": "unit-camillus.png",
+      "compactFile": "unit-camillus-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "camillus-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "d0d603cb782d49f6204c817dcd22048dfa2ed7b86818d311552d1b0c16c3db48",
+      "compactSha256": "93e43a76c960efd108cbe88a73e1e8e8feae8c09753651301199630fa7c48e7b"
+    },
+    {
+      "id": "camilla",
+      "kind": "unit",
+      "stem": "unit-camilla",
+      "file": "unit-camilla.png",
+      "compactFile": "unit-camilla-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "camilla-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "b91acd7a720110368980a3cd0cc08c21f51bd0ce49f1c453762eb2b1392243cc",
+      "compactSha256": "c3dbcec759e6ae01b885eb41d1a975630fa712fe6eeff12e467ca7ecda54e369"
+    },
+    {
+      "id": "horatius",
+      "kind": "unit",
+      "stem": "unit-horatius",
+      "file": "unit-horatius.png",
+      "compactFile": "unit-horatius-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "horatius-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "a473f17ca04f7ba95b75d9f26f64101402b7c73aeb98dd73a4bd61443fd0ecd1",
+      "compactSha256": "970a751a1a2b84259b397e4178e4c925db5075dcf9bcfaffb9f70cfc46ec215a"
+    },
+    {
+      "id": "numa",
+      "kind": "unit",
+      "stem": "unit-numa",
+      "file": "unit-numa.png",
+      "compactFile": "unit-numa-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "numa-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "6a451d0cc310de10a857a952995104be0d850557e64aade0ba83cdb2221e5d62",
+      "compactSha256": "7d99a3833ca14770565f0f9c7742b3e88ff13b9731e93a14c7465ae2f27718c1"
+    },
+    {
+      "id": "rheasilvia",
+      "kind": "unit",
+      "stem": "unit-rheasilvia",
+      "file": "unit-rheasilvia.png",
+      "compactFile": "unit-rheasilvia-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "rheasilvia-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "e449f5ec3d170859063a5db7a878025b09624489c2beda1fd0d94bf90c246960",
+      "compactSha256": "712894815ebf169aa3f276ed278b6c6d28d734eaefb1282a8e9b9047e5363055"
+    },
+    {
+      "id": "deity-vesta",
+      "kind": "unit",
+      "stem": "unit-deity-vesta",
+      "file": "unit-deity-vesta.png",
+      "compactFile": "unit-deity-vesta-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-09.png",
+      "quadrant": 1,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "8046767dc312717701078f58b4275f662d8bb9a92dceebc0eddd86520eef3cc5",
+      "compactSha256": "9c06c193d3490367d495379a8dd8b23d38a2a7d0efa7cb0f2b7ff73d76f90de3"
+    },
+    {
+      "id": "deity-mars",
+      "kind": "unit",
+      "stem": "unit-deity-mars",
+      "file": "unit-deity-mars.png",
+      "compactFile": "unit-deity-mars-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "deity-mars-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "4fdaaf3257bab8745cd7a759d10374a0dcec2dd031fea8b96c76602f104eb517",
+      "compactSha256": "d75f5a27da48a955cb86346f6f45a3bc034154028a65b3c893ffc564233d5c11"
+    },
+    {
+      "id": "deity-jupiter",
+      "kind": "unit",
+      "stem": "unit-deity-jupiter",
+      "file": "unit-deity-jupiter.png",
+      "compactFile": "unit-deity-jupiter-compact.png",
+      "tradition": "Roman",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-09.png",
+      "quadrant": 3,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "1667f20411f22e68c987ec5ff4c7afcea822b8fea0cbccef620deb24d7ee7a6e",
+      "compactSha256": "dd70a18d6dadb745e55e1a31fed688f752e34c13d604e4d5e73fdd2909ab9281"
+    }
+  ]
+}

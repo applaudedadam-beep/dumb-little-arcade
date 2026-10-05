@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 32 32" role="img" aria-labelledby="title">
+  <title id="title">Attack — bronze striking blade</title>
+  <defs>
+    <linearGradient id="attack-bronze" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#dec28a"/><stop offset=".38" stop-color="#b48a4b"/><stop offset="1" stop-color="#684321"/>
+    </linearGradient>
+    <linearGradient id="attack-blade" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#d9c08a"/><stop offset=".48" stop-color="#e5cc95"/><stop offset=".5" stop-color="#bb944f"/><stop offset="1" stop-color="#8d652f"/>
+    </linearGradient>
+  </defs>
+  <g transform="rotate(35 16 16)" stroke-linejoin="round">
+    <path fill="url(#attack-bronze)" stroke="#1a120c" stroke-width="1.55" d="M16 2 21 9V19L24 20V23H18V29H14V23H8V20L11 19V9Z"/>
+    <path fill="#654923" d="M16 3.8 19.7 9.4V19.7H12.3V9.4Z"/>
+    <path fill="url(#attack-blade)" d="M16 5.3 18.5 10V19H13.5V10Z"/>
+    <path fill="none" stroke="#f0dca9" stroke-width=".65" d="M13.6 18.4V10.2L16 5.5"/>
+    <path fill="none" stroke="#6b4827" stroke-width=".65" d="M18.5 10V19H13.5"/>
+    <path fill="#694522" d="M9.2 20.4H22.8V22.4H9.2Z"/>
+    <path fill="url(#attack-bronze)" d="M9.6 20.6H22.4V21.8H9.6Z"/>
+    <path fill="none" stroke="#ecd198" stroke-width=".45" d="M10.1 20.65H21.9"/>
+    <path fill="#654726" d="M14.8 23H17.2V27.5H14.8Z"/>
+    <path stroke="#c7a368" stroke-width=".7" d="M14.8 24.6 17.2 23.9M14.8 26.4 17.2 25.7"/>
+    <path fill="url(#attack-bronze)" d="M14.3 27.4H17.7V28.4H14.3Z"/>
+    <path fill="none" stroke="#6b4a29" stroke-opacity=".42" stroke-width=".35" d="M14.1 12.6 15.1 11.9M16.9 15.1 18 14.7M14.5 17.1 15.2 16.7"/>
+  </g>
+</svg>

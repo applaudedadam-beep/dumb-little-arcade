@@ -1,0 +1,370 @@
+{
+  "revision": "owner-generated-2026-09-20",
+  "canvas": [
+    880,
+    1240
+  ],
+  "frameOrder": [
+    "Neutral",
+    "Hellenic",
+    "Roman",
+    "Norse",
+    "Kemetic",
+    "Mesopotamian",
+    "Hindu"
+  ],
+  "canonicalAlpha": {
+    "file": "../iod-unit-frame-v5/assets/frames/_alpha.png",
+    "sha256": "f512772a4cb72e96144d95d51901dcd1b3b79cc88e533707cc46a12b5e8502dd"
+  },
+  "contact": {
+    "file": "contact.png",
+    "width": 1612,
+    "height": 334
+  },
+  "frames": {
+    "Neutral": {
+      "slug": "neutral",
+      "file": "frames/rite-neutral.webp",
+      "source": "sources/neutral.jpg",
+      "normalized": "normalized/rite-neutral.png",
+      "suppliedName": "neutral.jpg",
+      "input": [
+        726,
+        1024
+      ],
+      "canvas": [
+        880,
+        1240
+      ],
+      "resize": "exact-bilinear + uniform rail cover alignment",
+      "paintScale": 1.010708,
+      "sourceRails": {
+        "left": 24,
+        "right": 855,
+        "top": 4,
+        "bottom": 1217,
+        "width": 832,
+        "height": 1214
+      },
+      "alignedRails": {
+        "left": 26,
+        "right": 857,
+        "top": 5,
+        "bottom": 1227,
+        "width": 832,
+        "height": 1223
+      },
+      "unitRails": {
+        "left": 25,
+        "right": 857,
+        "top": 5,
+        "bottom": 1227,
+        "width": 833,
+        "height": 1223
+      },
+      "alphaMaskSha256": "f512772a4cb72e96144d95d51901dcd1b3b79cc88e533707cc46a12b5e8502dd",
+      "upperEdgeCorrelation": 0.672,
+      "nearBlackOpaquePixels": 9965,
+      "sourceSha256": "d84a68db0bc4e9615705a273ecc9cb5c4770d42f6816ef9603dea83b037620a5",
+      "normalizedSha256": "d538353cb21f80077842858cadd6351e077ba6bf670461d16e777154b245d4fc",
+      "sha256": "8704de2df8bfa14f354f5f4149c84b616c8a34f8216ba20d55be826164e4537f",
+      "bytes": 69970,
+      "webpQuality": 76
+    },
+    "Hellenic": {
+      "slug": "hellenic",
+      "file": "frames/rite-hellenic.webp",
+      "source": "sources/hellenic.jpg",
+      "normalized": "normalized/rite-hellenic.png",
+      "suppliedName": "hellenic.jpg",
+      "input": [
+        726,
+        1024
+      ],
+      "canvas": [
+        880,
+        1240
+      ],
+      "resize": "exact-bilinear + uniform rail cover alignment",
+      "paintScale": 1.008217,
+      "sourceRails": {
+        "left": 25,
+        "right": 854,
+        "top": 3,
+        "bottom": 1219,
+        "width": 830,
+        "height": 1217
+      },
+      "alignedRails": {
+        "left": 26,
+        "right": 857,
+        "top": 5,
+        "bottom": 1227,
+        "width": 832,
+        "height": 1223
+      },
+      "unitRails": {
+        "left": 26,
+        "right": 857,
+        "top": 5,
+        "bottom": 1227,
+        "width": 832,
+        "height": 1223
+      },
+      "alphaMaskSha256": "f512772a4cb72e96144d95d51901dcd1b3b79cc88e533707cc46a12b5e8502dd",
+      "upperEdgeCorrelation": 0.7367,
+      "nearBlackOpaquePixels": 9604,
+      "sourceSha256": "5f9d947623a81fa53c89a49121e5844b7f36cb505de36e41bb6e7d87d7139455",
+      "normalizedSha256": "d9e598ac2799c7cbbc34c7b01b79b5fb596d73d7da549f27c4b380a9d1d3d932",
+      "sha256": "34a022af19b5171b99fee17efa816ee3533f1fbdd5c5bbbc3e89f90f86606178",
+      "bytes": 87152,
+      "webpQuality": 76
+    },
+    "Roman": {
+      "slug": "roman",
+      "file": "frames/rite-roman.webp",
+      "source": "sources/roman.jpg",
+      "normalized": "normalized/rite-roman.png",
+      "suppliedName": "roman.jpg",
+      "input": [
+        726,
+        1024
+      ],
+      "canvas": [
+        880,
+        1240
+      ],
+      "resize": "exact-bilinear + uniform rail cover alignment",
+      "paintScale": 1.011504,
+      "sourceRails": {
+        "left": 25,
+        "right": 853,
+        "top": 1,
+        "bottom": 1217,
+        "width": 829,
+        "height": 1217
+      },
+      "alignedRails": {
+        "left": 26,
+        "right": 857,
+        "top": 5,
+        "bottom": 1227,
+        "width": 832,
+        "height": 1223
+      },
+      "unitRails": {
+        "left": 26,
+        "right": 856,
+        "top": 1,
+        "bottom": 1227,
+        "width": 831,
+        "height": 1227
+      },
+      "alphaMaskSha256": "f512772a4cb72e96144d95d51901dcd1b3b79cc88e533707cc46a12b5e8502dd",
+      "upperEdgeCorrelation": 0.6107,
+      "nearBlackOpaquePixels": 11020,
+      "sourceSha256": "a782354728de84a2ec848b036a8c7fdf50447f68926887a3f18788e7b8cfdc40",
+      "normalizedSha256": "3033413345a14b2c386e7ab73067e61ab06a6ff8704e94bf36e2f30b67791303",
+      "sha256": "78e4c8f7a77bb9cafa4104b2b31a96d18437753b90c38cda12230c26f5f52d78",
+      "bytes": 88298,
+      "webpQuality": 76
+    },
+    "Norse": {
+      "slug": "norse",
+      "file": "frames/rite-norse.webp",
+      "source": "sources/norse.jpg",
+      "normalized": "normalized/rite-norse.png",
+      "suppliedName": "norse.jpg",
+      "input": [
+        726,
+        1024
+      ],
+      "canvas": [
+        880,
+        1240
+      ],
+      "resize": "exact-bilinear + uniform rail cover alignment",
+      "paintScale": 1.003606,
+      "sourceRails": {
+        "left": 24,
+        "right": 855,
+        "top": 0,
+        "bottom": 1228,
+        "width": 832,
+        "height": 1229
+      },
+      "alignedRails": {
+        "left": 26,
+        "right": 857,
+        "top": 5,
+        "bottom": 1227,
+        "width": 832,
+        "height": 1223
+      },
+      "unitRails": {
+        "left": 25,
+        "right": 855,
+        "top": 2,
+        "bottom": 1227,
+        "width": 831,
+        "height": 1226
+      },
+      "alphaMaskSha256": "f512772a4cb72e96144d95d51901dcd1b3b79cc88e533707cc46a12b5e8502dd",
+      "upperEdgeCorrelation": 0.6195,
+      "nearBlackOpaquePixels": 14432,
+      "sourceSha256": "0c53577d256abc84684127c32efa0b708a3edc9192d441d80a3dc4a1b41ce39c",
+      "normalizedSha256": "33ebe4f5470407a64fb1dc408c842fe78f72d0904b52b24f6853f69ca22d8e9e",
+      "sha256": "a2957f03e44286274cdfd873d242ea736b6d770faaaa32bb7b297de66925c0d9",
+      "bytes": 88140,
+      "webpQuality": 76
+    },
+    "Kemetic": {
+      "slug": "kemetic",
+      "file": "frames/rite-kemetic.webp",
+      "source": "sources/kemetic.jpg",
+      "normalized": "normalized/rite-kemetic.png",
+      "suppliedName": "kemetic.jpg",
+      "input": [
+        726,
+        1024
+      ],
+      "canvas": [
+        880,
+        1240
+      ],
+      "resize": "exact-bilinear + uniform rail cover alignment",
+      "paintScale": 1.007238,
+      "sourceRails": {
+        "left": 25,
+        "right": 853,
+        "top": 0,
+        "bottom": 1221,
+        "width": 829,
+        "height": 1222
+      },
+      "alignedRails": {
+        "left": 26,
+        "right": 857,
+        "top": 5,
+        "bottom": 1227,
+        "width": 832,
+        "height": 1223
+      },
+      "unitRails": {
+        "left": 25,
+        "right": 855,
+        "top": 3,
+        "bottom": 1224,
+        "width": 831,
+        "height": 1222
+      },
+      "alphaMaskSha256": "f512772a4cb72e96144d95d51901dcd1b3b79cc88e533707cc46a12b5e8502dd",
+      "upperEdgeCorrelation": 0.6895,
+      "nearBlackOpaquePixels": 10110,
+      "sourceSha256": "9d173d8c6713663ad13e1459606de0ec5c3cd69ed6ff8c134cf39f6dba5dfaf3",
+      "normalizedSha256": "f665ed1280ed0c4318d73bdd77d481dc0aa312fb9e3e4e9964620d5d55e8160f",
+      "sha256": "83e525a741d9617e0a1986a259475c105530985c34a5eeebd1f514fee54aa6b7",
+      "bytes": 95412,
+      "webpQuality": 76
+    },
+    "Mesopotamian": {
+      "slug": "mesopotamian",
+      "file": "frames/rite-mesopotamian.webp",
+      "source": "sources/mesopotamian.jpg",
+      "normalized": "normalized/rite-mesopotamian.png",
+      "suppliedName": "mesopotamian.jpg",
+      "input": [
+        726,
+        1024
+      ],
+      "canvas": [
+        880,
+        1240
+      ],
+      "resize": "exact-bilinear + uniform rail cover alignment",
+      "paintScale": 1.006024,
+      "sourceRails": {
+        "left": 23,
+        "right": 852,
+        "top": 0,
+        "bottom": 1220,
+        "width": 830,
+        "height": 1221
+      },
+      "alignedRails": {
+        "left": 26,
+        "right": 857,
+        "top": 5,
+        "bottom": 1227,
+        "width": 832,
+        "height": 1223
+      },
+      "unitRails": {
+        "left": 25,
+        "right": 855,
+        "top": 4,
+        "bottom": 1227,
+        "width": 831,
+        "height": 1224
+      },
+      "alphaMaskSha256": "f512772a4cb72e96144d95d51901dcd1b3b79cc88e533707cc46a12b5e8502dd",
+      "upperEdgeCorrelation": 0.6455,
+      "nearBlackOpaquePixels": 11916,
+      "sourceSha256": "9461d7a7480a8646f39eb480330b25e6956bf8fe1b5c62aaa43c22d070b01064",
+      "normalizedSha256": "6b0a1e6162e3a8ddda4347671066c6ff676f6cac1515199365f8a9636100ca7c",
+      "sha256": "a8e4a0eab779a334e03a99e624daf279c44cfa814e1a9dcb422f7281a023381f",
+      "bytes": 102092,
+      "webpQuality": 76
+    },
+    "Hindu": {
+      "slug": "hindu",
+      "file": "frames/rite-hindu.webp",
+      "source": "sources/hindu.jpg",
+      "normalized": "normalized/rite-hindu.png",
+      "suppliedName": "hindu.jpg",
+      "input": [
+        726,
+        1024
+      ],
+      "canvas": [
+        880,
+        1240
+      ],
+      "resize": "exact-bilinear + uniform rail cover alignment",
+      "paintScale": 1.007238,
+      "sourceRails": {
+        "left": 24,
+        "right": 852,
+        "top": 2,
+        "bottom": 1229,
+        "width": 829,
+        "height": 1228
+      },
+      "alignedRails": {
+        "left": 26,
+        "right": 857,
+        "top": 5,
+        "bottom": 1227,
+        "width": 832,
+        "height": 1223
+      },
+      "unitRails": {
+        "left": 26,
+        "right": 856,
+        "top": 6,
+        "bottom": 1227,
+        "width": 831,
+        "height": 1222
+      },
+      "alphaMaskSha256": "f512772a4cb72e96144d95d51901dcd1b3b79cc88e533707cc46a12b5e8502dd",
+      "upperEdgeCorrelation": 0.659,
+      "nearBlackOpaquePixels": 9900,
+      "sourceSha256": "fd759865efe2fb7d805448f3dcf997b2c3831eadae808d3f04f35456af51aa65",
+      "normalizedSha256": "55fc25ee8e54fd9dc5e1a677e840e928f2654905fb9a2cded03ba3d923bfb2b5",
+      "sha256": "57072f6914dae4844a046921f6ef314cebc511d2ec1a23c21a837fc7dcbcc409",
+      "bytes": 92034,
+      "webpQuality": 76
+    }
+  }
+}

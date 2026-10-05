@@ -1,0 +1,341 @@
+{
+  "formatVersion": 1,
+  "assetRevision": "ritual-pixel-v1",
+  "canvas": {
+    "width": 1056,
+    "height": 1488,
+    "aspectRatio": "22:31"
+  },
+  "identityIds": [
+    "hellenic",
+    "kemetic",
+    "mesopotamian",
+    "norse",
+    "roman",
+    "hindu",
+    "neutral"
+  ],
+  "exports": {
+    "completeFrame": "frames/{cardWidth}/{identity}.png",
+    "completeRiteFrame": "frames/{cardWidth}/rite-{identity}.png",
+    "supportedCardWidths": [
+      1056,
+      128,
+      220,
+      440
+    ],
+    "frameContents": "Frame, faction border, empty nameplate, and both blank cost holders; no artwork, text, numerals, or stat icons.",
+    "riteFrameContents": "Same header and ivory as the Unit plate, with the mid-band combat wells omitted so a Rite reads as scripture.",
+    "layerOrder": [
+      "artwork",
+      "complete frame",
+      "live text, numerals, and stat icons"
+    ],
+    "optionalCostHolder": "costs/{command|divinity}-blank-{size}.png",
+    "optionalCostHolderSizes": [
+      24,
+      30,
+      60,
+      144
+    ],
+    "statPng": "stat-icons/{attack|range|health}-{size}.png",
+    "statPngSizes": [
+      16,
+      24,
+      32,
+      64
+    ]
+  },
+  "regions": {
+    "nameplate": {
+      "x": 210,
+      "y": 88,
+      "width": 636,
+      "height": 76
+    },
+    "unitName": {
+      "x": 220,
+      "y": 100,
+      "width": 616,
+      "height": 56,
+      "maxLines": 1,
+      "alignment": "center"
+    },
+    "collar": {
+      "x": 112,
+      "y": 208,
+      "width": 832,
+      "height": 648,
+      "cut": 16
+    },
+    "artwork": {
+      "x": 112,
+      "y": 208,
+      "width": 832,
+      "height": 648
+    },
+    "artWell": {
+      "x": 112,
+      "y": 208,
+      "width": 832,
+      "height": 648,
+      "cut": 16
+    },
+    "stats": {
+      "x": 168,
+      "y": 832,
+      "width": 720,
+      "height": 88,
+      "baseline": 888
+    },
+    "rules": {
+      "x": 168,
+      "y": 1016,
+      "width": 720,
+      "height": 272,
+      "firstBaseline": 1052,
+      "lineSpacing": 44
+    },
+    "metadata": {
+      "x": 168,
+      "y": 1296,
+      "width": 720,
+      "height": 36,
+      "baseline": 1324
+    },
+    "commandCost": {
+      "x": 40,
+      "y": 55,
+      "width": 88,
+      "height": 88,
+      "centerX": 84,
+      "centerY": 99
+    },
+    "divinityCost": {
+      "x": 918,
+      "y": 56,
+      "width": 88,
+      "height": 88,
+      "centerX": 962,
+      "centerY": 100
+    },
+    "attackStat": {
+      "x": 281,
+      "y": 870,
+      "width": 86,
+      "height": 86,
+      "centerX": 324,
+      "centerY": 913
+    },
+    "healthStat": {
+      "x": 484,
+      "y": 855,
+      "width": 86,
+      "height": 86,
+      "centerX": 527,
+      "centerY": 898
+    },
+    "rangeStat": {
+      "x": 682,
+      "y": 871,
+      "width": 86,
+      "height": 86,
+      "centerX": 725,
+      "centerY": 914
+    }
+  },
+  "displaySizing": {
+    "master": {
+      "cardWidth": 1056,
+      "cardHeight": 1488,
+      "holderPixels": 144
+    },
+    "readySizes": [
+      {
+        "cardWidth": 128,
+        "cardHeight": 180,
+        "holderPixels": 24,
+        "numeralPixels": 17
+      },
+      {
+        "cardWidth": 220,
+        "cardHeight": 310,
+        "holderPixels": 30,
+        "numeralPixels": 20
+      },
+      {
+        "cardWidth": 440,
+        "cardHeight": 620,
+        "holderPixels": 60,
+        "numeralPixels": 40
+      }
+    ],
+    "coordinateScale": "cardWidth / 1056",
+    "holderPixelPosition": "left = round(centerX * coordinateScale - holderSize / 2); top = round(centerY * coordinateScale - holderSize / 2)",
+    "numeralAlignment": "Center visible glyph ink bounds on the rounded holder box center, not the font line box; measure each numeral at its rendered font size.",
+    "liveNamePixels": "Start at max(9, 9 * --ui-scale-factor); one line.",
+    "nameLineHeight": 1.08,
+    "note": "Generate new plates against RITUAL_PIXEL_FRAME_RULES.md. Ready sizes nearest-neighbor from the painted master. The builder punches the art window and fills leftover exterior. Command and Devotion are the header corner wells. Units keep mid-band Attack, Health, and Range circles over the same punched opening. Rites use a gold divider instead of combat wells. Rules sit on the bottom ivory."
+  },
+  "artworkProtection": {
+    "note": "Keep important faces and symbols out of the small upper corner overlap zones.",
+    "masterCornerOverlapBoundingBoxes": [
+      {
+        "x": 112,
+        "y": 208,
+        "width": 56,
+        "height": 40
+      },
+      {
+        "x": 888,
+        "y": 208,
+        "width": 56,
+        "height": 40
+      }
+    ]
+  },
+  "palette": {
+    "nameAndRules": "#241c14",
+    "costNumeral": "#fff5dd"
+  },
+  "cssVars": {
+    "--name-x": "20.833%",
+    "--name-y": "6.720%",
+    "--name-w": "58.333%",
+    "--name-h": "3.763%",
+    "--art-x": "10.606%",
+    "--art-y": "13.978%",
+    "--art-w": "78.788%",
+    "--art-h": "43.548%",
+    "--stats-x": "15.909%",
+    "--stats-y": "55.914%",
+    "--stats-w": "68.182%",
+    "--stats-h": "5.914%",
+    "--rules-x": "15.909%",
+    "--rules-y": "68.280%",
+    "--rules-w": "68.182%",
+    "--rules-h": "18.280%",
+    "--meta-x": "15.909%",
+    "--meta-y": "87.097%",
+    "--meta-w": "68.182%",
+    "--meta-h": "2.419%",
+    "--cmd-x": "7.955%",
+    "--cmd-y": "6.653%",
+    "--div-x": "91.098%",
+    "--div-y": "6.720%",
+    "--atk-x": "30.682%",
+    "--atk-y": "61.358%",
+    "--hp-x": "49.905%",
+    "--hp-y": "60.349%",
+    "--rng-x": "68.655%",
+    "--rng-y": "61.425%",
+    "--holder": "8.333%",
+    "--frame-pad-x": "3.409%",
+    "--frame-pad-y": "1.882%"
+  },
+  "riteRegions": {
+    "nameplate": {
+      "x": 210,
+      "y": 88,
+      "width": 636,
+      "height": 76
+    },
+    "unitName": {
+      "x": 220,
+      "y": 100,
+      "width": 616,
+      "height": 56,
+      "maxLines": 1,
+      "alignment": "center"
+    },
+    "collar": {
+      "x": 112,
+      "y": 208,
+      "width": 832,
+      "height": 648,
+      "cut": 16
+    },
+    "artwork": {
+      "x": 112,
+      "y": 208,
+      "width": 832,
+      "height": 648
+    },
+    "artWell": {
+      "x": 112,
+      "y": 208,
+      "width": 832,
+      "height": 648,
+      "cut": 16
+    },
+    "stats": {
+      "x": 168,
+      "y": 980,
+      "width": 720,
+      "height": 32,
+      "baseline": 1004
+    },
+    "rules": {
+      "x": 168,
+      "y": 1016,
+      "width": 720,
+      "height": 272,
+      "firstBaseline": 1052,
+      "lineSpacing": 44
+    },
+    "metadata": {
+      "x": 168,
+      "y": 1296,
+      "width": 720,
+      "height": 36,
+      "baseline": 1324
+    },
+    "commandCost": {
+      "x": 40,
+      "y": 55,
+      "width": 88,
+      "height": 88,
+      "centerX": 84,
+      "centerY": 99
+    },
+    "divinityCost": {
+      "x": 918,
+      "y": 56,
+      "width": 88,
+      "height": 88,
+      "centerX": 962,
+      "centerY": 100
+    },
+    "attackStat": {
+      "x": 281,
+      "y": 870,
+      "width": 86,
+      "height": 86,
+      "centerX": 324,
+      "centerY": 913
+    },
+    "healthStat": {
+      "x": 484,
+      "y": 855,
+      "width": 86,
+      "height": 86,
+      "centerX": 527,
+      "centerY": 898
+    },
+    "rangeStat": {
+      "x": 682,
+      "y": 871,
+      "width": 86,
+      "height": 86,
+      "centerX": 725,
+      "centerY": 914
+    }
+  },
+  "cssVarsRite": {
+    "--art-h": "43.548%",
+    "--stats-y": "65.860%",
+    "--stats-h": "2.151%",
+    "--rules-y": "68.280%",
+    "--rules-h": "18.280%"
+  }
+}

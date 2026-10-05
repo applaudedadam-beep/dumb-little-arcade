@@ -1,0 +1,1527 @@
+{
+  "schema": "iod.board-generated/3",
+  "tradition": "Hindu",
+  "authoredCanvas": [
+    128,
+    128
+  ],
+  "compactCanvas": [
+    64,
+    64
+  ],
+  "animated": false,
+  "palette": [
+    [
+      18,
+      14,
+      12
+    ],
+    [
+      28,
+      24,
+      20
+    ],
+    [
+      42,
+      36,
+      30
+    ],
+    [
+      58,
+      48,
+      40
+    ],
+    [
+      78,
+      62,
+      48
+    ],
+    [
+      108,
+      86,
+      66
+    ],
+    [
+      70,
+      78,
+      88
+    ],
+    [
+      110,
+      118,
+      128
+    ],
+    [
+      160,
+      168,
+      176
+    ],
+    [
+      210,
+      200,
+      180
+    ],
+    [
+      236,
+      228,
+      210
+    ],
+    [
+      248,
+      244,
+      232
+    ],
+    [
+      170,
+      90,
+      30
+    ],
+    [
+      200,
+      120,
+      40
+    ],
+    [
+      225,
+      155,
+      55
+    ],
+    [
+      240,
+      190,
+      90
+    ],
+    [
+      90,
+      28,
+      32
+    ],
+    [
+      140,
+      42,
+      48
+    ],
+    [
+      180,
+      70,
+      62
+    ],
+    [
+      150,
+      120,
+      55
+    ],
+    [
+      190,
+      155,
+      75
+    ],
+    [
+      220,
+      190,
+      110
+    ],
+    [
+      40,
+      100,
+      110
+    ],
+    [
+      80,
+      150,
+      145
+    ],
+    [
+      140,
+      80,
+      50
+    ],
+    [
+      180,
+      110,
+      70
+    ]
+  ],
+  "entries": [
+    {
+      "id": "ganaguard",
+      "kind": "unit",
+      "stem": "unit-ganaguard",
+      "file": "unit-ganaguard.png",
+      "compactFile": "unit-ganaguard-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "ganaguard-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "ec4234e72046f46b83f406061c5acc829ecf4216ac7e95735529308070d8f874",
+      "compactSha256": "6463d61b70fb46db29d8c6aaf63319e7518b96ec79f12e0fce1bd31e2ce75472"
+    },
+    {
+      "id": "drumgana",
+      "kind": "unit",
+      "stem": "unit-drumgana",
+      "file": "unit-drumgana.png",
+      "compactFile": "unit-drumgana-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "drumgana-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "b04ab78112ad2f8a735ab15f9014bac447ebaa186ccff4ea105fce9d7cfb0970",
+      "compactSha256": "ebe422e5cbd9b90bda961ae20edaab8e72e3fca560532411132b29bf1cdece5a"
+    },
+    {
+      "id": "riverkeeper",
+      "kind": "unit",
+      "stem": "unit-riverkeeper",
+      "file": "unit-riverkeeper.png",
+      "compactFile": "unit-riverkeeper-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "riverkeeper-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "37022c320ea20724f53d02b211c2bcee38223c68d6138dd0fd415953933af178",
+      "compactSha256": "c3c09ae6fe3b544e7bf541a507b0822e1764a193a394854e6b4c74a09e202d3d"
+    },
+    {
+      "id": "ascetic",
+      "kind": "unit",
+      "stem": "unit-ascetic",
+      "file": "unit-ascetic.png",
+      "compactFile": "unit-ascetic-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "ascetic-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "354e166ea1eec0f883cf2dc9842577ba57d88f33b2ac56b081fe8c598a09795a",
+      "compactSha256": "aa67f8ccc6febdeb4ce62eab061897b0cd04d73bcc1c3fa9bd4142f898422e3b"
+    },
+    {
+      "id": "nandi",
+      "kind": "unit",
+      "stem": "unit-nandi",
+      "file": "unit-nandi.png",
+      "compactFile": "unit-nandi-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "nandi-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "af34cbe2c2d8ec6334e416e243a31f3753d63b5b46068398d696535eaef47d95",
+      "compactSha256": "b2b34e2001d68bc6c8c82b07a3c11f702e2c724aac82028fd3ce6d686162cb04"
+    },
+    {
+      "id": "preservedstationkeeper",
+      "kind": "unit",
+      "stem": "unit-preservedstationkeeper",
+      "file": "unit-preservedstationkeeper.png",
+      "compactFile": "unit-preservedstationkeeper-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "preservedstationkeeper-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "f11b364f67ee7a20b8f0b5e203b33177e7ffab820b8de0a047da19dea37e0cf3",
+      "compactSha256": "8c18cd7d5022af728bc18683b3cde2df60a36b0daf0c7980d2704958c8ea4243"
+    },
+    {
+      "id": "secondformrishi",
+      "kind": "unit",
+      "stem": "unit-secondformrishi",
+      "file": "unit-secondformrishi.png",
+      "compactFile": "unit-secondformrishi-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "secondformrishi-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "574c0837d3df48406cd2289eda7f47ad891ed87b62f80b4a2e483f714a07eaf8",
+      "compactSha256": "2e439da1588588cd51c113dc8634aaeb419d08f735ced167f2ceb96517fc1828"
+    },
+    {
+      "id": "wovenbreathbearer",
+      "kind": "unit",
+      "stem": "unit-wovenbreathbearer",
+      "file": "unit-wovenbreathbearer.png",
+      "compactFile": "unit-wovenbreathbearer-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "wovenbreathbearer-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "e66bd7860fac37b07e576e812cbc0e5f88c24c020dd8093c0d9d8aab5e4d5225",
+      "compactSha256": "e70e2a5a51958749b6ccc6261c37db4d7c992a392c01fbb1d7df9d0b05943d45"
+    },
+    {
+      "id": "threefacedgana",
+      "kind": "unit",
+      "stem": "unit-threefacedgana",
+      "file": "unit-threefacedgana.png",
+      "compactFile": "unit-threefacedgana-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "threefacedgana-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "ecd04e91b48c298d586a96fedeea1e482ca48f8388347bc3988c669a0d553724",
+      "compactSha256": "f3f57d0396ecd5f736a18a641b57d164c08b0b59c96cb15ccaaa5cc19b5e4a8b"
+    },
+    {
+      "id": "bhima",
+      "kind": "unit",
+      "stem": "unit-bhima",
+      "file": "unit-bhima.png",
+      "compactFile": "unit-bhima-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "bhima-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "9c42e83d760794ed6e14b948cd4abee5ff7e9562e7c35cd4554911a5dbd5956b",
+      "compactSha256": "4fd39341c32625af38293e30c9ffddb3c8f66361cbbbee1498874164ce5bf93e"
+    },
+    {
+      "id": "makara",
+      "kind": "unit",
+      "stem": "unit-makara",
+      "file": "unit-makara.png",
+      "compactFile": "unit-makara-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "makara-subject.png",
+      "quadrant": null,
+      "sourceFlipped": true,
+      "authoredFacing": "east",
+      "sha256": "b4ab9a125c5fa2bba5873600179b84635e3bcd2b93a1fa14113817c7fd7163c5",
+      "compactSha256": "e07fc724eaee2f23747b68106defdd1bf6516746ab326d8e958a362b4cfa488d"
+    },
+    {
+      "id": "garuda",
+      "kind": "unit",
+      "stem": "unit-garuda",
+      "file": "unit-garuda.png",
+      "compactFile": "unit-garuda-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "garuda-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "7a1a5948a6bd7b6a7511369d4f69cc60671310c4d0b40b1813f807cd52e6a1d3",
+      "compactSha256": "650af32694f806c75966d72f3d506713e091a040a08dafa14013061280c104df"
+    },
+    {
+      "id": "markandeya",
+      "kind": "unit",
+      "stem": "unit-markandeya",
+      "file": "unit-markandeya.png",
+      "compactFile": "unit-markandeya-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "markandeya-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "28614354c1367d1293c2563f2d181fa7acd0446b1dc3746bf8ac7029f6625878",
+      "compactSha256": "81d7aa9a27037535faa58a44d418d118e61dfc930bc26b22d37d71aa4ee7c569"
+    },
+    {
+      "id": "savitri",
+      "kind": "unit",
+      "stem": "unit-savitri",
+      "file": "unit-savitri.png",
+      "compactFile": "unit-savitri-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "savitri-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "9e4afbfaa8ba199981aa98a83d68423c7acae18311014237b57bf6bbd0b5c83e",
+      "compactSha256": "13bc8bd62f7f69683fd0edff9d53106ef88a12f4c32c6eec2fb6be952cb93085"
+    },
+    {
+      "id": "naladamayanti",
+      "kind": "unit",
+      "stem": "unit-naladamayanti",
+      "file": "unit-naladamayanti.png",
+      "compactFile": "unit-naladamayanti-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "naladamayanti-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "9c8ea95c0174265f28486418a02a769280bbae608bcb2ee8e556993cd481684e",
+      "compactSha256": "0c7d18fdb72bc28320bf9aff00b82995448460f2480af87c3b28461d16e3dcdf"
+    },
+    {
+      "id": "sanjaya",
+      "kind": "unit",
+      "stem": "unit-sanjaya",
+      "file": "unit-sanjaya.png",
+      "compactFile": "unit-sanjaya-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "sanjaya-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "25c19388c6ef2271b0fca9faff7ba51a49285d54770f99372b97c7373262e55b",
+      "compactSha256": "aeacec6dab7d473c7fb2a6b40b0a513badc07efccbd6d90047b70c0dee04d0e2"
+    },
+    {
+      "id": "shesha",
+      "kind": "unit",
+      "stem": "unit-shesha",
+      "file": "unit-shesha.png",
+      "compactFile": "unit-shesha-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "shesha-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "9b80513adf1b5a02728a11b76c676118be37d1beba689d1c33955f580c9febe0",
+      "compactSha256": "e3f112f8811b3fc86407c21119aff926bf429e5569394fccc8366cafe8a31415"
+    },
+    {
+      "id": "rainjarkeep",
+      "kind": "unit",
+      "stem": "unit-rainjarkeep",
+      "file": "unit-rainjarkeep.png",
+      "compactFile": "unit-rainjarkeep-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "rainjarkeep-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "328dd2aa9a9c8e3e05057405f0d33af8abefc95c925e7cd9809554e1d47ead4d",
+      "compactSha256": "8c80c1351fd74b7fbd80158f1091a1ee59a92733d90c86357e2c73b34092cbb4"
+    },
+    {
+      "id": "airavata",
+      "kind": "unit",
+      "stem": "unit-airavata",
+      "file": "unit-airavata.png",
+      "compactFile": "unit-airavata-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "airavata-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "26fa848b54807717afcd7bb9d64c736e2c3e705e8bf0febaa6d282e041d5258c",
+      "compactSha256": "1a6dc6ef065776d31511510f9368d72cc524ec1ce47fe86d289af1f750e46463"
+    },
+    {
+      "id": "jatayu",
+      "kind": "unit",
+      "stem": "unit-jatayu",
+      "file": "unit-jatayu.png",
+      "compactFile": "unit-jatayu-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "jatayu-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "e4a6179310e9f679b838ff2103c783c618e9eddfb7c78fb05b71b1cac65866d3",
+      "compactSha256": "a6e13a0feb267485fa746cd2e257d1250c8eb2b1277324cd0b76456dbf46cecb"
+    },
+    {
+      "id": "vasuki",
+      "kind": "unit",
+      "stem": "unit-vasuki",
+      "file": "unit-vasuki.png",
+      "compactFile": "unit-vasuki-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "vasuki-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "d75435b28d30d7fee4565aa50637e665b17367a5fc86d512484a4fd95f5ab500",
+      "compactSha256": "da425686830b5096719415022544538801413275ea3254178f6dc5c56f870ee0"
+    },
+    {
+      "id": "answeredlion",
+      "kind": "unit",
+      "stem": "unit-answeredlion",
+      "file": "unit-answeredlion.png",
+      "compactFile": "unit-answeredlion-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "answeredlion-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "84786be686b42291f1d46e96759e803aa4c5716f00c3a57487c3558792491940",
+      "compactSha256": "554bc6cca03a28998b99a1e16aa2936bec3b64e252e2fc0f11e1d741137285cf"
+    },
+    {
+      "id": "thresholdguardian",
+      "kind": "unit",
+      "stem": "unit-thresholdguardian",
+      "file": "unit-thresholdguardian.png",
+      "compactFile": "unit-thresholdguardian-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "thresholdguardian-subject.png",
+      "quadrant": null,
+      "sourceFlipped": true,
+      "authoredFacing": "east",
+      "sha256": "22fe068325df0c0d5fa4d48bf5b9819d41016143a15658fa302d2ffc5a2e5111",
+      "compactSha256": "183598d45d22772e27bdeee34925708e29fbf954542b1a7e00c9133cd277a4b7"
+    },
+    {
+      "id": "offeredlampwitness",
+      "kind": "unit",
+      "stem": "unit-offeredlampwitness",
+      "file": "unit-offeredlampwitness.png",
+      "compactFile": "unit-offeredlampwitness-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "offeredlampwitness-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "73437eef2f216a65b7ef76b49e59efeef61cb094650b355a679e4a19efc8e02a",
+      "compactSha256": "cd0f97dacfc20daafb802962dc2bad4956b762ada079ad37a8ae85e836cc079d"
+    },
+    {
+      "id": "manysidedanswer",
+      "kind": "unit",
+      "stem": "unit-manysidedanswer",
+      "file": "unit-manysidedanswer.png",
+      "compactFile": "unit-manysidedanswer-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "manysidedanswer-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "891b9eea53e6565d4b0f72bf8c8e080b758781fa98a4b992ab9aab971f9ce1f5",
+      "compactSha256": "f1eff14a7f58507eafbe0adb9b1004a4c13abce9cbf3a13997ebf17c62306bcf"
+    },
+    {
+      "id": "thresholdcaller",
+      "kind": "unit",
+      "stem": "unit-thresholdcaller",
+      "file": "unit-thresholdcaller.png",
+      "compactFile": "unit-thresholdcaller-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "thresholdcaller-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "898b8f6a1e7cf77ac4be1f33c1528da7d98e24937f188f16966e2ff467479ad5",
+      "compactSha256": "9af3530ce160605beff1123a093f1d1e6c3f20145e80ff228f507c970f5d5f40"
+    },
+    {
+      "id": "burninggrounddancer",
+      "kind": "unit",
+      "stem": "unit-burninggrounddancer",
+      "file": "unit-burninggrounddancer.png",
+      "compactFile": "unit-burninggrounddancer-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "burninggrounddancer-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "27ea73c408f9bba27f08800178aaf15c82b7fcc37fb245473c88b387d084825f",
+      "compactSha256": "6c57b5e918efbd1501415cc5811d3ae814ef9a4f6df6eaf2732f1dcde8aa3fee"
+    },
+    {
+      "id": "lotustankkeeper",
+      "kind": "unit",
+      "stem": "unit-lotustankkeeper",
+      "file": "unit-lotustankkeeper.png",
+      "compactFile": "unit-lotustankkeeper-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "lotustankkeeper-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "f2860984196ab2667440dd67fb49fef22f8cd9466e7e5117fedcffc5ddb5a394",
+      "compactSha256": "83ad5ae44c3f9bb309ef336e122b2c99d3b5448fde43e2e52096a078731b32da"
+    },
+    {
+      "id": "twostationspilgrim",
+      "kind": "unit",
+      "stem": "unit-twostationspilgrim",
+      "file": "unit-twostationspilgrim.png",
+      "compactFile": "unit-twostationspilgrim-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "twostationspilgrim-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "0144a4fef2ba3ca5c408b0c1eb4d7d27b92cf5bbb7080590d28f44e4d98a02a6",
+      "compactSha256": "d6f7de5a94e5b77752c52b413c973f5fd6e1c7dba6e48b18dbfa042b5d124839"
+    },
+    {
+      "id": "templegateelephant",
+      "kind": "unit",
+      "stem": "unit-templegateelephant",
+      "file": "unit-templegateelephant.png",
+      "compactFile": "unit-templegateelephant-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "templegateelephant-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "4beb1f0a41b06c15fa3ef3c0d86cc34375d0025927ef5008397702058dd98055",
+      "compactSha256": "b658c8c640acfe0121dbaeaf86fa4dafc5b4bfd583b354910e9f76fdb638434f"
+    },
+    {
+      "id": "riverhymnreciter",
+      "kind": "unit",
+      "stem": "unit-riverhymnreciter",
+      "file": "unit-riverhymnreciter.png",
+      "compactFile": "unit-riverhymnreciter-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "riverhymnreciter-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "d35c93beab8259650a1db44a2087859727672096562c30499b45302cdcdb03fc",
+      "compactSha256": "505d1271fff6fca4257d6df83cf87532e669e304e98dea4a3c225a30816c6bd0"
+    },
+    {
+      "id": "agastya",
+      "kind": "unit",
+      "stem": "unit-agastya",
+      "file": "unit-agastya.png",
+      "compactFile": "unit-agastya-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "agastya-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "071920fc7f961821759bef770c8ba1baee5dc54ad87cad321b6d48e4727eab97",
+      "compactSha256": "1874651c94893800b006e7ee7b620bee829577231119ec0baca9ef8e55343b26"
+    },
+    {
+      "id": "bhagiratha",
+      "kind": "unit",
+      "stem": "unit-bhagiratha",
+      "file": "unit-bhagiratha.png",
+      "compactFile": "unit-bhagiratha-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "bhagiratha-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "5fc82bf93d4d890bfe6f20d2e6884f19a8e54c79f88f83360cd3c4b0910f5b8d",
+      "compactSha256": "296c5f0a29c30d50c4277546a4d8f6a2c1e1f89b7ba63771db6d56973c3f01f4"
+    },
+    {
+      "id": "ganga",
+      "kind": "unit",
+      "stem": "unit-ganga",
+      "file": "unit-ganga.png",
+      "compactFile": "unit-ganga-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "ganga-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "9c6b7cd3431163e098696f80514445d002a82a0ea4e0d3706d0233c6b8f54893",
+      "compactSha256": "7c4e46309f8ae341ab8da1b14272aae08b5e2bf08538d35fe2ffb5a9574de4cf"
+    },
+    {
+      "id": "karna",
+      "kind": "unit",
+      "stem": "unit-karna",
+      "file": "unit-karna.png",
+      "compactFile": "unit-karna-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "karna-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "e8d0283dd41c5b85de8a0e61e96532aec7570a73f78690369432dd0e9361b050",
+      "compactSha256": "c7bb8d4535517c9d0c6844107fac785e219ff94a416e9eb5a9874e4b1213e9eb"
+    },
+    {
+      "id": "nachiketa",
+      "kind": "unit",
+      "stem": "unit-nachiketa",
+      "file": "unit-nachiketa.png",
+      "compactFile": "unit-nachiketa-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "nachiketa-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "824adab1a32b5d1686660e8eb3cfaa91fd9920ba31e7b36bfd55459b4c1ae270",
+      "compactSha256": "605e676bb8bbda4bc80cf16082039da7f34eb125a805dac41b98de94b8e11b14"
+    },
+    {
+      "id": "vrishabha",
+      "kind": "unit",
+      "stem": "unit-vrishabha",
+      "file": "unit-vrishabha.png",
+      "compactFile": "unit-vrishabha-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "vrishabha-subject.png",
+      "quadrant": null,
+      "sourceFlipped": true,
+      "authoredFacing": "east",
+      "sha256": "d96f1c919b8875f0320139d651b1409a4f6ccb9c4425832376973e75e8497fd5",
+      "compactSha256": "094bfa2a319587608a3e67b9b1edb920c5fe3cff5b82fbf2b2a56d498da1b7af"
+    },
+    {
+      "id": "deity-shiva",
+      "kind": "unit",
+      "stem": "unit-deity-shiva",
+      "file": "unit-deity-shiva.png",
+      "compactFile": "unit-deity-shiva-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "deity-shiva-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "a10d5038f7508fa62128028e0edf7def8731d86afc49b8930ab55d856075d7c5",
+      "compactSha256": "2705c4391ca0b8507a26c5c09e2314cc5f6ea229bfe6c7794a1abe017e99444d"
+    },
+    {
+      "id": "deity-vishnu",
+      "kind": "unit",
+      "stem": "unit-deity-vishnu",
+      "file": "unit-deity-vishnu.png",
+      "compactFile": "unit-deity-vishnu-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "deity-vishnu-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "2ca3a9302180c82b83b62398c77e11912c804e730355da74ab881e822dda9e4f",
+      "compactSha256": "0967632f504f6d94c9dbd5d298e5b3fbdf4a9594612b67a5f0bd0e222e3c866f"
+    },
+    {
+      "id": "deity-durga",
+      "kind": "unit",
+      "stem": "unit-deity-durga",
+      "file": "unit-deity-durga.png",
+      "compactFile": "unit-deity-durga-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "deity-durga-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "69a20ced1c55e307c25f4c77ecffce755eeb21709579cbf2374425ac14ab46e5",
+      "compactSha256": "c805a476648e319e988a6696c299bce5184c14344ee9e8132153a80a24b4b19f"
+    },
+    {
+      "id": "flameStep",
+      "kind": "form",
+      "stem": "form-flameStep",
+      "file": "form-flameStep.png",
+      "compactFile": "form-flameStep-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "form-symbols-01.png",
+      "quadrant": 0,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "daeeebb67141b5686b1a693a761d33e5cd79c79e8f1bf3fdcb0bf25f8ba929ac",
+      "compactSha256": "18327e0fc31d770f485886d9e1fc6ce94ab314873a04791618c3ce1cc6e4b8c9"
+    },
+    {
+      "id": "ashWater",
+      "kind": "form",
+      "stem": "form-ashWater",
+      "file": "form-ashWater.png",
+      "compactFile": "form-ashWater-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "form-symbols-01.png",
+      "quadrant": 1,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "f010a719688a8b7f761f595a72490c83281cec21e69e93b69159e5df39550280",
+      "compactSha256": "4b22403f85a55ab111175aeb8a6ee5c0f1c917738d18f431939877adba390122"
+    },
+    {
+      "id": "makaraRiver",
+      "kind": "form",
+      "stem": "form-makaraRiver",
+      "file": "form-makaraRiver.png",
+      "compactFile": "form-makaraRiver-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "form-symbols-01.png",
+      "quadrant": 2,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "8daef51b0790a3577fc5c8b1f1ba59b9c94a514b29496b0636ae69179c71f2ea",
+      "compactSha256": "447d5cdbf5fa1fcd6f40f837e651394e26c165ccb3aecb0791b91557c0455607"
+    },
+    {
+      "id": "makaraGate",
+      "kind": "form",
+      "stem": "form-makaraGate",
+      "file": "form-makaraGate.png",
+      "compactFile": "form-makaraGate-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "form-symbols-01.png",
+      "quadrant": 3,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "da71220d81a24ec209b2f403f0c923d73730f8e0e16c60b03f4815b865576153",
+      "compactSha256": "e1c7841cb416d0d8f76c6f86fc84ab78f543b0235e340be72b2d2683b7fbc3e8"
+    },
+    {
+      "id": "garudaWind",
+      "kind": "form",
+      "stem": "form-garudaWind",
+      "file": "form-garudaWind.png",
+      "compactFile": "form-garudaWind-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "form-symbols-02.png",
+      "quadrant": 0,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "e2d6e10e0404160f52d61ce83b8434a70c087359114758d87ad241745fa19625",
+      "compactSha256": "4e2e024db429eff4c6a66435a774fc56091d0d92bf36cfe4d97f97020cd7d7a4"
+    },
+    {
+      "id": "garudaShelter",
+      "kind": "form",
+      "stem": "form-garudaShelter",
+      "file": "form-garudaShelter.png",
+      "compactFile": "form-garudaShelter-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "form-symbols-02.png",
+      "quadrant": 1,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "cd8e1fc79e12059fb0bae06dfcc22b0fb40f03225fa202364ce13b7cc8eebb18",
+      "compactSha256": "0bc6bcc9d0edf36f0db6027f6f28eabaa5c9973cd21818cfee0e13952f1f1c99"
+    },
+    {
+      "id": "sheshaCoil",
+      "kind": "form",
+      "stem": "form-sheshaCoil",
+      "file": "form-sheshaCoil.png",
+      "compactFile": "form-sheshaCoil-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "form-symbols-02.png",
+      "quadrant": 2,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "393ba440da3de4a033f616b2d25370c5795e6977c9b9956c47045205b2544669",
+      "compactSha256": "065cf0fa0a9f21aee4924ec7795fb6464b57cfe33cc6e039a72ac2aececbe9e1"
+    },
+    {
+      "id": "sheshaHood",
+      "kind": "form",
+      "stem": "form-sheshaHood",
+      "file": "form-sheshaHood.png",
+      "compactFile": "form-sheshaHood-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "form-symbols-02.png",
+      "quadrant": 3,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "eff86418d21b22970067e868a61cc9467835b8c2e3030c6ec1cdab57492522aa",
+      "compactSha256": "559a3610a1ae84024ac24937abb9d8eb2f21cb1094244b6259291a39924cc9c9"
+    },
+    {
+      "id": "ganaSpear",
+      "kind": "form",
+      "stem": "form-ganaSpear",
+      "file": "form-ganaSpear.png",
+      "compactFile": "form-ganaSpear-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "form-symbols-03.png",
+      "quadrant": 0,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "1bb7ef354263bbd3724972e5c33f86e02fd479368e32576be0b14e8789ca615e",
+      "compactSha256": "acca0c1008142351d6f256bab15b1c557163524e981f22c2286f10cd6efa6357"
+    },
+    {
+      "id": "ganaBell",
+      "kind": "form",
+      "stem": "form-ganaBell",
+      "file": "form-ganaBell.png",
+      "compactFile": "form-ganaBell-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "form-symbols-03.png",
+      "quadrant": 1,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "7f7e23e212f12b3722e8a2e1ece5f07ca9a5c1ee05fcbb7feeef0997ec2b689e",
+      "compactSha256": "4c531a2dcab755e2dc521b7dc1f128fc1ab9c1fc7ea459fb1a6bb6bf5313507e"
+    },
+    {
+      "id": "markandeyaAsh",
+      "kind": "form",
+      "stem": "form-markandeyaAsh",
+      "file": "form-markandeyaAsh.png",
+      "compactFile": "form-markandeyaAsh-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "form-symbols-03.png",
+      "quadrant": 2,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "2f1ee955dfe291c803dd9f227d6ccf487ba35bdeeafe5da4de4073d3568ed8bd",
+      "compactSha256": "ac423082291a2b4aeee71bd6f7bff90366e3ed426af19168891bc984c45e8e72"
+    },
+    {
+      "id": "markandeyaFlame",
+      "kind": "form",
+      "stem": "form-markandeyaFlame",
+      "file": "form-markandeyaFlame.png",
+      "compactFile": "form-markandeyaFlame-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "form-symbols-03.png",
+      "quadrant": 3,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "ce5e5532b497c4c52029ae9c169c263a8d97b54d1186369066915c4f3d4d0620",
+      "compactSha256": "91b037508670bca8e11d397e7b79db3f8d82051af972d403ba4784f2be575542"
+    },
+    {
+      "id": "tigerStride",
+      "kind": "form",
+      "stem": "form-tigerStride",
+      "file": "form-tigerStride.png",
+      "compactFile": "form-tigerStride-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "form-symbols-04.png",
+      "quadrant": 0,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "c12b5525b4f880bc08ede02c1fb734836094ef6c55f58b9ef95aac0cec5d2068",
+      "compactSha256": "dc8b55b4135cc5e07f0d851a50817e3a926996dadc08043e4106461a6aec9e8d"
+    },
+    {
+      "id": "serpentCoil",
+      "kind": "form",
+      "stem": "form-serpentCoil",
+      "file": "form-serpentCoil.png",
+      "compactFile": "form-serpentCoil-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "form-symbols-04.png",
+      "quadrant": 1,
+      "sourceFlipped": true,
+      "authoredFacing": "east",
+      "sha256": "56602260c483925cddedf64eea025e2bf2e36951b8a3b3f7c4446abbaf1dc67d",
+      "compactSha256": "cd2df8c1bb15fe2e168879005aa0aa097636aeca0ef2b32f6ad22e64c35f5ff9"
+    },
+    {
+      "id": "mountainBearer",
+      "kind": "form",
+      "stem": "form-mountainBearer",
+      "file": "form-mountainBearer.png",
+      "compactFile": "form-mountainBearer-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "form-symbols-04.png",
+      "quadrant": 2,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "a940dc329224f8f51110cc7d64a0ba3f7ecd90c0a9fffd80f94990c8b8cd0323",
+      "compactSha256": "b419892c2a833a3e78ce4d0a9304b30636a2a2b7789b102537e8599ce757a3fa"
+    },
+    {
+      "id": "templeGate",
+      "kind": "form",
+      "stem": "form-templeGate",
+      "file": "form-templeGate.png",
+      "compactFile": "form-templeGate-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "form-symbols-04.png",
+      "quadrant": 3,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "dab31ea942ab48473df57eecf0fc3abb7db6329cc384ba37dd23129d2f91854d",
+      "compactSha256": "bfb5628227fcfa8e1667ae700d5acd38e54baad98e3b4403d88be921b0f596d8"
+    },
+    {
+      "id": "guardingForm",
+      "kind": "form",
+      "stem": "form-guardingForm",
+      "file": "form-guardingForm.png",
+      "compactFile": "form-guardingForm-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "form-symbols-05.png",
+      "quadrant": 0,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "68ded04e4432dbce08a79d2b86e2fd7d6d67b72bde001d090ec08ba67f076c2b",
+      "compactSha256": "0ed654dab5494271144df505ef84ffd6092471ded3564a002f220425be8f0496"
+    },
+    {
+      "id": "restoringForm",
+      "kind": "form",
+      "stem": "form-restoringForm",
+      "file": "form-restoringForm.png",
+      "compactFile": "form-restoringForm-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "form-symbols-05.png",
+      "quadrant": 1,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "8b943049e57fc98fdff5123451c47f9979e6c10a29630681bf8f7f8905b483ee",
+      "compactSha256": "94e1fcbead16e84bd86130cdfdfcb177fe611f5492b45cc6ccc9b8dda097f704"
+    },
+    {
+      "id": "confrontingForm",
+      "kind": "form",
+      "stem": "form-confrontingForm",
+      "file": "form-confrontingForm.png",
+      "compactFile": "form-confrontingForm-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "form-symbols-05.png",
+      "quadrant": 2,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "a77f6f8727da36b0bb024952e229e8b70f404857781aab8e4b5ab94f28fa0428",
+      "compactSha256": "384dc74f46060b4969de29c15d207f6a7308d1137c4b9055e732f77192e0f3e6"
+    },
+    {
+      "id": "shelteringForm",
+      "kind": "form",
+      "stem": "form-shelteringForm",
+      "file": "form-shelteringForm.png",
+      "compactFile": "form-shelteringForm-compact.png",
+      "tradition": "Hindu",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 26,
+      "source": "form-symbols-05.png",
+      "quadrant": 3,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "3dd4b0dcb664d967862bd9365c3e9cfc5448e2c2c1f1749b2299c506eb1a7254",
+      "compactSha256": "3fb11ed79c75d3742c10e6c39d260092d53ce25390bd776a78daae586ec3f3d5"
+    }
+  ]
+}

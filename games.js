@@ -8,6 +8,14 @@
 //   added  - date (YYYY-MM-DD), newest show first
 const GAMES = [
   {
+    slug: "idols-of-dust",
+    title: "Idols of Dust",
+    emoji: "🗿",
+    blurb: "A solemn mythic card game: one covenant, one pilgrimage, three Acts. The serious one.",
+    color: "#c9a25b",
+    added: "2026-10-05",
+  },
+  {
     slug: "monster-day-care",
     title: "Monster Day Care",
     emoji: "👶",

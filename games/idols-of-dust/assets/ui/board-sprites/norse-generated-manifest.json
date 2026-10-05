@@ -1,0 +1,1154 @@
+{
+  "schema": "iod.board-generated/3",
+  "tradition": "Norse",
+  "authoredCanvas": [
+    128,
+    128
+  ],
+  "compactCanvas": [
+    64,
+    64
+  ],
+  "animated": false,
+  "palette": [
+    [
+      18,
+      14,
+      12
+    ],
+    [
+      26,
+      28,
+      30
+    ],
+    [
+      38,
+      42,
+      46
+    ],
+    [
+      52,
+      58,
+      64
+    ],
+    [
+      68,
+      76,
+      84
+    ],
+    [
+      88,
+      98,
+      108
+    ],
+    [
+      110,
+      120,
+      130
+    ],
+    [
+      135,
+      145,
+      155
+    ],
+    [
+      160,
+      168,
+      176
+    ],
+    [
+      188,
+      192,
+      196
+    ],
+    [
+      170,
+      165,
+      150
+    ],
+    [
+      200,
+      195,
+      175
+    ],
+    [
+      222,
+      216,
+      198
+    ],
+    [
+      240,
+      234,
+      218
+    ],
+    [
+      70,
+      50,
+      40
+    ],
+    [
+      95,
+      65,
+      50
+    ],
+    [
+      125,
+      80,
+      55
+    ],
+    [
+      155,
+      105,
+      70
+    ],
+    [
+      180,
+      130,
+      90
+    ],
+    [
+      45,
+      40,
+      50
+    ],
+    [
+      70,
+      60,
+      75
+    ],
+    [
+      95,
+      85,
+      100
+    ],
+    [
+      80,
+      70,
+      55
+    ],
+    [
+      115,
+      100,
+      75
+    ],
+    [
+      150,
+      135,
+      100
+    ]
+  ],
+  "entries": [
+    {
+      "id": "oathspearman",
+      "kind": "unit",
+      "stem": "unit-oathspearman",
+      "file": "unit-oathspearman.png",
+      "compactFile": "unit-oathspearman-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "oathspearman-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "5e9213370e61eb4a4bc430e627493fd5795a43adc8afef49447154f8c75da623",
+      "compactSha256": "2ccfde037cdfa78bf804e1fc70139c56aca2fb93f3df3d04b5f11b73e1e11361"
+    },
+    {
+      "id": "ravenmarked",
+      "kind": "unit",
+      "stem": "unit-ravenmarked",
+      "file": "unit-ravenmarked.png",
+      "compactFile": "unit-ravenmarked-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "ravenmarked-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "9ee9eadff61211680a6b351d263df7b595f5ed5c6c3c2dc0b0d0e5b35c8f1308",
+      "compactSha256": "e4106bc3a8a28d96148c6fe9672f9b2c8f0d992f944078c5d28859abc3dd743e"
+    },
+    {
+      "id": "cairnskald",
+      "kind": "unit",
+      "stem": "unit-cairnskald",
+      "file": "unit-cairnskald.png",
+      "compactFile": "unit-cairnskald-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "cairnskald-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "43e297c9ea3cd3f2865dae95da7467320d2f9e480d90da52c93548f7d5f11e0a",
+      "compactSha256": "d4a33b8682b7bdaa42a0389207afbb4fd8361627ddbf48f0447f9447bb39cb69"
+    },
+    {
+      "id": "spokendoomseer",
+      "kind": "unit",
+      "stem": "unit-spokendoomseer",
+      "file": "unit-spokendoomseer.png",
+      "compactFile": "unit-spokendoomseer-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "spokendoomseer-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "0d2a6f39d52edbd801c7f64f09a515c131e838a13504cd1c6ee5ff56d043d984",
+      "compactSha256": "70676e760d59c06b34bfc546c6a7f413f54ce95a4ca41c8580d3a8580a5af19c"
+    },
+    {
+      "id": "lastdeedheir",
+      "kind": "unit",
+      "stem": "unit-lastdeedheir",
+      "file": "unit-lastdeedheir.png",
+      "compactFile": "unit-lastdeedheir-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-01.png",
+      "quadrant": 3,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "298b070f7f69305e026385611fbbef681d8af922aff3849fe40b19f911aa7153",
+      "compactSha256": "c143b394f40d20b3dad144e9cbdcd014ce729bf3dbab9599adaf96105ed9e040"
+    },
+    {
+      "id": "shieldthane",
+      "kind": "unit",
+      "stem": "unit-shieldthane",
+      "file": "unit-shieldthane.png",
+      "compactFile": "unit-shieldthane-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-02.png",
+      "quadrant": 0,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "7c6b058e4ac7bb0193f46f8189c6055f4179ab2a1acc4706dee1621a22e88f7d",
+      "compactSha256": "d94a7f1a1cbb2af2374b8e26e5ce5f2d7ecebf17bc25a0cf195d16a3a6720d48"
+    },
+    {
+      "id": "runecarver",
+      "kind": "unit",
+      "stem": "unit-runecarver",
+      "file": "unit-runecarver.png",
+      "compactFile": "unit-runecarver-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "runecarver-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "6ceddd6341f19ed6fa01c215d7b8e0b90d76f9f8ae5c6d660084817a9c2ada9e",
+      "compactSha256": "fd0990b83a0cc1c9ceb64d5756040fc5f1f1ec0055a1659ab87202ebe8f673a3"
+    },
+    {
+      "id": "gallowsruneseer",
+      "kind": "unit",
+      "stem": "unit-gallowsruneseer",
+      "file": "unit-gallowsruneseer.png",
+      "compactFile": "unit-gallowsruneseer-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "gallowsruneseer-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "95eb3140a0a2fdab585be1a4f36ef3549eb068bc2c804a401e8da8425cfb57ed",
+      "compactSha256": "23ab04bf5e82115b1a13fb64c9d5d6dc8a5a99d94ffe6d682066a44348d34bc1"
+    },
+    {
+      "id": "oneeyedseer",
+      "kind": "unit",
+      "stem": "unit-oneeyedseer",
+      "file": "unit-oneeyedseer.png",
+      "compactFile": "unit-oneeyedseer-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "oneeyedseer-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "bfa366c9c3f4704a18434c27bf993470763b9118e9a422e11122314e046ef70d",
+      "compactSha256": "e3966b709175adb61b5a54d60260d5d5f0d90bef7a9b312ccdcd00f472c2d67d"
+    },
+    {
+      "id": "markedspearfrontsman",
+      "kind": "unit",
+      "stem": "unit-markedspearfrontsman",
+      "file": "unit-markedspearfrontsman.png",
+      "compactFile": "unit-markedspearfrontsman-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "markedspearfrontsman-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "585ab7e603236bd5a07ec6b72caefd96823ff73522c774619fed1cde09b57310",
+      "compactSha256": "ef5fc22c71d9fbc83c2c9b0685341f8155ab62e2176eacf95713c4b99e59b1ae"
+    },
+    {
+      "id": "thunderclashcaller",
+      "kind": "unit",
+      "stem": "unit-thunderclashcaller",
+      "file": "unit-thunderclashcaller.png",
+      "compactFile": "unit-thunderclashcaller-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "thunderclashcaller-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "7dad964e7fc356fe0c4ab329a52267acf37023df7a6f919552f3e1c693d8df7b",
+      "compactSha256": "d1e86f3a214ebbb5239071b7a2ab3a74956b8557cc183b689b6d7088e31836c6"
+    },
+    {
+      "id": "lastspearvalkyrie",
+      "kind": "unit",
+      "stem": "unit-lastspearvalkyrie",
+      "file": "unit-lastspearvalkyrie.png",
+      "compactFile": "unit-lastspearvalkyrie-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "lastspearvalkyrie-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "a8123f1d368ab6fbd5dcb40fc7402ff47b8fb24c0424b686278d6bf53d0da485",
+      "compactSha256": "c84350b6043e3a2a870a3339a7628ebdac9c9bac8d5be71eb8515475613f3c78"
+    },
+    {
+      "id": "cairnshieldmother",
+      "kind": "unit",
+      "stem": "unit-cairnshieldmother",
+      "file": "unit-cairnshieldmother.png",
+      "compactFile": "unit-cairnshieldmother-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "cairnshieldmother-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "f5713b74bc02d88e0d5f5c854dbaeb0ae10e56b31bf10ecf67e6436164526219",
+      "compactSha256": "7ad49c72a3813c17e52b442dc8af7f8a9fa8d8382adb26317e35c0747ce4262e"
+    },
+    {
+      "id": "oathringwolf",
+      "kind": "unit",
+      "stem": "unit-oathringwolf",
+      "file": "unit-oathringwolf.png",
+      "compactFile": "unit-oathringwolf-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-04.png",
+      "quadrant": 0,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "095ab1c091363701c660e9891e0a4b80df0f5cf4ed7d86097e15ae9d972cebe3",
+      "compactSha256": "d4fd93f89e2a5860cf3c024d12cc6fc881f90e5ac523a0ca1e3160234ab3953c"
+    },
+    {
+      "id": "sigurd",
+      "kind": "unit",
+      "stem": "unit-sigurd",
+      "file": "unit-sigurd.png",
+      "compactFile": "unit-sigurd-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "sigurd-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "49acf867751a4396c555f8aeb178ef5f54ea8a70c03d4b7f8d2a2843df6fb805",
+      "compactSha256": "4b453152e14d01109e514b5b720cf0d5d379e1e8392d05cb78deb46fa762452c"
+    },
+    {
+      "id": "fafnir",
+      "kind": "unit",
+      "stem": "unit-fafnir",
+      "file": "unit-fafnir.png",
+      "compactFile": "unit-fafnir-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "fafnir-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "57bc7bb36c8502a806c0ac28fb9149cfa47ca3cbe4089b196d611f1301714d05",
+      "compactSha256": "6e5dee92fc39c65bce4322b738aeec8523f9142cf05489aae4435083e00c7794"
+    },
+    {
+      "id": "fenrir",
+      "kind": "unit",
+      "stem": "unit-fenrir",
+      "file": "unit-fenrir.png",
+      "compactFile": "unit-fenrir-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "fenrir-subject.png",
+      "quadrant": null,
+      "sourceFlipped": true,
+      "authoredFacing": "east",
+      "sha256": "3255798c44c064f589046fb0ed630fa1ed27a2a6e25a0f2cd2e698953fea3291",
+      "compactSha256": "72599ac38d2134a6690c148e79542982fa5411835470b24a234ecf1e2f164d48"
+    },
+    {
+      "id": "brynhild",
+      "kind": "unit",
+      "stem": "unit-brynhild",
+      "file": "unit-brynhild.png",
+      "compactFile": "unit-brynhild-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-05.png",
+      "quadrant": 0,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "e56dbac3fc74eef8e3ab91ff3913e80972305ce1d1371425c2bf5adb3b03c989",
+      "compactSha256": "975a6de0d2051c7fac4bd6f5380113eb4fcfcab5fac8980c16d46f7988002072"
+    },
+    {
+      "id": "thjalfi",
+      "kind": "unit",
+      "stem": "unit-thjalfi",
+      "file": "unit-thjalfi.png",
+      "compactFile": "unit-thjalfi-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "thjalfi-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "c67ec5c5f7fb41c96f2f3df72a6038d4896638fc4cfc956a02ba5b2ef8ff597e",
+      "compactSha256": "867731299946ad86c7472be31ba59b108ba3c7cbea9fbbf98e5dee13281ebf30"
+    },
+    {
+      "id": "hervor",
+      "kind": "unit",
+      "stem": "unit-hervor",
+      "file": "unit-hervor.png",
+      "compactFile": "unit-hervor-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-05.png",
+      "quadrant": 2,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "569b8757944a98e84fee6335adbcc860a4977300c58fcfb2ffac66b088321afa",
+      "compactSha256": "c794d31bd64d3909806b013ba7df754e9553ed739fce6ad4478d83555087efcf"
+    },
+    {
+      "id": "beowulf",
+      "kind": "unit",
+      "stem": "unit-beowulf",
+      "file": "unit-beowulf.png",
+      "compactFile": "unit-beowulf-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "beowulf-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "d74f914d1b32867cfc4ef504af031da9ef368185e6cfea00fc749e8238703890",
+      "compactSha256": "9ae7f4f616ab181988c0cd4adef38a5461cf8e818ed0bf42b056d0df7bbc61de"
+    },
+    {
+      "id": "jormungandr",
+      "kind": "unit",
+      "stem": "unit-jormungandr",
+      "file": "unit-jormungandr.png",
+      "compactFile": "unit-jormungandr-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-06.png",
+      "quadrant": 0,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "3e7c3833ac2b29f4db1b41c304728b8b679ed8ddc16a1baad9d12df2f431239e",
+      "compactSha256": "412f25bd51f2cdb1eebfa818dbae0879bddf920a4a9bef8a3b190ad93714d048"
+    },
+    {
+      "id": "cairnlevy",
+      "kind": "unit",
+      "stem": "unit-cairnlevy",
+      "file": "unit-cairnlevy.png",
+      "compactFile": "unit-cairnlevy-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "cairnlevy-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "a8534a94dec45a534fa3053816adfe73f52fd9fb9ff84158fc9218deb12b2da1",
+      "compactSha256": "6539f28d907371b18252185dbbf79cdd1861957e549e292c0780bc40a6b4fff4"
+    },
+    {
+      "id": "garmr",
+      "kind": "unit",
+      "stem": "unit-garmr",
+      "file": "unit-garmr.png",
+      "compactFile": "unit-garmr-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "garmr-subject.png",
+      "quadrant": null,
+      "sourceFlipped": true,
+      "authoredFacing": "east",
+      "sha256": "8415ff8168c121d70de081ce153333d409ab4132a1af0ad13f050aaa6bf45107",
+      "compactSha256": "0b041e209378b6a0f3769d71b17937c7eecb73eff70bd71506a00b4e0af5d0cc"
+    },
+    {
+      "id": "nidhoggr",
+      "kind": "unit",
+      "stem": "unit-nidhoggr",
+      "file": "unit-nidhoggr.png",
+      "compactFile": "unit-nidhoggr-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-06.png",
+      "quadrant": 3,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "c19b3a7c4494f596068208e11fb7504430e8531935f7057025a7fe3178733a32",
+      "compactSha256": "dc5394e6212b17eb3ed7c13b456d364fd787424579ab1e103b22a8221269606b"
+    },
+    {
+      "id": "hildisvini",
+      "kind": "unit",
+      "stem": "unit-hildisvini",
+      "file": "unit-hildisvini.png",
+      "compactFile": "unit-hildisvini-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-07.png",
+      "quadrant": 0,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "f4e63fe098ce17808b906b37b8d52671424e21bc64175a9b4499860de896d290",
+      "compactSha256": "6f40597089336e5b85a5199c6b220cc44fd0b69c2aecc4b1f28432aa26d9f248"
+    },
+    {
+      "id": "falconcloakedspear",
+      "kind": "unit",
+      "stem": "unit-falconcloakedspear",
+      "file": "unit-falconcloakedspear.png",
+      "compactFile": "unit-falconcloakedspear-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-07.png",
+      "quadrant": 1,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "9853aa84112fa3d3e91de455b25725bbb856836e8ff6f00cfa01dc97800e055f",
+      "compactSha256": "d703865b5b03ef989159b3275ff69c05e4d88354011432fb84d441f0d938d619"
+    },
+    {
+      "id": "chosenthreadkeeper",
+      "kind": "unit",
+      "stem": "unit-chosenthreadkeeper",
+      "file": "unit-chosenthreadkeeper.png",
+      "compactFile": "unit-chosenthreadkeeper-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "chosenthreadkeeper-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "9057a537d42095ab4201b782c97eca5d5e08f3015e4d221fd2f9b945bbbdaea8",
+      "compactSha256": "d2e7c0fc70a5d3be5632e913989da280f8d48dd090d94bf0152ba5293512b12f"
+    },
+    {
+      "id": "boarstandardheir",
+      "kind": "unit",
+      "stem": "unit-boarstandardheir",
+      "file": "unit-boarstandardheir.png",
+      "compactFile": "unit-boarstandardheir-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "boarstandardheir-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "73119719e429a4fbc0f24714f4866c18017c0a5859d416d6a98a8f5e014c7923",
+      "compactSha256": "d1afe8ce0fd090237ed57e7e5b2a3b2b1bd69e6dd4dc3c102b5ffc73db003817"
+    },
+    {
+      "id": "threadmarkedsuccessor",
+      "kind": "unit",
+      "stem": "unit-threadmarkedsuccessor",
+      "file": "unit-threadmarkedsuccessor.png",
+      "compactFile": "unit-threadmarkedsuccessor-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "threadmarkedsuccessor-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "7b71c4d9ca132c94140856ef39088210f840e436af32c1a3722484f4015e695f",
+      "compactSha256": "4241995d64e55d03f134b4722e442d82ee4cc3e29cb8737358dfb4d003b3df8b"
+    },
+    {
+      "id": "wallshieldmaiden",
+      "kind": "unit",
+      "stem": "unit-wallshieldmaiden",
+      "file": "unit-wallshieldmaiden.png",
+      "compactFile": "unit-wallshieldmaiden-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-08.png",
+      "quadrant": 1,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "6f84405832c28b93429e14044890fbfdf25fcb9e8119f28d892ac0c46bb93b90",
+      "compactSha256": "e5b4569d4bc1924633882b9db2839fca93daa2c68a195ff512453aba826317bc"
+    },
+    {
+      "id": "fenwyrmhunter",
+      "kind": "unit",
+      "stem": "unit-fenwyrmhunter",
+      "file": "unit-fenwyrmhunter.png",
+      "compactFile": "unit-fenwyrmhunter-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "fenwyrmhunter-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "aa1fe746c4362c34a2d7cc89be951fc5df0dff0df0b540c2f862eb0bc5b03aa0",
+      "compactSha256": "110fdb10f17a4dd7584eb7ff1978ac59336dc1c65ea7e26ad002ca0c3129639a"
+    },
+    {
+      "id": "standingstoneswarden",
+      "kind": "unit",
+      "stem": "unit-standingstoneswarden",
+      "file": "unit-standingstoneswarden.png",
+      "compactFile": "unit-standingstoneswarden-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "standingstoneswarden-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "c182cd9503c969051834bc29f3bf0b3755b372e77d9405982a16e3f24713de46",
+      "compactSha256": "d3191c008f4e342d425eb0a58130de02fe455dac792d4466a1e5162a9dda9469"
+    },
+    {
+      "id": "ringspearthrower",
+      "kind": "unit",
+      "stem": "unit-ringspearthrower",
+      "file": "unit-ringspearthrower.png",
+      "compactFile": "unit-ringspearthrower-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "ringspearthrower-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "4828805ed2b2f1a5d4499c10b08d3d6bfbac13adc705f9a776b9b7a35b46a1e9",
+      "compactSha256": "2d5affde41946e8fffd12fafd022de1ee258edad67c0095756118b49b75cfb7c"
+    },
+    {
+      "id": "longhallhearthguard",
+      "kind": "unit",
+      "stem": "unit-longhallhearthguard",
+      "file": "unit-longhallhearthguard.png",
+      "compactFile": "unit-longhallhearthguard-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-09.png",
+      "quadrant": 1,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "526c926b4bc8323a8f8415e8311ffdf016add6a65841bc5243478650042da64d",
+      "compactSha256": "23223f75fdac6e3ec743ebd772a6a178d8d1c35483f4e6b273ede8f43d515c28"
+    },
+    {
+      "id": "gudrun",
+      "kind": "unit",
+      "stem": "unit-gudrun",
+      "file": "unit-gudrun.png",
+      "compactFile": "unit-gudrun-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "gudrun-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "2c247f0856cb76b881407aba1f7f9eddafd538b8330f22f1b061f205a267d2a6",
+      "compactSha256": "21f34b701c87017dc3ad0314090f41f2f990989fc5a3022423063b7736097c63"
+    },
+    {
+      "id": "skadi",
+      "kind": "unit",
+      "stem": "unit-skadi",
+      "file": "unit-skadi.png",
+      "compactFile": "unit-skadi-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "skadi-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "0d16ace1fc122accca0e8e53d7a6a2b605cd2aef8ea6837cb2e652ac58693b86",
+      "compactSha256": "19e1aa8dc211a12509f1b94d386dfb1116fd0f90282b98d9e122f188c1ae37ab"
+    },
+    {
+      "id": "vidar",
+      "kind": "unit",
+      "stem": "unit-vidar",
+      "file": "unit-vidar.png",
+      "compactFile": "unit-vidar-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "vidar-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "5757cdca76d0a5a2bab89258f6e063eb2c5f5706ccf1cc69e87d65120117e439",
+      "compactSha256": "f52096527c3794676d13047420211734c8470c6c46afda452e85cee2809c089a"
+    },
+    {
+      "id": "mimir",
+      "kind": "unit",
+      "stem": "unit-mimir",
+      "file": "unit-mimir.png",
+      "compactFile": "unit-mimir-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "mimir-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "9fdba526ee0dbedf609e9f6c265beccd31f565a8ec5a617f4780600855f57c60",
+      "compactSha256": "4d80b58b96777840995e754fa330b4635ee12ce4d8c01027c3fdb3c8fadd6f8f"
+    },
+    {
+      "id": "skuld",
+      "kind": "unit",
+      "stem": "unit-skuld",
+      "file": "unit-skuld.png",
+      "compactFile": "unit-skuld-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "skuld-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "931c9dbc5d612c0700a61aef4d99eb9aa91a51e2a699ad67718b5e3fe58099d2",
+      "compactSha256": "3610927061506f2069f51fbcad39abd49436753e00377c88e87f3e578565a668"
+    },
+    {
+      "id": "skoll",
+      "kind": "unit",
+      "stem": "unit-skoll",
+      "file": "unit-skoll.png",
+      "compactFile": "unit-skoll-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "skoll-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "3f4f2b530deb2c4232b4c212935795532b1c28a217d58b70bac78be1a075ad02",
+      "compactSha256": "83c2db017d5e1b14b1575981390f35755a0304df7d1245987ee938da4d1f8feb"
+    },
+    {
+      "id": "deity-odin",
+      "kind": "unit",
+      "stem": "unit-deity-odin",
+      "file": "unit-deity-odin.png",
+      "compactFile": "unit-deity-odin-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-09.png",
+      "quadrant": 2,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "0167c0def85c5ac9bef2be4429a4ef06cedd995a3d80370dfdf19963199f03ec",
+      "compactSha256": "42ce0ffbd6333defa526ce46d16d00209781aa73d019df6507dead93db24ae31"
+    },
+    {
+      "id": "deity-thor",
+      "kind": "unit",
+      "stem": "unit-deity-thor",
+      "file": "unit-deity-thor.png",
+      "compactFile": "unit-deity-thor-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-09.png",
+      "quadrant": 3,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "54b2b74f06c328be76c413fc3fac6acc6a5d0373c8a6a4f8455e07c30a16149a",
+      "compactSha256": "e999cac10d13cf3765c4d056557eb150db2116696a3105465dc4e25782559e9b"
+    },
+    {
+      "id": "deity-freyja",
+      "kind": "unit",
+      "stem": "unit-deity-freyja",
+      "file": "unit-deity-freyja.png",
+      "compactFile": "unit-deity-freyja-compact.png",
+      "tradition": "Norse",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "deity-freyja.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "1cdf4218b31972e49c88a7f2fe9d7ace6f3fed0699701b9a6c44ac905309bfdb",
+      "compactSha256": "0b736a8fc67bc1607cc1555d0d31ac3fd5d911ac883599f3db7ab5beb04a2edb"
+    }
+  ]
+}

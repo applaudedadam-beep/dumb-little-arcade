@@ -1,0 +1,1200 @@
+{
+  "schema": "iod.board-generated/3",
+  "tradition": "Hellenic",
+  "authoredCanvas": [
+    128,
+    128
+  ],
+  "compactCanvas": [
+    64,
+    64
+  ],
+  "animated": false,
+  "palette": [
+    [
+      18,
+      14,
+      12
+    ],
+    [
+      28,
+      24,
+      22
+    ],
+    [
+      40,
+      36,
+      34
+    ],
+    [
+      54,
+      48,
+      44
+    ],
+    [
+      70,
+      62,
+      56
+    ],
+    [
+      88,
+      78,
+      68
+    ],
+    [
+      72,
+      90,
+      110
+    ],
+    [
+      99,
+      118,
+      140
+    ],
+    [
+      130,
+      148,
+      168
+    ],
+    [
+      162,
+      176,
+      192
+    ],
+    [
+      180,
+      168,
+      140
+    ],
+    [
+      206,
+      196,
+      168
+    ],
+    [
+      228,
+      220,
+      196
+    ],
+    [
+      244,
+      238,
+      220
+    ],
+    [
+      90,
+      70,
+      40
+    ],
+    [
+      120,
+      95,
+      50
+    ],
+    [
+      160,
+      125,
+      60
+    ],
+    [
+      190,
+      155,
+      80
+    ],
+    [
+      210,
+      180,
+      110
+    ],
+    [
+      55,
+      45,
+      55
+    ],
+    [
+      80,
+      60,
+      75
+    ],
+    [
+      110,
+      85,
+      100
+    ],
+    [
+      70,
+      85,
+      70
+    ],
+    [
+      100,
+      120,
+      95
+    ],
+    [
+      140,
+      155,
+      130
+    ]
+  ],
+  "entries": [
+    {
+      "id": "hoplite",
+      "kind": "unit",
+      "stem": "unit-hoplite",
+      "file": "unit-hoplite.png",
+      "compactFile": "unit-hoplite-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "hoplite.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "4a058b8d1b0e4fedb4e51377688ccc4fae36c464a4aa19ec7183b56874d49e62",
+      "compactSha256": "f396173d7b027ad51b6aff4273859263a4922ca6e03041eaad0f8081f28d36c9"
+    },
+    {
+      "id": "owlseer",
+      "kind": "unit",
+      "stem": "unit-owlseer",
+      "file": "unit-owlseer.png",
+      "compactFile": "unit-owlseer-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "owlseer-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "e237bb9bb9418c308a4018f2cfc1a1ca95d441996a2283f10bacd111f04c1cda",
+      "compactSha256": "2f6d899177cd6d777d6deab51f4f32ef33809275352f7fa2e98c17e56bce650a"
+    },
+    {
+      "id": "aegisweaver",
+      "kind": "unit",
+      "stem": "unit-aegisweaver",
+      "file": "unit-aegisweaver.png",
+      "compactFile": "unit-aegisweaver-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "aegisweaver-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "d689f477fbc80280675186f52b7c39b8f04832f97cb41cff3ad1820378939d9d",
+      "compactSha256": "5b6df497fefc2707c5ecaaf1e9ecfd7c4b51cb76ee22fd5af420988ef326fa1b"
+    },
+    {
+      "id": "promachos",
+      "kind": "unit",
+      "stem": "unit-promachos",
+      "file": "unit-promachos.png",
+      "compactFile": "unit-promachos-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-01.png",
+      "quadrant": 2,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "f2c9104167429dd70ad6ebe622dba07c537c786da96758c01634e09618414147",
+      "compactSha256": "fa6b676b065f166757979fa14fa2b235e79344d96bcbf385b3bf62dd9fe53648"
+    },
+    {
+      "id": "olivetactician",
+      "kind": "unit",
+      "stem": "unit-olivetactician",
+      "file": "unit-olivetactician.png",
+      "compactFile": "unit-olivetactician-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-01.png",
+      "quadrant": 3,
+      "sourceFlipped": true,
+      "authoredFacing": "east",
+      "sha256": "497ecd329db47bd443c84c0b23620344d0cb13581541e31c1ce05dbbcf8b033b",
+      "compactSha256": "73356720f9299056a0e6cdf69463c473df5cda86fa3bafd33722d4bbd6cab56e"
+    },
+    {
+      "id": "narrowlanechallenger",
+      "kind": "unit",
+      "stem": "unit-narrowlanechallenger",
+      "file": "unit-narrowlanechallenger.png",
+      "compactFile": "unit-narrowlanechallenger-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "narrowlanechallenger-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "17014931ec0d85652510361fa85f9241d141299d6f082bc2b21ae395ecac6329",
+      "compactSha256": "398acc866c3bcf4bfb587c3a2333e117a105c4103f2ed4906f6a0037603348cf"
+    },
+    {
+      "id": "odyssean",
+      "kind": "unit",
+      "stem": "unit-odyssean",
+      "file": "unit-odyssean.png",
+      "compactFile": "unit-odyssean-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-02.png",
+      "quadrant": 1,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "522bac45157370810e9767551530a949bc303440a366c858e026599ea12513a8",
+      "compactSha256": "d1fa3347fa13de5baf5f2c72cdfe5412d8c945cb2af12eaf805ad821303e25e2"
+    },
+    {
+      "id": "roadcourier",
+      "kind": "unit",
+      "stem": "unit-roadcourier",
+      "file": "unit-roadcourier.png",
+      "compactFile": "unit-roadcourier-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-02.png",
+      "quadrant": 2,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "8d03dc3f34ab9f655242f07a047dfffcfbc2b7a186d13092c13ef986a799cf59",
+      "compactSha256": "9ccc45854d17409f997667a0d0e5bce18f119781ad19ad3a444612fcd4b25e48"
+    },
+    {
+      "id": "caduceusbearer",
+      "kind": "unit",
+      "stem": "unit-caduceusbearer",
+      "file": "unit-caduceusbearer.png",
+      "compactFile": "unit-caduceusbearer-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-02.png",
+      "quadrant": 3,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "7c2862f93ced594b147b8546de41132b74d4e5cf5830b14601f1c5017655ac70",
+      "compactSha256": "8e4bf41808a5d25e65be0f4ee53f460cb64e58c3c667c0a971221ce198867463"
+    },
+    {
+      "id": "boundaryherald",
+      "kind": "unit",
+      "stem": "unit-boundaryherald",
+      "file": "unit-boundaryherald.png",
+      "compactFile": "unit-boundaryherald-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-03.png",
+      "quadrant": 0,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "72f9f52e5dff8ca8d1bada04500b5c60ab8c97a8a4ab837b0cb73745f52b0aba",
+      "compactSha256": "7ccb60992da27c20e918483c345c5c088c4d6bc780d07229e9b61cea2b0be15d"
+    },
+    {
+      "id": "boundaryrunner",
+      "kind": "unit",
+      "stem": "unit-boundaryrunner",
+      "file": "unit-boundaryrunner.png",
+      "compactFile": "unit-boundaryrunner-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-03.png",
+      "quadrant": 1,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "2723657b16edb9d346196785bcfc24c91ba32d3a852627e1e36bc801f1b11364",
+      "compactSha256": "b936b1b817027f20d597807a934a96d3d66fb2380ddd9ea1d1d675dd715e8bba"
+    },
+    {
+      "id": "crossroadsadept",
+      "kind": "unit",
+      "stem": "unit-crossroadsadept",
+      "file": "unit-crossroadsadept.png",
+      "compactFile": "unit-crossroadsadept-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "crossroadsadept-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "7b0ceaba72b39a97e54c1708d4d146c7fef4d80ea036bdb2ffcc443de1e72976",
+      "compactSha256": "bdf130997f24b560e04e2a2897ef265cb1ce97eb249f4c8f68c32646adb7c56a"
+    },
+    {
+      "id": "redrawnboundaryrunner",
+      "kind": "unit",
+      "stem": "unit-redrawnboundaryrunner",
+      "file": "unit-redrawnboundaryrunner.png",
+      "compactFile": "unit-redrawnboundaryrunner-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "redrawnboundaryrunner-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "7deaa918f16458faaeb9499ea10f0f54ebb05b66abef4eba60f7c47f05d88480",
+      "compactSha256": "3114fe8874f00da8e11ea2f575f681b065d3e8de62f5ceb261c94af9a98b9f2d"
+    },
+    {
+      "id": "godbetween",
+      "kind": "unit",
+      "stem": "unit-godbetween",
+      "file": "unit-godbetween.png",
+      "compactFile": "unit-godbetween-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-04.png",
+      "quadrant": 0,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "7f3ba56e71991353e7396a0b2a160d72085069477748c3a4bcd6bf9eaaa0ebbe",
+      "compactSha256": "d58a69a0e4ad201a8410329fae5decc9805b7885588fed3a859157253a3d9357"
+    },
+    {
+      "id": "fourcrowns",
+      "kind": "unit",
+      "stem": "unit-fourcrowns",
+      "file": "unit-fourcrowns.png",
+      "compactFile": "unit-fourcrowns-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-04.png",
+      "quadrant": 1,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "ac037fc1afbc65daf727172f26e145c543281d9615be8c682f84469e5e2e08d6",
+      "compactSha256": "a26d6bf195e7853f7e3576bc25c0dba25c9fbfd1761f0fa9c812a15eb787967c"
+    },
+    {
+      "id": "laurelephebe",
+      "kind": "unit",
+      "stem": "unit-laurelephebe",
+      "file": "unit-laurelephebe.png",
+      "compactFile": "unit-laurelephebe-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-04.png",
+      "quadrant": 2,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "bf9f772d54053858e2f137e866247906bfdd90c41f8fed488ee5bb917cf95b63",
+      "compactSha256": "59413be878c716a5b06a23d9294ec9c274049b7ff9139b69b681ed2923bf88d4"
+    },
+    {
+      "id": "relayvictor",
+      "kind": "unit",
+      "stem": "unit-relayvictor",
+      "file": "unit-relayvictor.png",
+      "compactFile": "unit-relayvictor-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "relayvictor-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "62509496a33e8157325c36924fd2f0c1bf7ee488a9163bbf0dfd9bfd8ecc68de",
+      "compactSha256": "3b66159840ebc9bbe835e78facc16f5bbe083eec6b073effad0253ea6782f33b"
+    },
+    {
+      "id": "herakles",
+      "kind": "unit",
+      "stem": "unit-herakles",
+      "file": "unit-herakles.png",
+      "compactFile": "unit-herakles-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-05.png",
+      "quadrant": 0,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "72e3a56ca407ded6d61b693bbc3ab8b7713e07f705fba083bf510483c9bf17b8",
+      "compactSha256": "485254917e8772af0aa1bfcd37c2d2d9e274d80ef3b8d5313dc9a41b65cc4eaa"
+    },
+    {
+      "id": "nemeanlion",
+      "kind": "unit",
+      "stem": "unit-nemeanlion",
+      "file": "unit-nemeanlion.png",
+      "compactFile": "unit-nemeanlion-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "nemeanlion-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "1b5bb82039801465c4ee08f7b5386758adc15a74be45fdc5156d8e3d102a469b",
+      "compactSha256": "81ff3954f3f56ce7a62ac508ee776adebd5e80437fb57058c90b618455711b96"
+    },
+    {
+      "id": "lernaeanhydra",
+      "kind": "unit",
+      "stem": "unit-lernaeanhydra",
+      "file": "unit-lernaeanhydra.png",
+      "compactFile": "unit-lernaeanhydra-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "lernaeanhydra-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "c781586e3c5b919eb83ccc80db4943d1323d579c58949dfdf608813624382853",
+      "compactSha256": "8f7acacad91c8f759582d674c361cf68e376728f98410a23d4eacaa5040ce1df"
+    },
+    {
+      "id": "themistocles",
+      "kind": "unit",
+      "stem": "unit-themistocles",
+      "file": "unit-themistocles.png",
+      "compactFile": "unit-themistocles-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-05.png",
+      "quadrant": 3,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "c0f498e451d95ca58f6070427611d107c099f72536c49c25c8ed11f5c3fff514",
+      "compactSha256": "f39b86b8075c74d801f1b170e9979c8d5fda6621ca64cf9c615113cfe48de64c"
+    },
+    {
+      "id": "autolycus",
+      "kind": "unit",
+      "stem": "unit-autolycus",
+      "file": "unit-autolycus.png",
+      "compactFile": "unit-autolycus-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-06.png",
+      "quadrant": 0,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "0860c207275a38f9dcbf6f685c039e3cddc805a615e449fe7edc3608498d9084",
+      "compactSha256": "5afbd938c69e93db15554145e48fbb48ba74b997b6b99664ba57d072d702899a"
+    },
+    {
+      "id": "atalanta",
+      "kind": "unit",
+      "stem": "unit-atalanta",
+      "file": "unit-atalanta.png",
+      "compactFile": "unit-atalanta-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-06.png",
+      "quadrant": 1,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "cdf23886d8159c338623fe00e6c8d15ca418bfbd764e7976e94877c613c834a1",
+      "compactSha256": "4b2f10068878bc263f3a8bb1fb69ce75ba2ddfd96a16d645b61aa565237e7335"
+    },
+    {
+      "id": "nestor",
+      "kind": "unit",
+      "stem": "unit-nestor",
+      "file": "unit-nestor.png",
+      "compactFile": "unit-nestor-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "nestor-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "f7256b8f8a86a895457da71acf34ee8e9b07c5c2fd026da42ae7d87aee222dbe",
+      "compactSha256": "53adab881c8de8ed23e1ed2fa9d9f255addf442cae791d5a3046d9cf29477980"
+    },
+    {
+      "id": "cerberus",
+      "kind": "unit",
+      "stem": "unit-cerberus",
+      "file": "unit-cerberus.png",
+      "compactFile": "unit-cerberus-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-06.png",
+      "quadrant": 3,
+      "sourceFlipped": true,
+      "authoredFacing": "east",
+      "sha256": "3d3fb267121af7beaace4786c0e979d43d9b9c0c5b13d4d58ba78ef2ad2aad6d",
+      "compactSha256": "275f2b83365b1dfe1e4600ea3a3c9c653386c568c928230585a651e072d62627"
+    },
+    {
+      "id": "bronelanewarder",
+      "kind": "unit",
+      "stem": "unit-bronelanewarder",
+      "file": "unit-bronelanewarder.png",
+      "compactFile": "unit-bronelanewarder-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-07.png",
+      "quadrant": 0,
+      "sourceFlipped": true,
+      "authoredFacing": "east",
+      "sha256": "6b0c733a272aebf3e793a1c71e4916bb00c9ef66a11997532263d41a4220a38b",
+      "compactSha256": "cb40c357c036a16855c24e17ddeda0cb5eddff8c4cfe95564ef3b838f582e99a"
+    },
+    {
+      "id": "minotaur",
+      "kind": "unit",
+      "stem": "unit-minotaur",
+      "file": "unit-minotaur.png",
+      "compactFile": "unit-minotaur-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-07.png",
+      "quadrant": 1,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "250044bbce58c7f25257a0eda032c85212eba21179707c0e729617d7bd4b031a",
+      "compactSha256": "a04a46214eef89ad1d96279cec44603c3092a5d9aae1bc155e7b960fafa59bf1"
+    },
+    {
+      "id": "pegasus",
+      "kind": "unit",
+      "stem": "unit-pegasus",
+      "file": "unit-pegasus.png",
+      "compactFile": "unit-pegasus-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-07.png",
+      "quadrant": 2,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "f3dcfbe8f13af88f8ccada883f89773c7d8020ad0318eec1da943ae7f4e858d4",
+      "compactSha256": "4e416b7c96321206ad353ba0e5cd9a36d967aa8a7584702bcd57d0103355e4da"
+    },
+    {
+      "id": "chimera",
+      "kind": "unit",
+      "stem": "unit-chimera",
+      "file": "unit-chimera.png",
+      "compactFile": "unit-chimera-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-07.png",
+      "quadrant": 3,
+      "sourceFlipped": true,
+      "authoredFacing": "east",
+      "sha256": "b941fc67067316aeb6cb2ea25f183e0c6e70c2abc32ede7e81737cc0e11ea562",
+      "compactSha256": "0f10d88828c37f45a3801523b4b3e97f25eadf05d582ca14d789686e0cb01302"
+    },
+    {
+      "id": "ganymede",
+      "kind": "unit",
+      "stem": "unit-ganymede",
+      "file": "unit-ganymede.png",
+      "compactFile": "unit-ganymede-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "ganymede-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "e2db41a3c1f46b628c990571eb2ed6f6eb470064e4305f0d4983232fa9895b3c",
+      "compactSha256": "289c08bb4bd47f79abcfb87599dea206e21971459585705eae95afb630adf289"
+    },
+    {
+      "id": "laurelboundclaimant",
+      "kind": "unit",
+      "stem": "unit-laurelboundclaimant",
+      "file": "unit-laurelboundclaimant.png",
+      "compactFile": "unit-laurelboundclaimant-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "laurelboundclaimant-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "a21feb7de29c25de3c4a5bcde0cd80935964d870f7b1054b2dc1fabc35b30154",
+      "compactSha256": "512f84745580fb42c5abb12da23ca74643ee42899fe668b83ca021f6e7f8e04b"
+    },
+    {
+      "id": "eaglesignherald",
+      "kind": "unit",
+      "stem": "unit-eaglesignherald",
+      "file": "unit-eaglesignherald.png",
+      "compactFile": "unit-eaglesignherald-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-08.png",
+      "quadrant": 2,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "5812fead28b9d2184f7d9f4b2add7d1cb7488537deaa02c84b7fc15806e15d7f",
+      "compactSha256": "60358ea5d646b5d88d458ae25959e22c3411287af57dfe6a8c3945da8f87d457"
+    },
+    {
+      "id": "scepterbearingvictor",
+      "kind": "unit",
+      "stem": "unit-scepterbearingvictor",
+      "file": "unit-scepterbearingvictor.png",
+      "compactFile": "unit-scepterbearingvictor-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "scepterbearingvictor-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "582071b7987e2dc3cd5c45813e2616b9ed603ab54ec169d4f697d18f35f9afc3",
+      "compactSha256": "0920fbac837441751c627aad1fd2e70d829a06f45a5bfa854aded29484927d64"
+    },
+    {
+      "id": "bronzechallenger",
+      "kind": "unit",
+      "stem": "unit-bronzechallenger",
+      "file": "unit-bronzechallenger.png",
+      "compactFile": "unit-bronzechallenger-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-09.png",
+      "quadrant": 0,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "0cf724b5f2972109e1b4970d8a59a7f2987af8aa607912ace57930a9a83a53f6",
+      "compactSha256": "7090b286e864966447c61d608f5428b20f882bb27c5d9d06edd3d2b5cb850a0c"
+    },
+    {
+      "id": "olivewallwarden",
+      "kind": "unit",
+      "stem": "unit-olivewallwarden",
+      "file": "unit-olivewallwarden.png",
+      "compactFile": "unit-olivewallwarden-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "olivewallwarden-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "2836bb5e3cc72b864ea1d27314a739a829e7042ba349032a704f0243bdf85ccd",
+      "compactSha256": "b8449045208f4cd4f17eb21aaf494cb1847adf04a49d7eb14a2fb6d4579ecda7"
+    },
+    {
+      "id": "marathonrunner",
+      "kind": "unit",
+      "stem": "unit-marathonrunner",
+      "file": "unit-marathonrunner.png",
+      "compactFile": "unit-marathonrunner-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-09.png",
+      "quadrant": 2,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "dabbaf6ea0290a4ce9c773a39bdbe9ac770d546cb99cefc93907e820003fff76",
+      "compactSha256": "6b3fb079e00cd49b28a0204730c74342096e35fd9da006610ba468a75ac32b4f"
+    },
+    {
+      "id": "phalanxbrother",
+      "kind": "unit",
+      "stem": "unit-phalanxbrother",
+      "file": "unit-phalanxbrother.png",
+      "compactFile": "unit-phalanxbrother-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-09.png",
+      "quadrant": 3,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "e0790c5091ed9520e623877f71b0ea218d57f41d8f68ff1d6e8fa9db87464b99",
+      "compactSha256": "a4a7ce70ff47a517015f3cce1aaa15ee270c5c84421db0fb75b2a9b219425255"
+    },
+    {
+      "id": "theseus",
+      "kind": "unit",
+      "stem": "unit-theseus",
+      "file": "unit-theseus.png",
+      "compactFile": "unit-theseus-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "theseus-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "dddc884766a6c06452bf3fe597e27f99219cb733c17484b964273e8e3228b19d",
+      "compactSha256": "0cbe651e1f746f947f5684ab5ff39631ba803d52314f453f59af6a57c920936b"
+    },
+    {
+      "id": "achilles",
+      "kind": "unit",
+      "stem": "unit-achilles",
+      "file": "unit-achilles.png",
+      "compactFile": "unit-achilles-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "achilles-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "598c2e411144fa4b93196d6a13c95793c28d3be00591dfcd8ab65e5c2765fedf",
+      "compactSha256": "659eca0495d0de9cc3f36834a9fecf47926a1454e6a9b7ec3ce33bd82ed290af"
+    },
+    {
+      "id": "iolaus",
+      "kind": "unit",
+      "stem": "unit-iolaus",
+      "file": "unit-iolaus.png",
+      "compactFile": "unit-iolaus-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "iolaus-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "e9346595455d2b6f192a226052d85891d87c398d292956af1c25085eef7587f3",
+      "compactSha256": "4264088d87b0041e5e06417c14a3d5ae5881229941ca94494f73d94f6738c5d9"
+    },
+    {
+      "id": "phemonoe",
+      "kind": "unit",
+      "stem": "unit-phemonoe",
+      "file": "unit-phemonoe.png",
+      "compactFile": "unit-phemonoe-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "phemonoe-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "613718391efe80ae8dd7cdbd45b250655b7343500311e65a11b7a56773b7ef5e",
+      "compactSha256": "9f7c0af08370cfc94b886eed1da2d741e3c43ab2470d9255f23ca02530a4db59"
+    },
+    {
+      "id": "python",
+      "kind": "unit",
+      "stem": "unit-python",
+      "file": "unit-python.png",
+      "compactFile": "unit-python-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "python-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "d48bb834c77516f921bed9ed2bd360f836c87f373243caa4e01c4904d21c704e",
+      "compactSha256": "a6b82443cd2e398530cd48ee480a4fd24286d6ac63f234da9a54c89cca2e922d"
+    },
+    {
+      "id": "tiresias",
+      "kind": "unit",
+      "stem": "unit-tiresias",
+      "file": "unit-tiresias.png",
+      "compactFile": "unit-tiresias-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "tiresias-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "41ab94ace968259cf72772ef995dcabc0ea460b14f2bfca75ff1d381bf1b6a0e",
+      "compactSha256": "bbb4a401881848b60fc3cf525a2bbad438709a296b9450e815893e0da3229272"
+    },
+    {
+      "id": "deity-athena",
+      "kind": "unit",
+      "stem": "unit-deity-athena",
+      "file": "unit-deity-athena.png",
+      "compactFile": "unit-deity-athena-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-10.png",
+      "quadrant": 0,
+      "sourceFlipped": true,
+      "authoredFacing": "east",
+      "sha256": "12fdb33c1518f286d0e8aee03a613f0d27142483814bd3c275a0e274a30b23f7",
+      "compactSha256": "67f8d657e377c8f9937e92c69a1b247073f6b3ac71fdf9d0a92ffd2bbee45ac2"
+    },
+    {
+      "id": "deity-hermes",
+      "kind": "unit",
+      "stem": "unit-deity-hermes",
+      "file": "unit-deity-hermes.png",
+      "compactFile": "unit-deity-hermes-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-10.png",
+      "quadrant": 1,
+      "sourceFlipped": true,
+      "authoredFacing": "east",
+      "sha256": "b808ddfc7cdb7d2dafc988d77754a173de5650655de1f765b1c8c11c9599cd39",
+      "compactSha256": "8da023c48ba6e81b76b80efc1de619e6cc5cc46e017a85622b1d7a466c3c93e0"
+    },
+    {
+      "id": "deity-zeus",
+      "kind": "unit",
+      "stem": "unit-deity-zeus",
+      "file": "unit-deity-zeus.png",
+      "compactFile": "unit-deity-zeus-compact.png",
+      "tradition": "Hellenic",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-10.png",
+      "quadrant": 2,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "e5f131f6c810e05272773fe4df5d0f9abe42954044d084b0feefb48b2b6d7ab0",
+      "compactSha256": "8bb89b0cea71b97a1478646415d1fbc4ce368e69294119bb36108376c9445439"
+    }
+  ]
+}

@@ -1,0 +1,1085 @@
+{
+  "schema": "iod.board-generated/3",
+  "tradition": "Mesopotamian",
+  "authoredCanvas": [
+    128,
+    128
+  ],
+  "compactCanvas": [
+    64,
+    64
+  ],
+  "animated": false,
+  "palette": [
+    [
+      18,
+      14,
+      12
+    ],
+    [
+      26,
+      28,
+      26
+    ],
+    [
+      38,
+      44,
+      40
+    ],
+    [
+      52,
+      62,
+      56
+    ],
+    [
+      68,
+      84,
+      76
+    ],
+    [
+      88,
+      110,
+      98
+    ],
+    [
+      78,
+      130,
+      120
+    ],
+    [
+      100,
+      150,
+      140
+    ],
+    [
+      130,
+      170,
+      160
+    ],
+    [
+      160,
+      190,
+      180
+    ],
+    [
+      175,
+      165,
+      140
+    ],
+    [
+      205,
+      192,
+      160
+    ],
+    [
+      228,
+      216,
+      185
+    ],
+    [
+      244,
+      236,
+      214
+    ],
+    [
+      90,
+      70,
+      35
+    ],
+    [
+      125,
+      95,
+      45
+    ],
+    [
+      160,
+      125,
+      55
+    ],
+    [
+      190,
+      155,
+      75
+    ],
+    [
+      215,
+      185,
+      100
+    ],
+    [
+      45,
+      40,
+      45
+    ],
+    [
+      70,
+      55,
+      65
+    ],
+    [
+      100,
+      75,
+      90
+    ],
+    [
+      100,
+      80,
+      50
+    ],
+    [
+      140,
+      110,
+      65
+    ],
+    [
+      175,
+      145,
+      90
+    ]
+  ],
+  "entries": [
+    {
+      "id": "tabletdiviner",
+      "kind": "unit",
+      "stem": "unit-tabletdiviner",
+      "file": "unit-tabletdiviner.png",
+      "compactFile": "unit-tabletdiviner-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "tabletdiviner.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "02de889151c2d6753b8f25a8e8dfcd3292fa7048f6f7ea62f7814457e5d7b019",
+      "compactSha256": "3cb8a2641e522aa2676aa40f0e15fbd311e06991b714cc25374759cf9f41ea4d"
+    },
+    {
+      "id": "longdawnscribe",
+      "kind": "unit",
+      "stem": "unit-longdawnscribe",
+      "file": "unit-longdawnscribe.png",
+      "compactFile": "unit-longdawnscribe-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "longdawnscribe-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "34b0feccff24696aed75d00de66f903811273603fb383f12330bfdfb61ebd7d0",
+      "compactSha256": "05f2bd50ade50976ced5167dd59e31d1515304190487030d35cc04116a4e4d38"
+    },
+    {
+      "id": "euphrateswarden",
+      "kind": "unit",
+      "stem": "unit-euphrateswarden",
+      "file": "unit-euphrateswarden.png",
+      "compactFile": "unit-euphrateswarden-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-01.png",
+      "quadrant": 1,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "5082359e0fa2f6b8ec6acb1e1c4b863ebd56411f81bd5db98eaec48825ff7569",
+      "compactSha256": "9f98fa51fb14ff6576d11386b5f0643d5ac0e56738356794c286da4a9f965da0"
+    },
+    {
+      "id": "liongatekeeper",
+      "kind": "unit",
+      "stem": "unit-liongatekeeper",
+      "file": "unit-liongatekeeper.png",
+      "compactFile": "unit-liongatekeeper-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "liongatekeeper-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "a9adec82cabfad58854da39a7ee47ea3db9c847e45c71c64d495e8782c5ffbbb",
+      "compactSha256": "325764056a56c8ef2688535f0173870c5a42c2e84caf4b4171de7b9e73a33f17"
+    },
+    {
+      "id": "starmantled",
+      "kind": "unit",
+      "stem": "unit-starmantled",
+      "file": "unit-starmantled.png",
+      "compactFile": "unit-starmantled-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "starmantled-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "447e38afaeddb3f98df6d456902784a4c3c26f5253b1c92144e40650503f42b8",
+      "compactSha256": "830cd8e1b09b857917c399874b02f715404d5209ac0680e924c7122d8724d6eb"
+    },
+    {
+      "id": "writtenhourlion",
+      "kind": "unit",
+      "stem": "unit-writtenhourlion",
+      "file": "unit-writtenhourlion.png",
+      "compactFile": "unit-writtenhourlion-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-02.png",
+      "quadrant": 0,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "2cf685aa6910b44950c0c5a5224a97e6c2f7f247f3a5da70d902482363d28925",
+      "compactSha256": "20609dcb8f8c8c7633f4e3c5117eaa5b43000abdec0a07d2eae4f6f83d091bce"
+    },
+    {
+      "id": "priestessdescent",
+      "kind": "unit",
+      "stem": "unit-priestessdescent",
+      "file": "unit-priestessdescent.png",
+      "compactFile": "unit-priestessdescent-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "priestessdescent-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "449123b300afbbb7760988d981cfb2a561f8bc71e3e485ae4daba1d70af6aa39",
+      "compactSha256": "37787458b16d4da0d779708dd7b2345a9c2366d54e4f9003b03ba03cdd546310"
+    },
+    {
+      "id": "queenofdescent",
+      "kind": "unit",
+      "stem": "unit-queenofdescent",
+      "file": "unit-queenofdescent.png",
+      "compactFile": "unit-queenofdescent-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "queenofdescent-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "a4aee51e7f41d4a7056b92d3dd4bb7e8793016f0bc996454c6a5fd4a6d4eec06",
+      "compactSha256": "2d5e6f7234bffe080b369969e79f229840151be227aad8b5efb3ccb40e2c4956"
+    },
+    {
+      "id": "orderedgatesclerk",
+      "kind": "unit",
+      "stem": "unit-orderedgatesclerk",
+      "file": "unit-orderedgatesclerk.png",
+      "compactFile": "unit-orderedgatesclerk-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "orderedgatesclerk-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "ef774bd26f6748139bb38eed55a77bd077b4ec3c0e5d5344c715ac7f47b5b5de",
+      "compactSha256": "ff5a82687ffb12425efe1efa3ff261c2113ea234961753f1a130efbfc21d3b98"
+    },
+    {
+      "id": "sunrisegatekusarikku",
+      "kind": "unit",
+      "stem": "unit-sunrisegatekusarikku",
+      "file": "unit-sunrisegatekusarikku.png",
+      "compactFile": "unit-sunrisegatekusarikku-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "sunrisegatekusarikku-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "807b24c01f0de6a29ed29e92644fa24fdf4d17170b5a353f8f1a9f74c840c42b",
+      "compactSha256": "dc7f75c7716007c7c156f6c7cb49fc9a2e671ee368019e7d35e0017d4c3a0e96"
+    },
+    {
+      "id": "thirddawnwatcher",
+      "kind": "unit",
+      "stem": "unit-thirddawnwatcher",
+      "file": "unit-thirddawnwatcher.png",
+      "compactFile": "unit-thirddawnwatcher-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "thirddawnwatcher-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "a0c5f77469651108ae39d9c9430adf21dcdb58901bff53dc76d0ca21492785de",
+      "compactSha256": "7934acdc2c1ddea16ce41ff4bb5fc67683c225b3ff66e79c99be8dc037e1edfd"
+    },
+    {
+      "id": "brokentabletbull",
+      "kind": "unit",
+      "stem": "unit-brokentabletbull",
+      "file": "unit-brokentabletbull.png",
+      "compactFile": "unit-brokentabletbull-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "brokentabletbull-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "cc6a45552618f5dd02e24017e8c3aa23a39fd939458917b44527882638f650e2",
+      "compactSha256": "4cd84b77b6fa82e5ee2eb2e114665a2fa59979eeb1941910b00006a3a0a7baf8"
+    },
+    {
+      "id": "gilgamesh",
+      "kind": "unit",
+      "stem": "unit-gilgamesh",
+      "file": "unit-gilgamesh.png",
+      "compactFile": "unit-gilgamesh-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "gilgamesh-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "22b69e80bc5d88bb5ef105b6c2249852574efa86666a4283eed29599f0213237",
+      "compactSha256": "2c71291bf13f05fecba860a7ecff4e3950024c76f11392d70c44c967a9e1d12c"
+    },
+    {
+      "id": "anzu",
+      "kind": "unit",
+      "stem": "unit-anzu",
+      "file": "unit-anzu.png",
+      "compactFile": "unit-anzu-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "anzu-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "8620fc33be8e4fc507d7b05c2c143c59bce3e9a02dfb570f0a42199835ced7bf",
+      "compactSha256": "94b83f06e42a4fdcd431f9ca76d975b59c3f91d4987e67677f8fd3acb363d381"
+    },
+    {
+      "id": "mushhushshu",
+      "kind": "unit",
+      "stem": "unit-mushhushshu",
+      "file": "unit-mushhushshu.png",
+      "compactFile": "unit-mushhushshu-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "mushhushshu-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "06750303c303ff3060af424b115f8a5694f11c894513323468df008ada4a1606",
+      "compactSha256": "9cb0b8250b7aa012b515b1c971ce553a2d6f90f28d5cd9869793703274a3f4eb"
+    },
+    {
+      "id": "enheduanna",
+      "kind": "unit",
+      "stem": "unit-enheduanna",
+      "file": "unit-enheduanna.png",
+      "compactFile": "unit-enheduanna-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "enheduanna-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "865487c628047df06a1f54fd4b039103d7c24721d70b099605bd0b37efd34e4a",
+      "compactSha256": "540f47255612da8f25777f735ce790ba101982bd5c81e2194e2cdad2caca2a06"
+    },
+    {
+      "id": "esagilkinapli",
+      "kind": "unit",
+      "stem": "unit-esagilkinapli",
+      "file": "unit-esagilkinapli.png",
+      "compactFile": "unit-esagilkinapli-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "esagilkinapli-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "b95969c37182382be2b8546e59a5a8c5532fed2489c94a501500acd9bb18e462",
+      "compactSha256": "e7ce20f69ee6440f19760c5419e855e03ad934001082b14bec220641f0aaa0fa"
+    },
+    {
+      "id": "utnapishtim",
+      "kind": "unit",
+      "stem": "unit-utnapishtim",
+      "file": "unit-utnapishtim.png",
+      "compactFile": "unit-utnapishtim-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "utnapishtim-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "d90485e40b5b26cad08996824b9499aa4e95b9889731a575251c99058b2f7d59",
+      "compactSha256": "166e19c1a1f13a9fe4382ab5f0acafe38790980f702fc28a771c2886cc7555f6"
+    },
+    {
+      "id": "etana",
+      "kind": "unit",
+      "stem": "unit-etana",
+      "file": "unit-etana.png",
+      "compactFile": "unit-etana-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "etana-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "c69b1d678be20229c76c3a02c88378524e997324a9374190f5ff8e86452dd895",
+      "compactSha256": "76ee9bee9cc0b9fc7332592e067a515f28b5b58414992ebfa8d2a19caa7f10e3"
+    },
+    {
+      "id": "humbaba",
+      "kind": "unit",
+      "stem": "unit-humbaba",
+      "file": "unit-humbaba.png",
+      "compactFile": "unit-humbaba-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "humbaba-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "51598d424a6bed28245f05579e33a9370901ed6ccd4e0eb950196db6ede10baa",
+      "compactSha256": "95976db008d7127258f920dd0caa821586ac14f014b67a6c89671c3c7e9761e5"
+    },
+    {
+      "id": "claygatelevy",
+      "kind": "unit",
+      "stem": "unit-claygatelevy",
+      "file": "unit-claygatelevy.png",
+      "compactFile": "unit-claygatelevy-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "claygatelevy-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "eb65cc74620b2d55a8c607943972b4ff4e446ca7ede90d00a69487fde1b24672",
+      "compactSha256": "3efa1a15ff4ee2e92c9610e58e16f96263433fcd5ca18ca0d4542b340dcb1fba"
+    },
+    {
+      "id": "ugallu",
+      "kind": "unit",
+      "stem": "unit-ugallu",
+      "file": "unit-ugallu.png",
+      "compactFile": "unit-ugallu-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "ugallu-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "02f84d624d980d4bc51cb60718d144700ad201922e5068549d6e6807f1922e55",
+      "compactSha256": "cb3af01729aecf8959c945a507e3faeed50986696b57cd1edf727b27c56aa726"
+    },
+    {
+      "id": "gugalanna",
+      "kind": "unit",
+      "stem": "unit-gugalanna",
+      "file": "unit-gugalanna.png",
+      "compactFile": "unit-gugalanna-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "gugalanna-subject.png",
+      "quadrant": null,
+      "sourceFlipped": true,
+      "authoredFacing": "east",
+      "sha256": "ecf34925ecccbbac552a86d64d4ffd6cd9f921c992067dab6c570c5fa8c315c6",
+      "compactSha256": "776dec316193f5a30a3128913170fd50d5bbcff4b11c213b5ce0b002ebce1c53"
+    },
+    {
+      "id": "isimud",
+      "kind": "unit",
+      "stem": "unit-isimud",
+      "file": "unit-isimud.png",
+      "compactFile": "unit-isimud-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-06.png",
+      "quadrant": 2,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "ea79a283b2cedd3437be18650cc2ccc70ada9f6997b039b88a8c686785a33933",
+      "compactSha256": "058c2071f5636a04d3c7831d243325deee1ee022302503f726c17cd32361b644"
+    },
+    {
+      "id": "canalinterpreter",
+      "kind": "unit",
+      "stem": "unit-canalinterpreter",
+      "file": "unit-canalinterpreter.png",
+      "compactFile": "unit-canalinterpreter-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "canalinterpreter-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "5df5acfc694f3c9134222a863a2fbf6ca23da215e61f591a64cbf03cb734c619",
+      "compactSha256": "da17d0ca675fbd9ea003a6514082ff4009642765c1498971d61f5588835873dd"
+    },
+    {
+      "id": "sweetwaterskeeper",
+      "kind": "unit",
+      "stem": "unit-sweetwaterskeeper",
+      "file": "unit-sweetwaterskeeper.png",
+      "compactFile": "unit-sweetwaterskeeper-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "sweetwaterskeeper-subject.png",
+      "quadrant": null,
+      "sourceFlipped": true,
+      "authoredFacing": "east",
+      "sha256": "46f5178eccb6c21d3731d12c68086f66eea62f81a7001944ecc7d40f7fedae85",
+      "compactSha256": "1c647b4d510f12449bbddbd33898c4db8233aabe24c14955416fffb917cf182a"
+    },
+    {
+      "id": "counseloroferidu",
+      "kind": "unit",
+      "stem": "unit-counseloroferidu",
+      "file": "unit-counseloroferidu.png",
+      "compactFile": "unit-counseloroferidu-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-07.png",
+      "quadrant": 1,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "a1544b477bd3e43def1ca2f5b01324e0c15f8b00894dce5b4adf0697b5756f8f",
+      "compactSha256": "9436a5d74c5bc01b2c9d516e2812f943395a906194e35c2892dabf8a4fc8bf52"
+    },
+    {
+      "id": "sweetcanalreed",
+      "kind": "unit",
+      "stem": "unit-sweetcanalreed",
+      "file": "unit-sweetcanalreed.png",
+      "compactFile": "unit-sweetcanalreed-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "sweetcanalreed-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "065fc49f309d028e6f09a7a7a119dedc5285a370fed463a2d32af69c10a2e5b7",
+      "compactSha256": "87d8985d4bcd1f4c2b83d0570dae9ba1d3569d5cb2423a4fc72b848a483de30b"
+    },
+    {
+      "id": "sevengateswatcher",
+      "kind": "unit",
+      "stem": "unit-sevengateswatcher",
+      "file": "unit-sevengateswatcher.png",
+      "compactFile": "unit-sevengateswatcher-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "sevengateswatcher-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "c6f47fe24cae493f8c38df7f431bfa0b6fbda7229f08c90d8f097e30f184f039",
+      "compactSha256": "c5844a02bc27c8833c4eb2c65f8ead8c3e49f3f9fcd848adfa8cef53248885ad"
+    },
+    {
+      "id": "floodgatekeeper",
+      "kind": "unit",
+      "stem": "unit-floodgatekeeper",
+      "file": "unit-floodgatekeeper.png",
+      "compactFile": "unit-floodgatekeeper-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "floodgatekeeper-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "9096ce29aeb91443e35cc1b026f6fd3af7fcfad21bc8e36c23909e5a18f7b1cb",
+      "compactSha256": "24ea0e0dbfe1a4a43df7b2d679e92bc2a8e12af22435e703cc80e5330af3650f"
+    },
+    {
+      "id": "thresholdlamassu",
+      "kind": "unit",
+      "stem": "unit-thresholdlamassu",
+      "file": "unit-thresholdlamassu.png",
+      "compactFile": "unit-thresholdlamassu-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-08.png",
+      "quadrant": 1,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "ce054ea5c89345b7a6557c718c1bae738ad02fa1917cfbfedb10d1d86bc65e3f",
+      "compactSha256": "6ed004314d9c0ffd90ce7246e8989a7a79b71993b74290a8d98b15125ce06d71"
+    },
+    {
+      "id": "saltstarscribe",
+      "kind": "unit",
+      "stem": "unit-saltstarscribe",
+      "file": "unit-saltstarscribe.png",
+      "compactFile": "unit-saltstarscribe-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "atlas-08.png",
+      "quadrant": 2,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "346eca1d09ab89f8f146e32e2d3b0e03c5dd07845f0f4cd44c889ccf086d8f95",
+      "compactSha256": "a18678f188161f613ee3446970de95148241400e82bef27779ce1c0bab330a19"
+    },
+    {
+      "id": "adapa",
+      "kind": "unit",
+      "stem": "unit-adapa",
+      "file": "unit-adapa.png",
+      "compactFile": "unit-adapa-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "adapa-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "b5d03ceb82f5b41ecb3244ac2c88754693f19cb923a473a3b80dd792db3cf101",
+      "compactSha256": "bb0fa101e99e22ba48cadd2a518dc22a73f4aadebec5613b7a85b334e45959f2"
+    },
+    {
+      "id": "ereshkigal",
+      "kind": "unit",
+      "stem": "unit-ereshkigal",
+      "file": "unit-ereshkigal.png",
+      "compactFile": "unit-ereshkigal-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "ereshkigal-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "a8756fb1cdaf5435887af0c02cb03a1656a0f8c37c87620bbdccb6a55c1af347",
+      "compactSha256": "510138526174d465d6531abeede91c2264a47d86111e76c3ed3d505d8193193f"
+    },
+    {
+      "id": "girtablullu",
+      "kind": "unit",
+      "stem": "unit-girtablullu",
+      "file": "unit-girtablullu.png",
+      "compactFile": "unit-girtablullu-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "girtablullu-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "3021c99480326da5c3ff8ca46f3ebd72397dcf02b497c782c7a0fe001b778aa2",
+      "compactSha256": "492c59bcc56557652daa3eb194a2632d76677339b0435430f4a830473d2a5b61"
+    },
+    {
+      "id": "nabu",
+      "kind": "unit",
+      "stem": "unit-nabu",
+      "file": "unit-nabu.png",
+      "compactFile": "unit-nabu-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "nabu-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "f1b2da45e2ca7401751adcc51e7b0ff1ff806b335c5fa362e60cefa7905768ee",
+      "compactSha256": "2ec6ad6a495c181f0fcfa6d8bfd5820e1a82490787b68c0fe17cad1aefd74b5e"
+    },
+    {
+      "id": "shamash",
+      "kind": "unit",
+      "stem": "unit-shamash",
+      "file": "unit-shamash.png",
+      "compactFile": "unit-shamash-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "shamash-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "f3f29afa8edd94f2dc6cd2eb6de02e863af076cfe83a6bbf6e3703e29285a8b4",
+      "compactSha256": "ee20f1403bb70ceb2e3f9a8c59fe9af278f7294e89ed3785b27d1565e9d7691d"
+    },
+    {
+      "id": "uridimmu",
+      "kind": "unit",
+      "stem": "unit-uridimmu",
+      "file": "unit-uridimmu.png",
+      "compactFile": "unit-uridimmu-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "uridimmu-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "51dcf56ab6ee622bb619c3037feb511ff13cfc59282e6e3547d967c26926cc5e",
+      "compactSha256": "19265c6f6c50a267c64b3023304c8e6836f6f8a53b707c51a0c41dc4aaa530cd"
+    },
+    {
+      "id": "deity-inanna",
+      "kind": "unit",
+      "stem": "unit-deity-inanna",
+      "file": "unit-deity-inanna.png",
+      "compactFile": "unit-deity-inanna-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "deity-inanna-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "a6f7d854dc80cbb404e886fd529c8857d779a47b7e13eb9ffe71afa2b26c82e6",
+      "compactSha256": "4a38443c2d209a9f9e32b23d8118fd4cdce253cc6582fb844a23f3e96e13e4b0"
+    },
+    {
+      "id": "deity-marduk",
+      "kind": "unit",
+      "stem": "unit-deity-marduk",
+      "file": "unit-deity-marduk.png",
+      "compactFile": "unit-deity-marduk-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "deity-marduk-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "737c4e2724435651dbee4888f4a698c140d5c6e9beabdea5df95484119471d50",
+      "compactSha256": "d1ccc0f030764053975aa286e537b874a6deadfdc3f6de08ea76408f20be26bf"
+    },
+    {
+      "id": "deity-enki",
+      "kind": "unit",
+      "stem": "unit-deity-enki",
+      "file": "unit-deity-enki.png",
+      "compactFile": "unit-deity-enki-compact.png",
+      "tradition": "Mesopotamian",
+      "authoredCanvas": [
+        128,
+        128
+      ],
+      "compactCanvas": [
+        64,
+        64
+      ],
+      "colors": 25,
+      "source": "deity-enki-subject.png",
+      "quadrant": null,
+      "sourceFlipped": false,
+      "authoredFacing": "east",
+      "sha256": "873bb94bdd446193c5be75d7e8456de9920e14194e0c268d8959ae4a795288dc",
+      "compactSha256": "9a0ee5db61685e72eb80230d62f12aa409a94efbf4e4379aeab4435a3c58ed25"
+    }
+  ]
+}
