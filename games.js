@@ -8,6 +8,14 @@
 //   added  - date (YYYY-MM-DD), newest show first
 const GAMES = [
   {
+    slug: "debts-descent",
+    title: "Debts Descent",
+    emoji: "🪙",
+    blurb: "A raycast dungeon crawl about debt, gold, and how deep you'll carry it. Mind the toll.",
+    color: "#e0a030",
+    added: "2026-10-05",
+  },
+  {
     slug: "idols-of-dust",
     title: "Idols of Dust",
     emoji: "🗿",
